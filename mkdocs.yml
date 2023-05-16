@@ -3,8 +3,6 @@ site_name: PM516
 site_author: Trevor Pickering
 # site_url: [link]
 
-copyright: Copyright &copy; 2023 Someone
-
 theme: 
   name: material
   language: en
