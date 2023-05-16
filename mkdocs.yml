@@ -29,13 +29,13 @@ plugins:
   - search
 
 extra:
-#  social:
+  social:
     # - icon: fontawesome/brands/github 
     #   link: https://cirquedusoleil.com
     # - icon: fontawesome/brands/linkedin
     #   link: [linkedin]
-    # - icon: fontawesome/solid/paper-plane
-    #   link: [email]
+    - icon: fontawesome/solid/paper-plane
+      link: tpickeri@usc.edu
   generator: false
 
 markdown_extensions:
@@ -75,6 +75,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Syllabus: syllabus.md
+  - Schedule: schedule.md
   # - Research:
   #   - "A paper": research/a-paper.md
   # - Software:

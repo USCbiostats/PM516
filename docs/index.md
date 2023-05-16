@@ -2,8 +2,8 @@
 
 Seriously, this is a real class.
 
-[Syllabus](syllabus.md)
-
-## Schedule
-
 ## Contact
+
+Trevor Pickering
+Office: SSB 202W
+Email: [tpickeri@usc.edu](tpickeri@usc.edu)
