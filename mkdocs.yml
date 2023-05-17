@@ -72,7 +72,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Syllabus: syllabusa.md
+  - Syllabus: syllabus-a.md
   - Week 1: week1.md
   # - Research:
   #   - "A paper": research/a-paper.md
