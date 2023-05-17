@@ -2,16 +2,19 @@
 
 ## Complete Before Class
 
-📖 [Relationships & Interactions](https://magazine.amstat.org/blog/2009/09/01/heartofastatcareersept09/)<br />
+📖 [Relationships & Interactions](https://magazine.amstat.org/blog/2009/09/01/heartofastatcareersept09/)<br />  
+
 * List 3 mistakes you might make as a statistician that would lead to a breakdown in communication.
 * Imagine you are the client. (Other being a good data analyst) what qualities would you want your biostatistician to have?
 * What are the 5 recommended steps as part of a statistical consulting interaction?
 
-🎥 [Active Listening](https://www.youtube.com/watch?v=7wUCyjiyXdg)<br />
+🎥 [Active Listening](https://www.youtube.com/watch?v=7wUCyjiyXdg)<br />  
+
 * List 3 things somebody would do if they were *not* actively listening.
 * List 3 things somebody should do in order to engage in active listening.
 
-📖 [Tips That'll Make Others Open Up To You](tips-to-open.md)<br />
+📖 [Tips That'll Make Others Open Up To You](tips-to-open.md)<br />  
+
 * You will see that several themes from the prior readings appear in this article. That said, what are three key pieces of advice you will take from this week?
 
 📖 Textbook Chapters 2.1, 2.2
@@ -42,11 +45,13 @@ Ask your partner one of the following questions:
 ## Complete Before Class
 
 📖 [Statistical Consulting Clients: How to Get and Keep Them](https://stattrak.amstat.org/2022/02/01/statistical-consulting/)<br />
+
 * As a statistical consultant, how would you describe your "brand"?
 * What are some networking resources you could use for your business?
 
 📖 [What to Expect When You Consult A Statistician](https://community.amstat.org/cnsl/forclients/expect-content)<br />
-Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a statistical consultant).
+Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a statistical consultant).  
+
 * How well do you think you fit each of these qualities?
 * Rank these qualities from 1 to 11, where 1 indicates that you align with this quality the most, and 11 the least.
 * How do you think you can improve the qualities you are less comfortable with?
