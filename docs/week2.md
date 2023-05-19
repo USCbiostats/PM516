@@ -1,13 +1,15 @@
-# Week 2 (A) - Exploratory Analysis
+# Week 2 - Monday, May 29
 
-&#x27A4; We will not meet live due to **Memorial Day**.
-&#x27A4; This week we will review how to conduct exploratory analyses from a hypothetical study examining physical activity and diet.
-&#x27A4; The data dictionary is located [here](data_dictionary.xlsx)
-&#x27A4; The data file is located [here](adult_all.csv)
+## PM516A - Exploratory Analysis
 
-## Complete Outside of Class
+&#x27A4; We will not meet live due to **Memorial Day**.  
+&#x27A4; This week we will review how to conduct exploratory analyses from a hypothetical study examining physical activity and diet.  
+&#x27A4; The data dictionary is located [here](data_dictionary.xlsx).  
+&#x27A4; The data file is located [here](adult_all.csv).  
 
-### Data Quality Control Practice
+### Complete Outside of Class
+
+#### Data Quality Control Practice
 *Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.
 The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.*
 
@@ -17,7 +19,7 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 4.	Determine whether the outcomes of food intake or physical activity vary across the study groups (treatment vs. control groups).
 5.	Are there any other concerns you have about this data?
 
-### Group Debriefing
+#### Group Debriefing
 *Meet with your groups on your own time. Within your group, discuss what you found with regard to this week’s data quality exercise.*
 1.	Which techniques did you use to examine the data? 
 2.	Did your group members find anything unusual about the data that you didn’t find?
@@ -25,11 +27,11 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 4.	Compare your descriptive statistics to your group members’. Were there any discrepancies? If so, why do you think this happened? Did they treat the data differently than you did?
 
 
-# Week 2 (B) - Reproducibility
+## PM516B - Reproducibility
 
 &#x27A4; This week we will explore what it means to be replicable and reproducible.
 
-## Complete Outside of Class
+### Complete Outside of Class
 
 📖 [Data Science's Reproducibility Crisis](https://towardsdatascience.com/data-sciences-reproducibility-crisis-b87792d88513)
 
@@ -37,3 +39,12 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 * If you provided this code to another student in your group, would they be able to replicate the analysis you performed?
 * What can you do to help others reproduce, and replicate, your analysis?
 * In your own words, what is the difference between replication and reproduction?
+
+### Optional Readings
+📖 [Keeping A Paper Trail: Data Management Skills for Reproducible Science](https://laskowskilab.faculty.ucdavis.edu/2020/08/03/keeping-a-paper-trail-data-management-skills-for-reproducible-science/)  
+
+📖 [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html)
+
+📖 [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
+
+📖 [80 Characters Per Line is A Standard Worth Sticking To Even Today](https://nickjanetakis.com/blog/80-characters-per-line-is-a-standard-worth-sticking-to-even-today)

@@ -1,6 +1,10 @@
-# Week 1 (A)
+# Week 1 - Monday, May 22
 
-## Complete Before Class
+## PM516A - Communication
+
+&#x27A4; This week we will practice how to improve communication during a consultation, ask good questions, and build rapport with the client.
+
+### Complete Before Class
 
 📖 [Relationships & Interactions](https://magazine.amstat.org/blog/2009/09/01/heartofastatcareersept09/)<br />  
 
@@ -19,9 +23,9 @@
 
 📖 Textbook Chapters 2.1, 2.2
 
-## Complete During Class
+### Complete During Class
 
-### Communication Exercise
+#### Communication Exercise
 *Quality statistical consulting happens when there is a connection between the statistician and collaborator. One of the ways to facilitate this connection is the asking of “good questions” – those that are open-ended and allow the client a chance to tell their story freely.*  
 
 Ask your partner one of the following questions:
@@ -34,15 +38,17 @@ Ask your partner one of the following questions:
 
 * Ask your partner about their favorite movie or television show. Have them explain the plot to you and ask them what aspects of the show they like the best. Make sure you know enough about the plot that you can explain it to others, as well as why it is a great show or movie.
 
-### Communication Debriefing
+#### Communication Debriefing
 
 1. Aside from the given question, did you discover any additional interesting information about your partner? What was this information?
 2. What strategies did you use to get your partner to open up to you? Which of these did you find most effective?
 
 
-# Week 1 (B)
+## PM516B - The Practice of Biostatistical Consulting
 
-## Complete Before Class
+&#x27A4; This week we will consider qualities of a good consultant and review consulting vignettes.
+
+### Complete Before Class
 
 📖 [Statistical Consulting Clients: How to Get and Keep Them](https://stattrak.amstat.org/2022/02/01/statistical-consulting/)<br />
 
@@ -58,9 +64,9 @@ Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a 
 
 📖 Textbook Chapter 1
 
-## Complete During Class
+### Complete During Class
 
-### Consulting Vignettes 
+#### Consulting Vignettes 
 
 1. [When Statistical Consulting Goes Wrong](https://www.youtube.com/watch?v=W4PI8Y49Q_s&t=101s)  
    1a. How would you concisely describe the tips that Chanel gives in the video?  

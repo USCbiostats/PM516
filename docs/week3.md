@@ -1,39 +1,51 @@
-# Week 2 (A) - Exploratory Analysis
+# Week 3 - Monday, June 5
 
-&#x27A4; We will not meet live due to **Memorial Day**.
-&#x27A4; This week we will review how to conduct exploratory analyses from a hypothetical study examining physical activity and diet.
-&#x27A4; The data dictionary is located [here](data_dictionary.xlsx)
-&#x27A4; The data file is located [here](adult_all.csv)
+## PM516A - Practice Consultations
 
-## Complete Outside of Class
+&#x27A4; This week we will practice consulting via roleplaying exercises.  
+&#x27A4; In preparation, we will review some statistical consulting vignettes.
 
-### Data Quality Control Practice
-*Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.
-The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.*
+### Complete Before Class
 
-1.	Examine the 3 measures of physical activity: accelerometer, ARIZONA survey, and participant survey. Check their distributions for any anomalies and investigate how strongly these measures correlate with each other.
-2.	Examine the measure of food intake from the BLOCK survey. Check the distributions of daily calories consumed, as well as grams of each macronutrient, for any anomalies. Construct variables that indicate the percent of calories in a person’s diet from each macronutrient.
-3.	Examine the distribution of BMI for any anomalies. Determine whether BMI is associated with any of the measures of physical activity or food intake.
-4.	Determine whether the outcomes of food intake or physical activity vary across the study groups (treatment vs. control groups).
-5.	Are there any other concerns you have about this data?
+🎥 [Stereotypical Views of Statisticians](https://www.youtube.com/watch?v=dx_W1Azvpf8/)<br />  
 
-### Group Debriefing
-*Meet with your groups on your own time. Within your group, discuss what you found with regard to this week’s data quality exercise.*
-1.	Which techniques did you use to examine the data? 
-2.	Did your group members find anything unusual about the data that you didn’t find?
-3.	Which statistical software did your group members use? Why did they use that software? Ask them to explain why they use the program they do.
-4.	Compare your descriptive statistics to your group members’. Were there any discrepancies? If so, why do you think this happened? Did they treat the data differently than you did?
+* Do you think the statistician’s anecdote about her mistake was an effective way to communicate with the researcher? Why or why not?
+* What do you think the statistician did well, and what could be improved in this conversation?
 
 
-# Week 2 (B) - Reproducibility
+🎥 [Biologist Talks to A Statistician](https://www.youtube.com/watch?v=Hz1fyhVOjr4)<br />  
 
-&#x27A4; This week we will explore what it means to be replicable and reproducible.
+* Do you agree with the statistician’s approach to this interaction? If not, what would you have changed?
+* Think back to the discussion from Week 1 on communication breakdowns. What are some techniques you can think of that would help reduce the misunderstanding between the statistician and researcher in this interaction?
+  
 
-## Complete Outside of Class
+### Complete During Class
 
-📖 [Data Science's Reproducibility Crisis](https://towardsdatascience.com/data-sciences-reproducibility-crisis-b87792d88513)
+#### Practice Consultations
+* What was the investigator's primary research question?
+* What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
+* What type of analysis do you think should be performed?
+* Provide your impressions on how the consultation went. Did anything stand out to you?
 
-* Consider an analysis you performed in the past (e.g., for a class project). Examine the code you wrote for that project. Looking back, can you understand what your code does?
-* If you provided this code to another student in your group, would they be able to replicate the analysis you performed?
-* What can you do to help others reproduce, and replicate, your analysis?
-* In your own words, what is the difference between replication and reproduction?
+
+
+
+
+## PM516B - Practice Consultations
+
+&#x27A4; This week we will practice consulting via roleplaying exercises.
+&#x27A4; We will also review some techniques that will help you improve the quality of your consultation.
+
+### Complete Before Class
+
+📖 Textbook Chapter 4.1 - 4.4
+* What information do you think you should know before a consultation? List at least three things you may want to ask the client for, and why you think they are important.
+* What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
+
+### Complete During Class
+
+#### Practice Consultations
+* What was the investigator's primary research question?
+* What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
+* What type of analysis do you think should be performed?
+* Provide your impressions on how the consultation went. Did anything stand out to you?
