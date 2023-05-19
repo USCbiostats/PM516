@@ -1,13 +1,14 @@
-Monday, June 19
-# Week 5 (A) - Beginning the Analysis
+# Week 5 - Monday, June 19
+
+## PM516A - Beginning the Analysis
 
 &#x27A4; We will not meet live due to **Juneteenth**.  
 &#x27A4; This week we will reflect on the analysis to be performed and begin running the analysis.  
 
 
-## Complete Outside of Class
+### Complete Outside of Class
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 
 📖 [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 
@@ -18,18 +19,18 @@ Monday, June 19
 * Draft a table and a figure that you think illustrates an important finding.
 
 
-### Research Design and Statistical Hypotheses
+#### Research Design and Statistical Hypotheses
 📖 [Choosing the Right Statistical Test](https://onlinelibrary.wiley.com/doi/full/10.5694/mja17.00422)
 
 * Write out the investigator's research questions in the form of testable statistical hypotheses.
 * Which types of tests will you use to test these hypotheses?
 
 
-# Week 5 (B) - Beginning the Analysis
+## PM516B - Beginning the Analysis
 
 &#x27A4; This week we will explore what it means to be replicable and reproducible.
 
-## Complete Outside of Class
+### Complete Outside of Class
 
 📖 Textbook 4.7 - 4.8
 
