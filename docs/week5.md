@@ -1,8 +1,8 @@
 Monday, June 19
 # Week 5 (A) - Beginning the Analysis
 
-&#x27A4; We will not meet live due to **Juneteenth**.
-&#x27A4; This week we will reflect on the analysis to be performed and begin running the analysis.
+&#x27A4; We will not meet live due to **Juneteenth**.  
+&#x27A4; This week we will reflect on the analysis to be performed and begin running the analysis.  
 
 
 ## Complete Outside of Class
