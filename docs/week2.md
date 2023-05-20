@@ -10,6 +10,7 @@
 ### Complete Outside of Class
 
 #### Data Quality Control Practice
+
 *Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.
 The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.*
 
@@ -20,11 +21,17 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 5.	Are there any other concerns you have about this data?
 
 #### Group Debriefing
+
 *Meet with your groups on your own time. Within your group, discuss what you found with regard to this week’s data quality exercise.*
-1.	Which techniques did you use to examine the data? 
-2.	Did your group members find anything unusual about the data that you didn’t find?
-3.	Which statistical software did your group members use? Why did they use that software? Ask them to explain why they use the program they do.
-4.	Compare your descriptive statistics to your group members’. Were there any discrepancies? If so, why do you think this happened? Did they treat the data differently than you did?
+
+1. Which techniques did you use to examine the data? 
+2. Did your group members find anything unusual about the data that you didn’t find?
+3. Which statistical software did your group members use? Why did they use that software? Ask them to explain why they use the program they do.
+4. Compare your descriptive statistics to your group members’. Were there any discrepancies? If so, why do you think this happened? Did they treat the data differently than you did?
+
+### Optional Readings
+
+📖 [Ten Simple Rules for Initial Data Analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819)
 
 
 ## PM516B - Reproducibility
