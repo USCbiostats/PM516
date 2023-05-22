@@ -10,7 +10,8 @@ PM516A/B: Statistical Problem Solving
 This course serves as an introduction to biostatistical consulting, and will help statisticians and data analysts develop the necessary skills for successfully interacting with non-statistician collaborators. We will focus on two main goals: 1) developing qualities necessary for an effective statistical consultant and 2) working with an investigator on an actual analysis problem (determining research questions and scope, formulaating and implementing our aalyses, and conveying our findings).
 
 ### Learning Objectives
-Through this course, students will become familiar with the process of statistical consulting. Students will learn:
+Through this course, students will become familiar with the process of statistical consulting. Students will learn:  
+
 * To explain the importance of statistical consulting and its usefulness in the public health environment
 * How to improve their understanding of an unfamiliar topic and translate researchers' questions into a statistically testable set of hypotheses
 * To choose the best statistical approach for answering a collaborator's questions

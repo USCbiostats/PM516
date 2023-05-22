@@ -9,7 +9,7 @@
 
 ### Complete Outside of Class
 
-#### Data Quality Control Practice
+#### Data Quality Control Exercise
 
 *Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.
 The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.*
@@ -20,7 +20,7 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 4.	Determine whether the outcomes of food intake or physical activity vary across the study groups (treatment vs. control groups).
 5.	Are there any other concerns you have about this data?
 
-#### Group Debriefing
+#### Group Debriefing of Quality Control Exercise
 
 *Meet with your groups on your own time. Within your group, discuss what you found with regard to this week’s data quality exercise.*
 
@@ -40,12 +40,14 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 
 ### Complete Outside of Class
 
+#### Reproducibility and Replicability
+
 📖 [Data Science's Reproducibility Crisis](https://towardsdatascience.com/data-sciences-reproducibility-crisis-b87792d88513)
 
-* Consider an analysis you performed in the past (e.g., for a class project). Examine the code you wrote for that project. Looking back, can you understand what your code does?
-* If you provided this code to another student in your group, would they be able to replicate the analysis you performed?
-* What can you do to help others reproduce, and replicate, your analysis?
-* In your own words, what is the difference between replication and reproduction?
+1. Consider an analysis you performed in the past (e.g., for a class project). Examine the code you wrote for that project. Looking back, can you understand what your code does?
+2. If you provided this code to another student in your group, would they be able to replicate the analysis you performed?
+3. What can you do to help others reproduce, and replicate, your analysis?
+4. In your own words, what is the difference between replication and reproduction?
 
 ### Optional Readings
 📖 [Keeping A Paper Trail: Data Management Skills for Reproducible Science](https://laskowskilab.faculty.ucdavis.edu/2020/08/03/keeping-a-paper-trail-data-management-skills-for-reproducible-science/)  
