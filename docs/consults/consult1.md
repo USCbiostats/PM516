@@ -1,5 +1,7 @@
 # Practice Consultation 1 <br />Commercial Viewership
 
+*Adapted from Taplin 2007*
+
 ## Opening Statement
 
 I’m in a research group that collaborates with First 5 LA, an organization that promotes health in the first 5 years of life. We have been working on a new advertisement targeted at parents of children under age 5 that will run on television. One of the requirements given to us by First 5 LA is that, of people watching television, over 10% must watch the entire advertisement.  

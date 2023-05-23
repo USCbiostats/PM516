@@ -9,23 +9,23 @@
 
 🎥 [Stereotypical Views of Statisticians](https://www.youtube.com/watch?v=dx_W1Azvpf8/)<br />  
 
-* Do you think the statistician’s anecdote about her mistake was an effective way to communicate with the researcher? Why or why not?
-* What do you think the statistician did well, and what could be improved in this conversation?
+1. Do you think the statistician’s anecdote about her mistake was an effective way to communicate with the researcher? Why or why not?
+2. What do you think the statistician did well, and what could be improved in this conversation?
 
 
 🎥 [Biologist Talks to A Statistician](https://www.youtube.com/watch?v=Hz1fyhVOjr4)<br />  
 
-* Do you agree with the statistician’s approach to this interaction? If not, what would you have changed?
-* Think back to the discussion from Week 1 on communication breakdowns. What are some techniques you can think of that would help reduce the misunderstanding between the statistician and researcher in this interaction?
+3. Do you agree with the statistician’s approach to this interaction? If not, what would you have changed?
+4. Think back to the discussion from Week 1 on communication breakdowns. What are some techniques you can think of that would help reduce the misunderstanding between the statistician and researcher in this interaction?
   
 
 ### Complete During Class
 
 #### Practice Consultations
-* What was the investigator's primary research question?
-* What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
-* What type of analysis do you think should be performed?
-* Provide your impressions on how the consultation went. Did anything stand out to you?
+1. What was the investigator's primary research question?
+2. What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
+3. What type of analysis do you think should be performed?
+4. Provide your impressions on how the consultation went. Did anything stand out to you?
 
 
 
@@ -39,13 +39,13 @@
 ### Complete Before Class
 
 📖 Textbook Chapter 4.1 - 4.4
-* What information do you think you should know before a consultation? List at least three things you may want to ask the client for, and why you think they are important.
-* What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
+1. What information do you think you should know before a consultation? List at least three things you may want to ask the client for, and why you think they are important.
+2. What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
 
 ### Complete During Class
 
 #### Practice Consultations
-* What was the investigator's primary research question?
-* What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
-* What type of analysis do you think should be performed?
-* Provide your impressions on how the consultation went. Did anything stand out to you?
+1. What was the investigator's primary research question?
+2. What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
+3. What type of analysis do you think should be performed?
+4. Provide your impressions on how the consultation went. Did anything stand out to you?

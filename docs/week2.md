@@ -24,10 +24,10 @@ The “adult_all.csv” file contains data from an intervention attempting to im
 
 *Meet with your groups on your own time. Within your group, discuss what you found with regard to this week’s data quality exercise.*
 
-1. Which techniques did you use to examine the data? 
-2. Did your group members find anything unusual about the data that you didn’t find?
-3. Which statistical software did your group members use? Why did they use that software? Ask them to explain why they use the program they do.
-4. Compare your descriptive statistics to your group members’. Were there any discrepancies? If so, why do you think this happened? Did they treat the data differently than you did?
+6. Which techniques did you use to examine the data? 
+7. Did your group members find anything unusual about the data that you didn’t find?
+8. Which statistical software did your group members use? Why did they use that software? Ask them to explain why they use the program they do.
+9. Compare your descriptive statistics to your group members’. Were there any discrepancies? If so, why do you think this happened? Did they treat the data differently than you did?
 
 ### Optional Readings
 

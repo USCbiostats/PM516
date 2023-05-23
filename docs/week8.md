@@ -8,6 +8,9 @@
 
 #### Communicating Results
 
+📖 [The Adept Method](https://betterexplained.com/articles/adept-method/)
+* Pick two results you will be presenting and apply the ADEPT method to them.
+
 📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf)<br />  
 
 * Which statistical concept are you most unfamiliar with, that you think would be better expalined with an analogy?

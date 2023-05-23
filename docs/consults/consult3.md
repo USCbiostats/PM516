@@ -1,5 +1,7 @@
 # Practice Consultation 3 <br />Lunch at HSC
 
+*Adapted from Taplin 2007*
+
 ## Opening Statement
 
 I work at the Soto Street Building and only have 60 minutes for my lunch break. Therefore, I need to determine which places give me faster service, and which locations will allow me to return within 60 minutes.  
@@ -37,8 +39,10 @@ TBD, but probably the length of time from leaving the desk until returning.
 
 ### Time
 
-2020 vs. 2015
+NA
+
+7. <u>When do you go to lunch?</u> I suppose I can leave around 11:30 - noonish.
 
 ### Thoughts
 
-<font color = #ef0000>I’d suggest constructing a 2x2 table for year-by-toy type (yes vs. no). There would be 6 separate 2x2 tables that you could perform chi-square tests on. The data is stratified by gender, but it’s not clear from the investigator if gender is an effect they want to examine (that would be a great question to ask!).</font>
+<font color = #ef0000>There are several possible study designs that might address this question. One possibility is to recruit people to participate in the study - maybe 3-12 people per day who each go to a different location for lunch, and have them repeat this each day for a couple weeks. Then you could build a distribution of the times it would take to eat at each of the places.</font>

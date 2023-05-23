@@ -25,10 +25,10 @@ Prerequisites: PM510 or equivalent course  (this course assumes familiarity with
 ## Course Requirements
 
 ### Communication
-Blackboard (data sets, assignment submission), website (course materials), USC e-mail and Slack (communication)
+Blackboard (data sets, assignment submission), website (course materials), USC e-mail and Slack (communication). Because the class covers aspects of consulting, including face-to-face interactions, <u>please practice having your webcam on during class.</u>
 
 ### Textbook
-Cabrera J, McDougall A. Statistical Consulting. SPringer Science & Business Media; 2002 Jan 2.
+Cabrera J, McDougall A. Statistical Consulting. Springer Science & Business Media; 2002 Jan 2.
 
 ### Required Software
 Students must have proficiency in at least one statistical program, but may choose which to use for this course (e.g., R, SAS, Stata, SPSS).

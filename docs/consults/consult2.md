@@ -1,5 +1,7 @@
 # Practice Consultation 2 <br />Toys and the Times
 
+*Adapted from Taplin 2007*
+
 ## Opening Statement
 
 I’m a PhD student studying exposure to violence and childhood development. With the recent events of the past couple years, I’m wondering if the toys that children play with have changed.  

@@ -44,6 +44,25 @@ NA
 
 9. <u>Did each participant come in only once, and were BMI and GRDO assessed at the same time?</u> Each child had only one visit to the lab where hormone levels and BMI were assessed.
 
+```
+   child_id   bmi_z  grdo
+      <int>   <dbl> <dbl>
+ 1        1  0.770   4.47
+ 2        2  0.308   3.54
+ 3        3  0.357   5.35
+ 4        4 -0.617   3.58
+ 5        5 -0.442   3.60
+ 6        6  0.679   5.09
+ 7        7 -0.528   2.93
+ 8        8  1.26    5.19
+ 9        9  0.907   6.18
+10       10  0.266   4.53
+11       11  0.667   4.78
+12       12  0.0202  2.22
+13       13 -0.189   3.45
+```
+
+
 ### Thoughts
 
 <font color = #ef0000>The study team wants to demonstrate that GRDO increases fat. 1) They did not measure fat; only BMI which is a measure of weight. 2) This study can suggest causation but since it is cross-sectional one should not conclude causality between the variables. There are some flaws in the study design (e.g., not standardizing the time of day that GRDO levels were taken). A significant correlation between GRDO and BMI-Z demonstrating that they are related is as much as one can conclude.</font>

@@ -1,75 +1,51 @@
-# Practice Consultation 5 <br />Stress Reduction
+# Practice Consultation 6 <br />Particulates in Surgery
 
 ## Opening Statement
 
-I’m currently a research assistant in a group that examines the effect of stress on college students. We are looking at ways of reducing stress in these college students and want to see the effect of a couple different types of treatments.  
-First, we want to see if there is an effect of Ashwagandha root; this supplement has been shown to reduce stress and anxiety in some medical literature. 
-Secondly, we want to see if daily meditation can help reduce stress over the long-term.  
-Third, we want to see if a technique called “Day Design” can help these students reduce stress. There is a protocol for this method, which gets the participant to plan their day out in scheduled periods of productivity and relaxation.  
-How can we set up an experiment to see if these methods work? We could probably recruit about 60 participants.
+I’m a doctor that is involved with dental surgery at USC. In one of our studies, we examined the amount of particulate matter that builds up in our operating room over the course of our procedures. We’ve already analyzed the data and written up the results, but we want some help responding to reviewer comments.  
+Our main goal was to determine how much particulate matter increases in the operating room during these procedures. We used an optical particle counter placed in the room (60cm from the procedure site on the surgeon’s left) and recorded the particulate levels before and during surgery.  
+We submitted this as a paper but one of the reviewers was really concerned about the statistics. We used t-tests to compare particulate matter before and during surgery – however, one reviewer said that since we examined many different particle types, we should use an ANOVA. I also heard we could use a paired t-test. So—how can we determine whether particulate matter increased during surgery?
 
 ## Debriefing
 
 ### Population
 
-Intended: College students.  
-Actual: TBD.  
+Intended: All patients that undergo oral surgery.  
+Actual: Patients that underwent oral surgery at USC.
 
-1. <u>How will you recruit these participants?</u> We were thinking of recruiting them from psychology classes at USC. Is that bad? <font color = #ff8c00>*College students at USC, and students in psychology classes, might not be representative of all students who will be treated.*</font>
+1. <u>Were all patients undergoing the same procedure?</u> No. Generally there were 4 different categories of procedures, but we didn't look at procedure type. <font color = #ff8c00>*Particulate matter could vary based on procedure type.*</font>
+2. <u>How many patients did you examine?</u> We examined 58 total surgeries, but our sample size is 2,784 because of all the readings. <font color = #ff8c00>*In this case, the unit of analysis should really be the person/procedure and not the individual sensor reading.*</font>
 
 ### Intervention
 
-One of three treatment conditions: ASH, MED, DAY. 
+NA 
 
-2. <u>How will you assign participants to treatment condition?</u> We don't know. Can you help with this?
-3. <u>Will participants be assigned to only one condition, or will they receive all conditions (i.e., a cross-over design)?</u> We probably only have enough time and resources to assign each participant to one condition. <font color = #ff8c00>*There are a couple different study designs. This rules out doing a within-subject design (where each participant is administered all treatments).*</font>
-4. <u>What if the participants already engage in some of these activities?</u> There's no way to account for other stress reduction techniques the students may be performing on their own. <font color = #ff8c00>*You could make this an exclusion criteria.*</font>
-5. <u>Could you tell me about the ASH condition?</u> There are standard supplements the students will be instructed to take daily for 2 weeks.
-6. <u>Could you tell me about the MED condition?</u> There is an app the students will install on their device and perform daily 10-minute meditation sessions.
-7. <u>Could you tell me about the DAY condition?</u> There is a YouTube video the participants will watch and a daily planner they will write in.
-8. <u>What will you do if a participant doesn't adhere to their treatment?</u> Good question. I don't know. What should we do?
+3. <u>How long were the surgeries?</u> The surgery length ranged from a couple of minutes to about 60 minutes. But we didn't record this data. We just put all the pre-surgery measurements into the "before" group and all the during-surgery measurements into the "after" group. <font color = #ff8c00>*BIG problem! If they pooled all observations together, this means that longer surgeries will be overrepresented. Furthermore, the effect of "build-up" of particulate matter should be assessed.*</font>
+4. <u>What is the air filtration system like in these rooms?</u> The air filtration system we have fully cycles the air in the room every 3-4 minutes.
+5. <u>Who performed the surgeries?</u> It could have been any of our surgeons. <font color = #ff8c00>*Particulate matter may vary based on something the surgeon routinely does.*</font>
+6. <u>What time of day were the surgeries performed?</u> Most of these surgeries were performed in the morning, but it could have been any time of day. <font color = #ff8c00>*Particulate matter may be different at different times of the day.*</font>
 
 ### Comparison
 
-Three treatment conditions, no control.  
+Ambient particulate matter during surgery was compared to pre-surgery.
 
-9. <u>You didn't plan for a control group - why is that?</u> We only have the resources for about 60 participants and adding a control group would make us have about 80... right?
-10. <u>You really should have a control group...?</u> Why? The goal is to get participants to reduce their stress levels, so it doesn't make sense to have a group that doesn't receive treatment. <font color = #ff8c00>*A control group would be necessary to ensure that any stress reduction effect was actually due to the treatment and not due to some outside force (e.g., USC implementing free meditation to all students).*</font>
+7. <u>What was compared in your analysis, exactly?</u> We performed an independent samples t-test comparing all pre-surgery observations to all during-surgery observations.
 
 ### Outcome
 
-GRDO levels and BMI Z-score.
+Amount of particulate matter.
 
-5. <u>Why are BMI-Z scores used instead of BMI?</u> BMI Z-scores are used in children instead of absolute BMI because they are more meaningful. The BMI Z-score reflects the age- and sex-specific Z-score corresponding to the child's BMI. <font color = #ff8c00>*Knowing why the outcome is used can help with statistical modeling. You won’t necessarily need to adjust for age and sex if age- and sex-specific z-scores are used.*</font>
-6. <u>Your hyothesis is that GRDO increases fat tissue - does BMI measure fat? Do you have a measure that does assess this?</u> BMI Z-scores reflect the child’s height and weight, but don’t actually measure how fat is distributed in children’s bodies. We would need a DXA scan to obtain that information.
-7. <u>Does GRDO vary throughout the day?</u> Perhaps, but it was difficult to get children to participate in this study so we measured them whenever their parents could bring them in.
-8. <u>Were the children fasting?</u> Not necessarily. Even though children may have eaten before the blood test, GRDO levels should not be affected by recently-eaten food.
+8. <u>You said that you had many different particle types?</u> Yes, we did look at 5 different types of particles depending on their size (&lt;1.0, 1.0-2.5, 2.5-5.0, 5.0-10.0, and 10.0-25.0 µm). We ran a t-test for each of these.
 
 ### Time
 
-NA
+Measurements were taken multiple times during each surgery.
 
-9. <u>Did each participant come in only once, and were BMI and GRDO assessed at the same time?</u> Each child had only one visit to the lab where hormone levels and BMI were assessed.
-
-```
-   child_id   bmi_z  grdo
-      <int>   <dbl> <dbl>
- 1        1  0.770   4.47
- 2        2  0.308   3.54
- 3        3  0.357   5.35
- 4        4 -0.617   3.58
- 5        5 -0.442   3.60
- 6        6  0.679   5.09
- 7        7 -0.528   2.93
- 8        8  1.26    5.19
- 9        9  0.907   6.18
-10       10  0.266   4.53
-11       11  0.667   4.78
-12       12  0.0202  2.22
-13       13 -0.189   3.45
-```
+9. <u>How many times did you assess particulate counts during surgery?</u> We took a baseline measurement and then particulate counts during surgery were ascertained in 15-second sampling intervals.
+10. <u>Did you analyze the effect of time?</u> No. And honestly even though we have multiple measurements throughout the surgery, we didn't record the time for each measurement.
+11. <u>Is there any way you can ascertain time somehow?</u> No. We don't have the resources for that. We just want to respond to the reviewers and show the community that particulate counts increased during surgery.
 
 
 ### Thoughts
 
-<font color = #ef0000>The study team wants to demonstrate that GRDO increases fat. 1) They did not measure fat; only BMI which is a measure of weight. 2) This study can suggest causation but since it is cross-sectional one should not conclude causality between the variables. There are some flaws in the study design (e.g., not standardizing the time of day that GRDO levels were taken). A significant correlation between GRDO and BMI-Z demonstrating that they are related is as much as one can conclude.</font>
+<font color = #ef0000>Yikes. There should be a time series analysis of how particulate matter changes, but unfortunately the data is not there. At a minimum, they shouldn’t pool everyone’s readings together. I’d take every operation’s baseline value and compare it to the mean value during surgery using a paired t-test. Depending on the sample size, we could explore stratifying by procedure type. We would conduct a paired samples t-test comparing pre-surgery to during-surgery for each of the particulate sizes. The reviewer’s concern could be addressed by performing a false discovery rate correction of the p-values. </font>

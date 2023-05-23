@@ -1,5 +1,7 @@
 # Practice Consultations
 
+The following represent hypothetical scenarios in which an investigator seeks biostatistical consulting. The problem statement is given, as well as the answers to several questions the biostatistician could ask. The questions are examined through the lens of the PICOT framework.
+
 1. [Commercial Viewership](consults/consult1.md) - *First 5 LA wants to know the time at which 75% of people are still watching a commercial.* (Analysis)
 2. [Toys and the Times](consults/consult2.md) - *A PhD student wants to know if children play with different toys nowadays.* (Analysis)
 3. [Lunch at HSC](consults/consult3.md) - *An employee at the Soto Street Building wants to know where they can eat lunch within 60 minutes.* (Study Design)

@@ -1,54 +1,32 @@
-# Week 8 - Monday, July 10
+# Week 9 - Monday, July 17
 
-## PM516A - Communicating Results
+## PM516A - Open Session
 
-&#x27A4; This week we will learn ways to effectively communicate results of your statistical analysis.
-
-### Complete Before Class
-
-#### Communicating Results
-
-📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf)<br />  
-
-* Which statistical concept are you most unfamiliar with, that you think would be better expalined with an analogy?
-* Which of the analogies did you feel was most effective? Why?
-
-📖 [Communicating Statistics to Nonstatisticians](https://stattrak.amstat.org/2016/08/01/nonstatisticians/)<br /> 
-
-* List the two most important questions you think that the investigator will expect to have answered by your presentation.
-* List two important pieces of information that you will need to convey, that the investigator might not have thought about.
-
-#### Preliminary Presentation
-
-* Have a draft presentation (~10 minutes) ready to share with class.
+&#x27A4; This week will be an open question & answer session in preparation of next week's presentation.
 
 
+##  PM516B - Statistical Writing
 
-##  PM516B - Ethics
-
-&#x27A4; This week we will discuss ethical considerations for statistical consulting.
+&#x27A4; This week we will improve our statistical writing and ensure our report contains all the statistical information needed for a manuscript.
 
 ### Complete Before Class
 
-#### Ethics
+#### Manuscript Checklists
 
-📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)<br />  
+📖 [STROBE Checklist for Observational Studies](https://www.equator-network.org/reporting-guidelines/strobe/)<br /> 
+ 
+📖 [CONSORT Checklist for Randomized Trials](https://www.equator-network.org/reporting-guidelines/consort/) 
 
-* Bohannon’s study had small sample size, they didn’t bother to balance age and gender across treatment groups, they examined multiple possible outcomes, and they didn’t report that at the termination of the study the two groups had lost the same amount of weight. Which of these faults is the biggest concern for you and why?
-* Journalists are pressured to write on interesting, sensational stories (think of all the “click bait” on the internet). Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” That said, who has the most responsibility in ensuring that a study’s findings are reported accurately?
+* Based on the study design, would you use the CONSORT or STROBE checklist for this study?
+* As a statistician, which of the items on the checklist will you be responsible for?
+* Verify that all these items are addressed in your final report.
 
-🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM)
-* Who stands most to lose in cases when inaccurate or misleading studies are published?
+#### Review
 
-#### Preliminary Report
+* Your analysis report will be distributed to another classmate for constructive feedback.
 
-* Create a draft of your analysis report.
+### Optional Reading
 
+📖 [Nine Basic Ways to Improve Your Style In Academic Writing](https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/nine-basic-ways-improve-your-style-academic-writing) <br />
 
-### Complete During Class
-
-#### Ethics Case Studies
-
-### Optional Readings
-
-📖 [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice)
+📖 [Duke Graduate School Scientific Writing Resource](https://sites.duke.edu/scientificwriting/)
