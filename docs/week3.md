@@ -22,6 +22,7 @@
 ### Complete During Class
 
 #### Practice Consultations
+
 1. What was the investigator's primary research question?
 2. What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
 3. What type of analysis do you think should be performed?
@@ -39,12 +40,14 @@
 ### Complete Before Class
 
 📖 Textbook Chapter 4.1 - 4.4
+
 1. What information do you think you should know before a consultation? List at least three things you may want to ask the client for, and why you think they are important.
 2. What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
 
 ### Complete During Class
 
 #### Practice Consultations
+
 1. What was the investigator's primary research question?
 2. What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?
 3. What type of analysis do you think should be performed?
