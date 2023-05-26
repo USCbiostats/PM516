@@ -11,13 +11,13 @@
 🎥 [Statisical Consulting: A Success Story](https://www.youtube.com/watch?v=sfuQTEhsDRM)  
 
 
-1. In the "session gone awry" the consultant displayed several behaviors that are likely to lead to a breakdown.
+- In the "session gone awry" the consultant displayed several behaviors that are likely to lead to a breakdown.
 
    + List 3 behaviors the statistician engaged in that demonstrate he was not actively listening.
    + List 3 behaviors the statistician engaged in that were rude or condescending.
    + List 2 statistical concepts the statistician referred to that appeared to confuse the client.
 
-2. In the "success story" the statistician was able to get the client to open up to him. Consider the tips from this week's reading. For each, give an example of something the statistican did to demonstrate this quality.
+- In the "success story" the statistician was able to get the client to open up to him. Consider the tips from this week's reading. For each, give an example of something the statistican did to demonstrate this quality.
    
    + Ask open-ended questions
    + Be an active listener
