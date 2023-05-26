@@ -17,6 +17,7 @@
    * The comparison/control group?
    * The outcome of this study?
    * If time is an important component?
+  
 2. What else would you want to know about the research question? Think about general information about the study, the variables being used, and the target population.
 3. Do you have an idea of a type of analysis you could perform? What additional information do you think you might need from the client?
 4. Is it clear what the investigator’s goal for this study is (e.g., an abstract submission, a manuscript, etc.)? Do you know the deadlines the client has?
@@ -45,6 +46,7 @@
    * The comparison/control group?
    * The outcome of this study?
    * If time is an important component?
+
 2. What else would you want to know about the research question? Think about general information about the study, the variables being used, and the target population.
 3. Do you have an idea of a type of analysis you could perform? What additional information do you think you might need from the client?
 4. Is it clear what the investigator’s goal for this study is (e.g., an abstract submission, a manuscript, etc.)? Do you know the deadlines the client has?
