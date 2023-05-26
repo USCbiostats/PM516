@@ -46,12 +46,14 @@ Students must have proficiency in at least one statistical program, but may choo
 Students will receive credit for the course if they achieve >80 points.  
 
 ### Late Submission Policy
-Many of the assignments pertai to preparation for in-class activities, so late assignments are not accepted. There may be opportunities to make up assignments in rare circumstances.
+Many of the assignments pertain to preparation for in-class activities, so late assignments are not accepted. There may be opportunities to make up assignments in rare circumstances.
 
 ### Description of Assessments
-**In-Class Activities** will focus on developing skills for statistical consultations (e.g., client-consultant role-playing, group discussion, interacting with an investigator, presenting results, etc.). There will be a worksheet each week to accompany these activities.  
-**Take-Home Activities** may include readings, reflections, and analyses for the project.  
-**The Final Project** will take the form of a presentation to address the researcher's question from the consultation.
+**Pre-Class Activities** should be completed before class meets as we will discuss this content during class and/or the content is necessary for understanding the in-class materials. This may include readings, videos, or analyses.  
+**In-Class Activities** will focus on developing skills for statistical consultations (e.g., client-consultant role-playing, group discussion, interacting with an investigator, presenting results, etc.) or other discussion-type questions.   
+**The Final Project** will take the form of a presentation to address the researcher's question from the consultation. In PM516a you will develop a presentation within groups and present it on the last day of class. In PM516b you will complete an analysis report and present it on the last day of class.  
+
+Please upload one document containing the responses to all of the week's questions by midnight on the day class meets (or would have met).
 
 ## Course Schedule
 | **A** | Topic |
