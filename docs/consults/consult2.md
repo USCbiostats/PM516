@@ -37,9 +37,9 @@ Children in 2015 vs. 2020.
 Types of toys (maybe? TBD).
 
 6. <u>Can you tell me more about the outcome?</u> We don’t know if we want the proportion or the total number of toys analyzed. We just want to know if children are playing with different kinds of toys in 2020 vs. 2015. <font color = #ff8c00>*There may be different ways to analyze this data, and the research question wasn't entirely clear about what the investigator was asking for.*</font>
-7. <u>Is the actual toy type/name recorded?</u> We can't categorize the toys beyond what is listed in our data table. FOr instance, we don't know whether a "doll" is specifically a GI Joe vs. a Barbie.
+7. <u>Is the actual toy type/name recorded?</u> We can't categorize the toys beyond what is listed in our data table. For instance, we don't know whether a "doll" is specifically a GI Joe vs. a Barbie.
 8. <u>Do you have any information about confounding variables like socioeconomic status (SES)?</u> The socioeconomic status of the students might be written down, but I don't have that information with me. <font color = #ff8c00>*Having additional information about covariates may affect the analysis.*</font>
-9. <u>Do you have the data so we can see how it was recorded?</u> We have a data sheet that has the average number of toys in each bedroom, for each year and sex.
+9. <u>Do you have the data so we can see how it was recorded?</u> We have a data sheet that has the number of children sampled that had a toy of the given type, for each year and sex.
 
 | Group | Dolls | Construction | War Toys | Role-play | Cars | Dress-ups | 
 | --- | --- | --- | --- | --- | --- | --- | 
