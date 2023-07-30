@@ -1,32 +1,23 @@
-# Week 9 - Monday, July 17
+# Week 9 - Monday, October 23
 
-## PM516A - Open Session
+## Presenting Statistical Information
 
-&#x27A4; This week will be an open question & answer session in preparation of next week's presentation.
+&#x27A4; This week we will look at ways to improve our tables and figures.
+
+### Before Class
+
+#### Improving Graphs & Figures
+
+📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf)
 
 
-##  PM516B - Statistical Writing
+📖 [Rudiments of Numeracy](https://www.jstor.org/stable/2344922)
 
-&#x27A4; This week we will improve our statistical writing and ensure our report contains all the statistical information needed for a manuscript.
+2. “Rudiments of Numeracy” lists six rules to follow when producing graphs and tables. Rule 6 concerns whether to produce a graph vs. a table. Consider the analyses you have performed thus far. For each, is it better to present them via text, a graph, or a table? Why?
 
-### Complete Before Class
+### Optional Readings
 
-#### Manuscript Checklists
+📖 [How to Design Terrible Graphs](https://www.freecodecamp.org/news/how-to-design-terrible-graphs-3b213d909387/) <br />
 
-📖 [STROBE Checklist for Observational Studies](https://www.equator-network.org/reporting-guidelines/strobe/)<br /> 
- 
-📖 [CONSORT Checklist for Randomized Trials](https://www.equator-network.org/reporting-guidelines/consort/) 
+📖 [Dynamite Plots Must Die](https://simplystatistics.org/posts/2019-02-21-dynamite-plots-must-die/)
 
-* Based on the study design, would you use the CONSORT or STROBE checklist for this study?
-* As a statistician, which of the items on the checklist will you be responsible for?
-* Verify that all these items are addressed in your final report.
-
-#### Review
-
-* Your analysis report will be distributed to another classmate for constructive feedback.
-
-### Optional Reading
-
-📖 [Nine Basic Ways to Improve Your Style In Academic Writing](https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/nine-basic-ways-improve-your-style-academic-writing) <br />
-
-📖 [Duke Graduate School Scientific Writing Resource](https://sites.duke.edu/scientificwriting/)
