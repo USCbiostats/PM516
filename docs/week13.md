@@ -1,46 +1,25 @@
-## PM516B - The Practice of Biostatistical Consulting
+# Week 13 - Monday, November 20
 
-&#x27A4; This week we will consider qualities of a good consultant and review consulting vignettes.
+##  Project Check-In
 
-### Complete Before Class
+&#x27A4; This week we will review the project presentation and any additional analyses that need to be performed.
 
-#### Marketing your Business
+### Before Class
 
-📖 [Statistical Consulting Clients: How to Get and Keep Them](https://stattrak.amstat.org/2022/02/01/statistical-consulting/)<br />
+#### Group Meeting
 
-1. As a statistical consultant, how would you describe your "brand"?
-2. What are some networking resources you could use for your business?
+1. Meet with your group and create a draft of your presentation.
 
-#### Qualities for Statistical Consultants
+#### Critical Review
 
-📖 [What to Expect When You Consult A Statistician](https://community.amstat.org/cnsl/forclients/expect-content)<br />
-Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a statistical consultant).  
+2. Consider every analysis that you have performed up to this point. Write a list of what the analysis was, why you did it, and classify each into the following categories: <br />
 
-3. How well do you think you fit each of these qualities?
-4. Rank these qualities from 1 to 11, where 1 indicates that you align with this quality the most, and 11 the least.
-5. How do you think you can improve the qualities you are less comfortable with?
+A. Analysis that is important to you (the statistician) ONLY, and is not relevant for the investigator. <br />
+B. Analysis that may be important for the investigator to know, but you would not necessarily include it in a manuscript (think: is it one of the top 5-10 analyses that you have or will perform?) <br />
+C. Analysis that is essential for the investigator to know and directly addresses the research question. <br />
 
-📖 Textbook Chapter 1
+Use this table as a guide:  
 
-### Complete During Class
-
-#### Consulting Vignettes 
-
-🎥 [When Statistical Consulting Goes Wrong](https://www.youtube.com/watch?v=W4PI8Y49Q_s&t=101s)  
-
-1. List 3 reasons that Chanel's consulting job took longer than she expected.
-2. What are 2 pieces of advice you think Chanel is providing for other statistical consultants?  
-
-🎥 [Realistic Timelines for Work](https://www.youtube.com/watch?v=ueF1oe0ct4s)  
-
-3. In this video the researcher wanted immediate assistance. What is one thing the consultant did to reassure the researcher?
-4. If a client came to you with a thesis draft deadline in two days, how would you respond to them?  
-5. Some statisticians may find it useful to, say, triple the amount of time you think it will take to complete a project, in order to account for unforeseen circumstances. What considerations may be needed for deciding on a reasonable time frame?  
-
-🎥 [Using Statistical Results to Identify Questions](https://www.youtube.com/watch?v=upkMfMF0k2k)  
-
-6. List 3 things you think the client should have known before entering this consultation.  
-7. Given your current or hypothetical future position, would you take on a project like this knowing the grant proposal did not have a budget for statistical consulting/collaboration?  
-8. The researcher believed that “statistical magic” could be used to determine which variables are the most important. What challenges could arise from this view? What might you do to discuss this topic with potential clients?  
-
-
+| Analysis | Rationale | Importance |
+| -------- | --------- | ---------- |
+|Examined patterns of missingness across all variables | Ensures large enough sample size and that analyses are not biased | B |

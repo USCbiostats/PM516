@@ -1,8 +1,10 @@
-## PM516B - The Practice of Biostatistical Consulting
+# Week 11 - Monday, November 7
+
+## The Practice of Biostatistical Consulting
 
 &#x27A4; This week we will consider qualities of a good consultant and review consulting vignettes.
 
-### Complete Before Class
+### Before Class
 
 #### Marketing your Business
 
@@ -22,7 +24,7 @@ Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a 
 
 📖 Textbook Chapter 1
 
-### Complete During Class
+### In Class
 
 #### Consulting Vignettes 
 

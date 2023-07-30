@@ -1,41 +1,63 @@
-# Week 5 - Monday, June 19
+# Week 5 - Monday, September 25
 
-## PM516A - Beginning the Analysis
+## Statistical Mistakes
 
-&#x27A4; We will not meet live due to **Juneteenth**.  
-&#x27A4; This week we will reflect on the analysis to be performed and begin running the analysis.  
+&#x27A4; This week we will learn about statistical mistakes to avoid when conducting analyses.
 
+### Before Class
 
-### Complete Outside of Class
+📖 [Ten Common Statistical Mistakes to Watch Out For When Writing or Reviewing A Manuscript](https://elifesciences.org/articles/48175) <br />
 
-#### Exploratory Data Analysis
+*Recall the common statistical mistakes:*
 
-📖 [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+* Adequate control condition/group.   
 
-1.  Write a list of the research questions your investigator had. For each item on the list, what are the variables that will be needed to address the question?
-2. Comment on whether the data is in a format that is acceptable for analysis. Check variable names, variable types, and values within variables. Is the data set free of any extraneous information (e.g., notes, color formatting)?
-3. Comment on the distributions of the variables you will use, providing measures of variation and central tendency. Comment on outliers.
-3. Comment on any missingness in your variables. If present, how extensive is any missingness? Are missing values clearly denoted?
-4. Provide information on the relationships among all relevant variables in the form of correlation matrices, scatter plots, and contingency tables, where appropriate. 
-5. Draft a table and a figure that you think illustrates an important preliminary descriptive finding.
+  + Does the study have a control condition or group? If not, explain why this is not necessary.
 
+  + Is the control group adequately powered to detect a difference from the treatment group?
 
-#### Research Design and Statistical Hypotheses
-📖 [Choosing the Right Statistical Test](https://onlinelibrary.wiley.com/doi/full/10.5694/mja17.00422)
+  + Are any biases introduced as a result of the assignment to control vs. treatment condition?
+  
+* Direct comparisons between two effects. 
 
-6. Write out the investigator's research questions in the form of testable statistical hypotheses.
-7. Which type(s) of tests will you use to test these hypotheses?
+  + When comparing groups, is just one statistical test used?
 
+  + Which statistical tests are used for the main conclusions in the study?
 
-## PM516B - Beginning the Analysis
+* Inflating the units of analysis.  
 
-&#x27A4; This week we will explore what it means to be replicable and reproducible.
+  + What are the observational units on which the analysis was performed?
 
-### Complete Outside of Class
+  + What are the statistical tests actually testing?
 
-📖 Textbook 4.7 - 4.8
+  + Are there any “clustering” variables?
+  
+* Spurious correlations.   
 
-📖 [Analysis Report](analysis-report.md)
-
-1. Complete the “Background & Goals” section of the analysis report.
-2. Complete the “Study Design & Data” section of the analysis report.
+  + Were all variables checked for outliers?
+  + Were all analyses examined for possible effect modification?
+  + What visual methods were performed in addition to statistical tests?
+  
+* Use of small samples.   
+  + Is the sample size large enough for you to be confident in your conclusions (honestly)?
+  + Have you included confidence intervals in addition to point estimates?
+  
+* Circular analysis.   
+  + What analytical decision rules did you make after performing preliminary analyses?
+  + How was the selection criteria biased in favor of the hypothesis being tested?
+  
+* p-hacking.   
+  + Do you believe that your study is more exploratory or confirmatory?
+  + Did the outcome of interest change during the analysis?
+  
+* Multiple comparisons.   
+  + How many different associations were examined during your analysis?
+  + Would you trust your methods if you were reviewing this paper?
+  
+* Over-interpreting non-significant results.   
+  + Was there any point in which a non-significant result was interpreted as a lack of an effect?
+  + Are effect sizes reported along with p-values?
+  
+* Correlation and causation.   
+  + Were any conclusions made with regard to causality? What were these and do they make sense?
+  + Would it make sense if the outcome of the study actually caused the independent variable?

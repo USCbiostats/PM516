@@ -1,9 +1,7 @@
 # Syllabus
 
-PM516A/B: Statistical Problem Solving  
+PM516B: Statistical Problem Solving  
 1 Unit  
-516A: Monday 3:30-4:20pm  
-516b: Monday 4:30-5:20pm  
 
 ## Course Overview
 ### Course Description
@@ -19,7 +17,7 @@ Through this course, students will gain additional experience with statsitical c
 * Understand how to work with individuals from diverse content domains
 
 ### Course Preparation
-Prerequisites: PM516  (this course assumes familiarity with basic statistics and regression analysis)
+Prerequisites: PM516a (this course assumes familiarity with basic statistics and regression analysis)
 
 ## Course Requirements
 

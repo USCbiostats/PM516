@@ -6,6 +6,10 @@
 
 ### Before Class
 
+#### Statistical Data Presentation
+
+📖 [Statistical Data Presentation](https://pubmed.ncbi.nlm.nih.gov/28580077/)
+
 #### Improving Graphs & Figures
 
 📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf)

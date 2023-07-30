@@ -1,9 +1,9 @@
 # Syllabus
 
-PM516A/B: Statistical Problem Solving  
+PM516A: Statistical Problem Solving  
 1 Unit  
-516A: Monday 3:30-4:20pm  
-516b: Monday 4:30-5:20pm  
+Monday 5:10-6:00pm
+ONLINE 
 
 ## Course Overview
 ### Course Description
@@ -28,7 +28,7 @@ Prerequisites: PM510 or equivalent course  (this course assumes familiarity with
 Blackboard (data sets, assignment submission), website (course materials), USC e-mail and Slack (communication). Because the class covers aspects of consulting, including face-to-face interactions, <u>please practice having your webcam on during class.</u>
 
 ### Textbook
-Cabrera J, McDougall A. Statistical Consulting. Springer Science & Business Media; 2002 Jan 2.
+Cabrera J, McDougall A. Statistical Consulting. Springer Science & Business Media; 2002 Jan 2. (Textbook may be available through the USC libraries at libraries.usc.edu)
 
 ### Required Software
 Students must have proficiency in at least one statistical program, but may choose which to use for this course (e.g., R, SAS, Stata, SPSS).
@@ -39,8 +39,8 @@ Students must have proficiency in at least one statistical program, but may choo
 
 | Category | Points |
 | :--- | :--: |
-| Weekly Activities | 10ea x8 |
-| Final Project | 20 |
+| Weekly Activities | 5ea x 13 |
+| Final Project | 35 |
 | Total | 100 |
 
 Students will receive credit for the course if they achieve >80 points.  
@@ -53,36 +53,26 @@ Many of the assignments pertain to preparation for in-class activities, so late 
 **In-Class Activities** will focus on developing skills for statistical consultations (e.g., client-consultant role-playing, group discussion, interacting with an investigator, presenting results, etc.) or other discussion-type questions.   
 **The Final Project** will take the form of a presentation to address the researcher's question from the consultation. In PM516a you will develop a presentation within groups and present it on the last day of class. In PM516b you will complete an analysis report and present it on the last day of class.  
 
-Please upload one document containing the responses to all of the week's questions by midnight on the day class meets (or would have met).
+Please upload one document containing the responses to all of the week's questions by midnight on the day class meets.
 
 ## Course Schedule
-| **A** | Topic |
+| **Week** | Topic |
 | :-: | :-- |
-|**Week 1** <br /> M 5/22 | Communication |
-|**Week 2*** <br /> M 5/29 | Exploratory Analysis |
-|**Week 3** <br /> M 6/5 | Practice Consultations |
-|**Week 4** <br /> M 6/12 | Investigator Meeting |
-|**Week 5*** <br /> M 6/19 | Project Review |
-|**Week 6*** <br /> M 6/26 | Tables & Figures |
-|**Week 7*** <br /> M 7/3 | Critical Consult Review |
-|**Week 8** <br /> M 7/10 | Project Check-In |
-|**Week 9** <br /> M 7/17 | Communicating Results |
-|**Week 10** <br /> M 7/24 | Final Presentation |
-
-| **B** | Topic |
-| :-: | :-- |
-|**Week 1** <br /> M 5/22 | The Practice of Statistical Consulting |
-|**Week 2*** <br /> M 5/29 | Reproducibility |
-|**Week 3** <br /> M 6/5 | Practice Consultations |
-|**Week 4** <br /> M 6/12 | Investigator Meeting |
-|**Week 5*** <br /> M 6/19 | Project Review |
-|**Week 6*** <br /> M 6/26 | Personality Types |
-|**Week 7*** <br /> M 7/3 | Critical Consult Review |
-|**Week 8** <br /> M 7/10 | Project Check-In |
-|**Week 9** <br /> M 7/17 | Ethics |
-|**Week 10** <br /> M 7/24 | Final Presentation |
-
-*There will be no live session on weeks marked with a* *
+|**Week 1** <br /> M 8/21 | Communication |
+|**Week 2** <br /> M 8/28 | Exploratory Analysis |
+|**No Class** <br /> 9/4 | Labor Day
+|**Week 3** <br /> M 9/11 | Practice Consultations |
+|**Week 4** <br /> M 9/18 | Investigator Meeting |
+|**Week 5** <br /> M 9/25 | Statistical Mistakes |
+|**Week 6** <br /> M 10/2 | Communicating Statistical Concepts |
+|**Week 7** <br /> M 10/9 | Project Check-In |
+|**Week 8** <br /> M 10/16 | Practice Consultations II |
+|**Week 9** <br /> M 10/23 | Presenting Statistical Information |
+|**Week 10** <br /> M 10/30 | The Statistician's Role |
+|**Week 11** <br /> M 11/6 | The Practice of Statistical Consulting |
+|**Week 12** <br /> M 11/13 | Ethics |
+|**Week 13** <br /> M 11/20 | Project Check-In |
+|**Week 14** <br /> M 11/27 | Investigator Meeting: Final Presentation |
 
 ## Statement on Academic Conduct and Support Systems
 ### Academic Conduct

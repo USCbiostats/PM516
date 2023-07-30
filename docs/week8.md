@@ -1,57 +1,31 @@
-# Week 8 - Monday, July 10
+# Week 8 - Monday, October 16
 
-## PM516A - Communicating Results
+## Practice Consultations & Personality Types
 
-&#x27A4; This week we will learn ways to effectively communicate results of your statistical analysis.
+&#x27A4; This week we will perform some more complex role-playing exercises.
 
-### Complete Before Class
+&#x27A4; We will also learn a little more about personality types. Knowing our own personality type and that of others can help us to have more productive collaborations with investigators.
 
-#### Communicating Results
+### Before Class
 
-📖 [The Adept Method](https://betterexplained.com/articles/adept-method/)
-* Pick two results you will be presenting and apply the ADEPT method to them.
+#### Personality Types
 
-📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf)<br />  
+📖 [Myers-Briggs Personality Test](https://www.16personalities.com/free-personality-test)
 
-* Which statistical concept are you most unfamiliar with, that you think would be better expalined with an analogy?
-* Which of the analogies did you feel was most effective? Why?
+1. What personality type were you? 
+2. What aspects of the results make sense to you, and what aspects were you surprised by?
 
-📖 [Communicating Statistics to Nonstatisticians](https://stattrak.amstat.org/2016/08/01/nonstatisticians/)<br /> 
+📖 [How Each Personality Type Likes to Communicate](https://www.psychologyjunkie.com/how-each-myers-briggs-personality-type-likes-to-communicate/)
 
-* List the two most important questions you think that the investigator will expect to have answered by your presentation.
-* List two important pieces of information that you will need to convey, that the investigator might not have thought about.
+3. Do you think that the tips provided for your personality type in the “How Each Personality Type Likes to Communicate” document are correct? Is there anything you would add to the information they present?
 
-#### Preliminary Presentation
+### During Class
 
-* Have a draft presentation (~10 minutes) ready to share with class.
+#### Practice Consultations
 
-
-
-##  PM516B - Ethics
-
-&#x27A4; This week we will discuss ethical considerations for statistical consulting.
-
-### Complete Before Class
-
-#### Ethics
-
-📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)<br />  
-
-* Bohannon’s study had small sample size, they didn’t bother to balance age and gender across treatment groups, they examined multiple possible outcomes, and they didn’t report that at the termination of the study the two groups had lost the same amount of weight. Which of these faults is the biggest concern for you and why?
-* Journalists are pressured to write on interesting, sensational stories (think of all the “click bait” on the internet). Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” That said, who has the most responsibility in ensuring that a study’s findings are reported accurately?
-
-🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM)
-* Who stands most to lose in cases when inaccurate or misleading studies are published?
-
-#### Preliminary Report
-
-* Create a draft of your analysis report.
-
-
-### Complete During Class
-
-#### Ethics Case Studies
+4. Think of the person with whom you consulted today. What personality type do you think they are? 
+5. How would knowing their personality type change how you might approach interacting with them?
 
 ### Optional Readings
 
-📖 [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice)
+📖 [Myers-Briggs Personality Type Manual](https://www.tolarisd.org/cms/lib3/TX01000982/Centricity/Domain/27/Myers%20Briggs%20Personality%20Test%20Manual.pdf) (p. 9-12)
