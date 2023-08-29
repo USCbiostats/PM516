@@ -23,7 +23,7 @@ Somebody has a daily MVPA value of 1352.215, which equates to roughly 22.5 hours
 99%     92.16666       1352.215       Kurtosis       428.3505
 ```
 
-![MVPA Distribution](eda_calorie_bmi.png)
+![MVPA Distribution](eda_mvpa_dist.png)
 
 ## 2. Calorie Consumption
 
