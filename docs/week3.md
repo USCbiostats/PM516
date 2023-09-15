@@ -2,7 +2,7 @@
 
 ## Practice Consultations
 
-&#x27A4; This week we will practice consulting via roleplaying exercises.
+&#x27A4; This week we will practice consulting via roleplaying exercises.  
 &#x27A4; We will also review some techniques that will help you improve the quality of your consultation.
 
 ### Before Class
