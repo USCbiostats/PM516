@@ -1,4 +1,4 @@
-# Week 2 - Monday, August 28
+# Week 2
 
 ## Exploratory Analysis
 

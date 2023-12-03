@@ -1,4 +1,4 @@
-# Week 4 - Monday, September 18
+# Week 4
 
 ## Investigator Meeting
 

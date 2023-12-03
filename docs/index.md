@@ -1,7 +1,7 @@
 # PM516a: Introduction to Biostatistical Consulting (aka Statistical Problem Solving)
 
 ## Welcome!
-Welcome to PM516a: Introduction to Biostatistical Consulting for Fall 2023! This semester we will be learing skills to become an effective consultant, and working with an investigator at Keck on an actual research problem.  
+Welcome to PM516a: Introduction to Biostatistical Consulting for Spring 2024! This semester we will learn skills to become an effective consultant and work with an investigator at Keck on an actual research problem.  
 
 This course should be useful for:  
 

@@ -1,4 +1,4 @@
-# Week 11 - Monday, November 7
+# Week 11
 
 ## The Practice of Biostatistical Consulting
 

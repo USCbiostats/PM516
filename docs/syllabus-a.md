@@ -2,22 +2,22 @@
 
 PM516A: Statistical Problem Solving  
 1 Unit  
-Monday 5:10-6:00pm
+Monday 5:00-5:50pm
 ONLINE 
 
 ## Course Overview
 ### Course Description
-This course serves as an introduction to biostatistical consulting, and will help statisticians and data analysts develop the necessary skills for successfully interacting with non-statistician collaborators. We will focus on two main goals: 1) developing qualities necessary for an effective statistical consultant and 2) working with an investigator on an actual analysis problem (determining research questions and scope, formulaating and implementing our aalyses, and conveying our findings).
+This course serves as an introduction to biostatistical consulting, and will help statisticians and data analysts develop the necessary skills for successfully interacting with non-statistician collaborators. We will focus on two main goals: 1) developing qualities necessary for an effective statistical consultant and 2) working with an investigator on an actual analysis problem (determining research questions and scope, formulating and implementing our aalyses, and conveying our findings).
 
 ### Learning Objectives
-Through this course, students will become familiar with the process of statistical consulting. Students will learn:  
+Through this course, students will become familiar with the process of statistical consulting. Students will:
 
-* To explain the importance of statistical consulting and its usefulness in the public health environment
-* How to improve their understanding of an unfamiliar topic and translate researchers' questions into a statistically testable set of hypotheses
-* To choose the best statistical approach for answering a collaborator's questions
-* Ways of communicating effectively by clearly explaining statistical concepts
-* To understand ethical considerations for statisticians
-* To appropriately analyze and interpret analyses for dissemination materials, such as brief reports or results sections of manuscripts
+* Understand the importance of statistical consulting and its usefulness in the public health environment.
+* Apply techniques to improve their understanding of an unfamiliar topic and translate researchers' questions into a statistically testable set of hypotheses.
+* Evaluate the best statistical approaches to address collaborators' questions and apply such techniques.
+* Apply effective communication by clearly explaining statistical concepts.
+* Understand ethical considerations faced by statisticians.
+* Create analyses and results for dissemination to the client and other stakeholders.
 
 ### Course Preparation
 Prerequisites: PM510 or equivalent course  (this course assumes familiarity with basic statistics and regression analysis)
@@ -35,44 +35,27 @@ Students must have proficiency in at least one statistical program, but may choo
 
 ## Assessments
 
-### Grading Breakdown
+There are three broad categories of activites for this course:
 
-| Category | Points |
-| :--- | :--: |
-| Weekly Activities | 5ea x 13 |
-| Final Project | 35 |
-| Total | 100 |
+* Skills development for consultants, which will prepare the student to interact with a client and improve the quality of their consultations.
+* Skills development for presenting statistical results, which will improve the effectiveness of the statistician being able to communicate results to their client.
+* Participation in a real consultation as a group with an investigator client at USC.
 
-Students will receive credit for the course if they achieve >80 points.  
+This course is graded credit/no credit and there is no point breakdown. Instead, student must complete <u>all</u> of the following:
+
+#### Weekly Activities
+Students will participate in weekly activities to improve their consulting and statistical analysis skills. In order to get the most of these activities, students must complete required pre-class preparation, which may include reading articles, excerpts from the textbook, or watching videos. Students will use the information from these pre-class preparation activities in the live session, and will receive credit if they actively participate in at least 10 sessions. Partial credit will be given if the student attends but does not actively participate in a live class session.
+
+#### Investigator Meeting
+Students will be meeting with a collaborator at USC (e.g., from Keck School of Medicine, Children’s Hospital Los Angeles, etc.) and will work on a project as a group. Any meeting with the investigator is mandatory. Because this course teaches skills applicable in a consulting setting, students must be on time for the meeting and must be an <u>alert, active participant</u> with their <u>camera on</u>.
+
+#### Final Presentation
+The final day of class will be a presentation to the client collaborator. Students will present in groups, and each student must contribute to the presentation. At the end of the meeting, there will be a brief period for the students and client to provide feedback on the experience.
 
 ### Late Submission Policy
-Many of the assignments pertain to preparation for in-class activities, so late assignments are not accepted. There may be opportunities to make up assignments in rare circumstances.
+Assignments cannot be completed outside of the in-class context. However, there may be opportunities for alternate make-up assignments in rare circumstances.
 
-### Description of Assessments
-**Pre-Class Activities** should be completed before class meets as we will discuss this content during class and/or the content is necessary for understanding the in-class materials. This may include readings, videos, or analyses.  
-**In-Class Activities** will focus on developing skills for statistical consultations (e.g., client-consultant role-playing, group discussion, interacting with an investigator, presenting results, etc.) or other discussion-type questions.   
-**The Final Project** will take the form of a presentation to address the researcher's question from the consultation. In PM516a you will develop a presentation within groups and present it on the last day of class. In PM516b you will complete an analysis report and present it on the last day of class.  
-
-Please upload one document containing the responses to all of the week's questions by midnight on the day class meets.
-
-## Course Schedule
-| **Week** | Topic |
-| :-: | :-- |
-|**Week 1** <br /> M 8/21 | Communication |
-|**Week 2** <br /> M 8/28 | Exploratory Analysis |
-|**No Class** <br /> 9/4 | Labor Day
-|**Week 3** <br /> M 9/11 | Practice Consultations |
-|**Week 4** <br /> M 9/18 | Investigator Meeting |
-|**Week 5** <br /> M 9/25 | Statistical Mistakes |
-|**Week 6** <br /> M 10/2 | Communicating Statistical Concepts |
-|**Week 7** <br /> M 10/9 | Project Check-In |
-|**Week 8** <br /> M 10/16 | Practice Consultations II |
-|**Week 9** <br /> M 10/23 | Presenting Statistical Information |
-|**Week 10** <br /> M 10/30 | The Statistician's Role |
-|**Week 11** <br /> M 11/6 | The Practice of Statistical Consulting |
-|**Week 12** <br /> M 11/13 | Ethics |
-|**Week 13** <br /> M 11/20 | Project Check-In |
-|**Week 14** <br /> M 11/27 | Investigator Meeting: Final Presentation |
+[## Course Schedule](content.md)
 
 ## Statement on Academic Conduct and Support Systems
 ### Academic Conduct

@@ -1,4 +1,4 @@
-# Week 9 - Monday, October 23
+# Week 9
 
 ## Presenting Statistical Information
 

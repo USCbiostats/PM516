@@ -1,8 +1,8 @@
-# Week 6 - Monday, October 2
+# Week 6
 
 ## Communicating Statistical Concepts
 
-&#x27A4; This week we will learn ways to effectively communicate results of your statistical analysis.
+&#x27A4; This week we will learn techniques to effectively communicate results of your statistical analysis.
 
 ### Before Class
 

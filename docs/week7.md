@@ -1,4 +1,4 @@
-# Week 7 - Monday, October 9
+# Week 7
 
 ## Analysis Check-In
 

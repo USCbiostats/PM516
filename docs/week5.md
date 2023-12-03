@@ -1,4 +1,4 @@
-# Week 5 - Monday, September 25
+# Week 5
 
 ## Statistical Mistakes
 
@@ -20,3 +20,5 @@
 * Multiple comparisons
 * Over-interpreting non-significant results
 * Correlation and causation
+
+Be ready to identify statistical mistakes for scenarios that will be presented in class.

@@ -1,4 +1,4 @@
-# Week 3 - Monday, September 11
+# Week 3
 
 ## Practice Consultations
 

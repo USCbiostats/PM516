@@ -1,4 +1,4 @@
-# Week 1 - Monday, August 21
+# Week 1
 
 ## Communication
 

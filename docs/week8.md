@@ -1,4 +1,4 @@
-# Week 8 - Monday, October 16
+# Week 8
 
 ## Practice Consultations & Personality Types
 

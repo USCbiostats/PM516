@@ -1,4 +1,4 @@
-# Week 13 - Monday, November 20
+# Week 13
 
 ##  Project Check-In
 

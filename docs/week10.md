@@ -1,4 +1,4 @@
-# Week 10 - Monday, October 30
+# Week 10
 
 ##  The Statistician's Role
 
