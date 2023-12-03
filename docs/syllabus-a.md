@@ -55,7 +55,8 @@ The final day of class will be a presentation to the client collaborator. Studen
 ### Late Submission Policy
 Assignments cannot be completed outside of the in-class context. However, there may be opportunities for alternate make-up assignments in rare circumstances.
 
-[## Course Schedule](content.md)
+## Course Schedule
+[Weekly Content](content.md)
 
 ## Statement on Academic Conduct and Support Systems
 ### Academic Conduct
