@@ -1,4 +1,4 @@
-# Week 11
+# Week 11 - Monday, November 7
 
 ## The Practice of Biostatistical Consulting
 
@@ -28,16 +28,15 @@ Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a 
 
 #### Consulting Vignettes 
 
-🎥 [When Statistical Consulting Goes Wrong](https://www.youtube.com/watch?v=W4PI8Y49Q_s&t=101s)  
+📖 [4 Tips for Statistical Consulting](https://blogs.ams.org/mathgradblog/2021/10/11/4-tips-for-statistical-consulting-learn-from-my-mistakes/)  
 
-1. List 3 reasons that Chanel's consulting job took longer than she expected.
-2. What are 2 pieces of advice you think Chanel is providing for other statistical consultants?  
+1. What did Chanel say were the main reasons why she struggled with her consulting project?
 
 🎥 [Realistic Timelines for Work](https://www.youtube.com/watch?v=ueF1oe0ct4s)  
 
-3. In this video the researcher wanted immediate assistance. What is one thing the consultant did to reassure the researcher?
-4. If a client came to you with a thesis draft deadline in two days, how would you respond to them?  
-5. Some statisticians may find it useful to, say, triple the amount of time you think it will take to complete a project, in order to account for unforeseen circumstances. What considerations may be needed for deciding on a reasonable time frame?  
+1. In this video the researcher wanted immediate assistance. What is one thing the consultant did to reassure the researcher?
+2. If a client came to you with a thesis draft deadline in two days, how would you respond to them?  
+3. Some statisticians may find it useful to, say, triple the amount of time you think it will take to complete a project, in order to account for unforeseen circumstances. What considerations may be needed for deciding on a reasonable time frame?  
 
 🎥 [Using Statistical Results to Identify Questions](https://www.youtube.com/watch?v=upkMfMF0k2k)  
 
