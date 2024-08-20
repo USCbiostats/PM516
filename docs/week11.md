@@ -6,6 +6,18 @@
 
 ### Before Class
 
+#### Brief Check-In
+
+1. Meet with your group and be prepared to answer the following questions about your project:
+* What is the research question that your investigator/client wants to answer?
+* What is the analytic sample size?
+* What are the exposures of interest?
+* What are the outcomes of interest?
+* Are there any stratification variables / effect modifiers?
+* What are the distributions of each of the variables that will be used? Are the distributions skewed and/or are there any outliers?
+* What statistical tests did you perform in order to analyze the data?
+* What are the results of those statistical tests?
+
 #### Manuscript Checklists
 
 📖 [STROBE Checklist for Observational Studies](https://www.equator-network.org/reporting-guidelines/strobe/)<br /> 
