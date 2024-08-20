@@ -1,28 +1,44 @@
 # Week 2
 
-## Exploratory Analysis
+## Preparing for Biostatistical Consulting
 
-&#x27A4; This week we will review how to conduct exploratory analyses from a hypothetical study examining physical activity and diet.  
-&#x27A4; The data dictionary is located [here](data_dictionary.xlsx).  
-&#x27A4; The data file is located [here](adult_all.csv).  
+&#x27A4; This week we will explore how to be prepared for a statistical consultation and review consulting vignettes.
 
 ### Before Class
 
-#### Data Quality Control Exercise
+#### Required Trainings
 
-*Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.  
-The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.* <br />
-*As a brief background, this study wanted to look at whether moving to an active community ("treatment") was associated with differences in calorie consumption, physical activity, and BMI among participants. There are several ways of measuring physical activity (PA). One way is through an accelerometer, or a wearable device that records a participant's physical activity throughout the day. This device can compute the minutes we spend doing activity that is moderate-to-vigorous in nature (MVPA).  
-Another way to classify physical activity is through a survey ("Arizona") that asks participants about how much time they engage in different types of activities. Based on their responses, the number of hours per week in different MET categories can be computed. For example, if an individual had a value of 15 for met_hrs_mets1x, that would indicate that they spend 15 hours per week on average performing "light" activities (like walking or easy housework).  
-The final way to classify physical activity is by directly asking participants how much time they spend per week doing activity in particular categories. These responses are given in the variables that start with "time_".*
+🖥️ [Required CITI Trainings](https://hrpp.usc.edu/education_certification/)<br />
+Navigate to the USC CITI training website. You will need to complete the following trainings:
+* CITI Biomedical Human Subjects
+* CITI Responsible Conduct of Research  
 
-1.	Examine the 3 measures of physical activity: accelerometer, ARIZONA survey, and participant survey. Check their distributions for any anomalies and investigate how strongly these measures correlate with each other.
-2.	Examine the measure of food intake from the BLOCK survey. Check the distributions of daily calories consumed, as well as grams of each macronutrient, for any anomalies. Construct variables that indicate the percent of calories in a person’s diet from each macronutrient.
-3.	Examine the distribution of BMI for any anomalies. Determine whether BMI is associated with any of the measures of physical activity or food intake.
-4.	Determine whether the outcomes of food intake or physical activity vary across the study groups (treatment vs. control groups).
-5.	Are there any other concerns you have about this data?
+📖 [What to Ask During A Consultation](what-to-ask.md)  
+   
+📖 [4 Tips for Statistical Consulting](https://blogs.ams.org/mathgradblog/2021/10/11/4-tips-for-statistical-consulting-learn-from-my-mistakes/)  
 
+1. What did Chanel say were the main reasons why she struggled with her consulting project?
 
-### Optional Readings
+📖 Textbook Chapter 1
 
-📖 [Ten Simple Rules for Initial Data Analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819)
+### In Class
+
+#### Consulting Vignettes 
+
+🎥 [Realistic Timelines for Work](https://www.youtube.com/watch?v=ueF1oe0ct4s)  
+
+1. In this video the researcher wanted immediate assistance. What is one thing the consultant did to reassure the researcher?
+2. If a client came to you with a thesis draft deadline in two days, how would you respond to them?  
+3. Some statisticians may find it useful to, say, triple the amount of time you think it will take to complete a project, in order to account for unforeseen circumstances. What considerations may be needed for deciding on a reasonable time frame?  
+
+🎥 [Beginning and Ending A Meeting Effectively](https://www.youtube.com/watch?v=_3l1DEXoXRM)  
+
+1. What did the consultant say was the most important goal in a first meeting? 
+2. Why did the consultant wrap up the discussion 10 minutes before the end of the scheduled time slot?
+3. What is one pitfall that could occur if the statistician gave the client specific statistical advice during this first meeting?
+
+🎥 [Using Statistical Results to Identify Questions](https://www.youtube.com/watch?v=upkMfMF0k2k)  
+
+1. List 3 things you think the client should have known before entering this consultation.  
+2. Given your current or hypothetical future position, would you take on a project like this knowing the grant proposal did not have a budget for statistical consulting/collaboration?  
+3. The researcher believed that “statistical magic” could be used to determine which variables are the most important. What challenges could arise from this view? What might you do to discuss this topic with potential clients?  

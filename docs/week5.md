@@ -1,24 +1,32 @@
-# Week 5
+# Week 4
 
-## Statistical Mistakes
+## Investigator Meeting
 
-&#x27A4; This week we will learn about statistical mistakes to avoid when conducting analyses.
+&#x27A4; This week we will meet with the investigator to discuss the project.  
+&#x27A4; In preparation, we will learn the PICOT framework for clinical research questions. 
 
 ### Before Class
 
-📖 [Ten Common Statistical Mistakes to Watch Out For When Writing or Reviewing A Manuscript](https://elifesciences.org/articles/48175) <br />
+📖 [What Is Your Research Question? An Introduction to the PICOT Format for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430448/)<br />  
 
-*Recall the common statistical mistakes:*
+1. For each of the PICOT categories, explain whether the information is clear based on the intake form or if you will need to follow up during the meeting:
+     * The population of interest for this study?
+     * Any exclusion and/or inclusion criteria?
+     * Any issue with generalizability?
+     * The intervention/treatment group?
+     * The comparison/control group?
+     * The outcome of this study?
+     * If time is an important component?
+  
+2. What else would you want to know about the research question? Think about general information about the study, the variables being used, and the target population.
+3. Do you have an idea of a type of analysis you could perform? What additional information do you think you might need from the client?
+4. Is it clear what the investigator’s goal for this study is (e.g., an abstract submission, a manuscript, etc.)? Do you know the deadlines the client has?
+5. List 2- 3 questions you think will be important to ask the investigator.
 
-* Adequate control condition/group  
-* Direct comparisons between two effects
-* Inflating the units of analysis
-* Spurious correlations
-* Use of small samples
-* Circular analysis 
-* p-hacking
-* Multiple comparisons
-* Over-interpreting non-significant results
-* Correlation and causation
+### In Class
 
-Be ready to identify statistical mistakes for scenarios that will be presented in class.
+#### Consultation Reflection
+1. List two things that you think went will with the consultation.
+2. List two things that you think could have been improved in the consultation.
+3. Do you feel like there was a communication breakdown at any point? What could have been done differently in that case?
+

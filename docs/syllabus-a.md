@@ -2,7 +2,7 @@
 
 PM516A: Statistical Problem Solving  
 1 Unit  
-Monday 5:00-5:50pm
+Monday 5:10-6:00pm
 ONLINE 
 
 ## Course Overview
@@ -25,7 +25,7 @@ Prerequisites: PM510 or equivalent course  (this course assumes familiarity with
 ## Course Requirements
 
 ### Communication
-Blackboard (data sets, assignment submission), website (course materials), USC e-mail and Slack (communication). Because the class covers aspects of consulting, including face-to-face interactions, <u>please practice having your webcam on during class.</u>
+All course materials will be available through this website. We will use USC e-mail for formal communication and Slack for informal collaborative communication. Because the class covers aspects of consulting, including face-to-face interactions, <u>please practice having your webcam on during class.</u>
 
 ### Textbook
 Cabrera J, McDougall A. Statistical Consulting. Springer Science & Business Media; 2002 Jan 2. (Textbook may be available through the USC libraries at libraries.usc.edu)
@@ -42,6 +42,12 @@ There are three broad categories of activites for this course:
 * Participation in a real consultation as a group with an investigator client at USC.
 
 This course is graded credit/no credit and there is no point breakdown. Instead, student must complete <u>all</u> of the following:
+
+#### Required Trainings
+Students will be working with real data from investigators at USC and must complete the appropriate required trainings. There are two trainings offered by CITI (https://about.citiprogram.org/) that must be completed by the third week of class: 
+* CITI Biomedical Human Subjects
+* CITI Responsible Conduct of Research
+* Students may need to complete additional project-specific trainings
 
 #### Weekly Activities
 Students will participate in weekly activities to improve their consulting and statistical analysis skills. In order to get the most of these activities, students must complete required pre-class preparation, which may include reading articles, excerpts from the textbook, or watching videos. Students will use the information from these pre-class preparation activities in the live session, and will receive credit if they actively participate in at least 10 sessions. Partial credit will be given if the student attends but does not actively participate in a live class session.

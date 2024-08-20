@@ -1,31 +1,27 @@
-# Week 8
+# Week 7
 
-## Practice Consultations & Personality Types
+## Analysis Check-In
 
-&#x27A4; This week we will perform some more complex role-playing exercises.
-
-&#x27A4; We will also learn a little more about personality types. Knowing our own personality type and that of others can help us to have more productive collaborations with investigators.
+&#x27A4; This week we will reflect on the analyes that have, and will be, performed.  
 
 ### Before Class
 
-#### Personality Types
+#### Exploratory Data Analysis
 
-📖 [Myers-Briggs Personality Test](https://www.16personalities.com/free-personality-test)
+📖 [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 
-1. What personality type were you? 
-2. What aspects of the results make sense to you, and what aspects were you surprised by?
+1.  Write a list of the research questions your investigator had. For each item on the list, which variables are needed to address the question?
+2. Comment on whether your data was in a format that is acceptable for analysis. Check variable names, variable types, and values within variables. Is the data set free of any extraneous information (e.g., notes, color formatting)?
+3. Comment on the distributions of the variables you will use, providing measures of variation and central tendency. Comment on outliers.
+3. Comment on any missingness in your variables. If present, how extensive is any missingness? Are missing values clearly denoted?
+4. Provide information on the relationships among all relevant variables in the form of correlation matrices, scatter plots, and contingency tables, where appropriate. 
+5. Draft a table and a figure that you think illustrates an important preliminary descriptive finding.
 
-📖 [How Each Personality Type Likes to Communicate](https://www.psychologyjunkie.com/how-each-myers-briggs-personality-type-likes-to-communicate/)
 
-3. Do you think that the tips provided for your personality type in the “How Each Personality Type Likes to Communicate” document are correct? Is there anything you would add to the information they present?
+#### Research Design and Statistical Hypotheses
+📖 [Choosing the Right Statistical Test](https://onlinelibrary.wiley.com/doi/full/10.5694/mja17.00422)
 
-### During Class
+6. Write out the investigator's research questions in the form of testable statistical hypotheses.
+7. Which type(s) of tests will you use to test these hypotheses?
 
-#### Practice Consultations
 
-4. Think of the person with whom you consulted today. What personality type do you think they are? 
-5. How would knowing their personality type change how you might approach interacting with them?
-
-### Optional Readings
-
-📖 [Myers-Briggs Personality Type Manual](https://www.tolarisd.org/cms/lib3/TX01000982/Centricity/Domain/27/Myers%20Briggs%20Personality%20Test%20Manual.pdf) (p. 9-12)

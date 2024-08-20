@@ -11,7 +11,7 @@
 📖 [Relationships & Interactions](https://magazine.amstat.org/blog/2009/09/01/heartofastatcareersept09/)<br />  
 
 1. List 2 mistakes you might make as a statistician that would lead to a breakdown in communication.
-3. What are the 5 recommended steps as part of a statistical consulting interaction?
+2. What are the 5 recommended steps as part of a statistical consulting interaction?
 
 #### Opening Up to Others
 

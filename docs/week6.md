@@ -1,21 +1,24 @@
-# Week 6
+# Week 5
 
-## Communicating Statistical Concepts
+## Statistical Mistakes
 
-&#x27A4; This week we will learn techniques to effectively communicate results of your statistical analysis.
+&#x27A4; This week we will learn about statistical mistakes to avoid when conducting analyses.
 
 ### Before Class
 
-#### Communicating Results
+📖 [Ten Common Statistical Mistakes to Watch Out For When Writing or Reviewing A Manuscript](https://elifesciences.org/articles/48175) <br />
 
-📖 [The Adept Method](https://betterexplained.com/articles/adept-method/)
+*Recall the common statistical mistakes:*
 
-1. Describe a concept (method, result, etc.) from your project that you think will be difficult to communicate to a non-statistician.
+* Adequate control condition/group  
+* Direct comparisons between two effects
+* Inflating the units of analysis
+* Spurious correlations
+* Use of small samples
+* Circular analysis 
+* p-hacking
+* Multiple comparisons
+* Over-interpreting non-significant results
+* Correlation and causation
 
-📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf)<br />  
-
-1. Which of the analogies did you feel was most effective? Why?
-
-📖 [Communicating Statistics to Nonstatisticians](https://stattrak.amstat.org/2016/08/01/nonstatisticians/)<br /> 
-
-1. Which method of communication does the author say has the greatest chance of success?
+Be ready to identify statistical mistakes for scenarios that will be presented in class.

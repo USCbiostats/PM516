@@ -1,25 +1,26 @@
 # Week 13
 
-##  Project Check-In
+##  Ethics
 
-&#x27A4; This week we will review the project presentation and any additional analyses that need to be performed.
+&#x27A4; This week we will discuss ethical considerations for statistical consulting.
 
-### Before Class
+### Complete Before Class
 
-#### Group Meeting
+#### Ethics
 
-1. Meet with your group and create a draft of your presentation.
+📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)<br />  
 
-#### Critical Review
+1. Bohannon’s study had small sample size, they didn’t bother to balance age and gender across treatment groups, they examined multiple possible outcomes, and they didn’t report that at the termination of the study the two groups had lost the same amount of weight. Which of these faults is the biggest concern for you and why?
+2. Journalists are pressured to write on interesting, sensational stories (think of all the “click bait” on the internet). Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” That said, who has the most responsibility in ensuring that a study’s findings are reported accurately?
 
-2. Consider every analysis that you have performed up to this point. Write a list of what the analysis was, why you did it, and classify each into the following categories: <br />
+🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM)
 
-A. Analysis that is essential for the investigator to know and directly addresses the research question. <br />
-B. Analysis that may be important for the investigator to know, but you would not necessarily include it in a manuscript (think: is it one of the top 5-10 analyses that you have or will perform?) <br />
-C. Analysis that is important to you (the statistician) ONLY, and is not relevant for the investigator. <br />
+3. Who stands most to lose in cases when inaccurate or misleading studies are published?
 
-Use this table as a guide:  
+### Complete During Class
 
-| Analysis | Rationale | Importance |
-| -------- | --------- | ---------- |
-|Examined patterns of missingness across all variables | Ensures large enough sample size and that analyses are not biased | B |
+#### Ethics Case Studies
+
+### Optional Readings
+
+📖 [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice)

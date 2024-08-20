@@ -1,27 +1,31 @@
-# Week 9
+# Week 8
 
-## Presenting Statistical Information
+## Practice Consultations & Personality Types
 
-&#x27A4; This week we will look at ways to improve our tables and figures.
+&#x27A4; This week we will perform some more complex role-playing exercises.
+
+&#x27A4; We will also learn a little more about personality types. Knowing our own personality type and that of others can help us to have more productive collaborations with investigators.
 
 ### Before Class
 
-#### Statistical Data Presentation
+#### Personality Types
 
-📖 [Statistical Data Presentation](https://pubmed.ncbi.nlm.nih.gov/28580077/)
+📖 [Myers-Briggs Personality Test](https://www.16personalities.com/free-personality-test)
 
-#### Improving Graphs & Figures
+1. What personality type were you? 
+2. What aspects of the results make sense to you, and what aspects were you surprised by?
 
-📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf)
+📖 [How Each Personality Type Likes to Communicate](https://www.psychologyjunkie.com/how-each-myers-briggs-personality-type-likes-to-communicate/)
 
+3. Do you think that the tips provided for your personality type in the “How Each Personality Type Likes to Communicate” document are correct? Is there anything you would add to the information they present?
 
-📖 [Rudiments of Numeracy](https://www.jstor.org/stable/2344922)
+### During Class
 
-2. “Rudiments of Numeracy” lists six rules to follow when producing graphs and tables. Rule 6 concerns whether to produce a graph vs. a table. Consider the analyses you have performed thus far. For each, is it better to present them via text, a graph, or a table? Why?
+#### Practice Consultations
+
+4. Think of the person with whom you consulted today. What personality type do you think they are? 
+5. How would knowing their personality type change how you might approach interacting with them?
 
 ### Optional Readings
 
-📖 [How to Design Terrible Graphs](https://www.freecodecamp.org/news/how-to-design-terrible-graphs-3b213d909387/) <br />
-
-📖 [Dynamite Plots Must Die](https://simplystatistics.org/posts/2019-02-21-dynamite-plots-must-die/)
-
+📖 [Myers-Briggs Personality Type Manual](https://www.tolarisd.org/cms/lib3/TX01000982/Centricity/Domain/27/Myers%20Briggs%20Personality%20Test%20Manual.pdf) (p. 9-12)
