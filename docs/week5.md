@@ -3,7 +3,7 @@
 ## Investigator Meeting
 
 &#x27A4; This week we will meet with the investigator to discuss the project.  
-&#x27A4; In preparation, we will learn the PICOT framework for clinical research questions. 
+&#x27A4; In preparation, we watch some vignettes about interacting with a statistician. 
 
 ### Before Class
 

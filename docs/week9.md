@@ -4,7 +4,9 @@
 
 &#x27A4; This week we will perform some more complex role-playing exercises.
 
-&#x27A4; We will also learn a little more about personality types. Knowing our own personality type and that of others can help us to have more productive collaborations with investigators.
+&#x27A4; We will also learn about developing a statistical consulting "brand."
+
+&#x27A4; There is an optional section on personality types. Knowing our own personality type and that of others can help us to have more productive collaborations with investigators.
 
 ### Before Class
 

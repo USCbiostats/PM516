@@ -8,11 +8,11 @@
 
 #### Group Meeting
 
-1. Meet with your group and create a draft of your presentation.
+👥 Meet with your group and create a draft of your presentation.
 
 #### Critical Review
 
-1. Consider every analysis that you have performed up to this point. Write a list of what the analysis was, why you did it, and classify each into the following categories: 
+📝 Consider every analysis that you have performed up to this point. Write a list of what the analysis was, why you did it, and classify each into the following categories: 
 
 * A. Analysis that is essential for the investigator to know and directly addresses the research question. 
 * B. Analysis that may be important for the investigator to know, but you would not necessarily include it in a manuscript (think: is it one of the top 5-10 analyses that you have or will perform?) 

@@ -8,7 +8,8 @@
 
 #### Brief Check-In
 
-1. Meet with your group and be prepared to answer the following questions about your project:
+Meet with your group and be prepared to answer the following questions about your project:
+
 * What is the research question that your investigator/client wants to answer?
 * What is the analytic sample size?
 * What are the exposures of interest?
