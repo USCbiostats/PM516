@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 ## Communicating Statistical Concepts
 
@@ -10,7 +10,7 @@
 
 📖 [The Adept Method](https://betterexplained.com/articles/adept-method/)
 
-1. Describe a concept (method, result, etc.) from your project that you think will be difficult to communicate to a non-statistician.
+1. Ask [chat GPT](chatgpt.com) to explain a statistical concept using the ADEPT method. What concept did it choose? How well do you think its explanations were? 
 
 📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf)<br />  
 

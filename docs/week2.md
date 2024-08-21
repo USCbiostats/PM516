@@ -10,6 +10,7 @@
 
 🖥️ [Required CITI Trainings](https://hrpp.usc.edu/education_certification/)<br />
 Navigate to the USC CITI training website. You will need to complete the following trainings:
+
 * CITI Biomedical Human Subjects
 * CITI Responsible Conduct of Research  
 

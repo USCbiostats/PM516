@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 ## Exploratory Analysis
 
@@ -10,10 +10,10 @@
 
 #### Data Quality Control Exercise
 
-*Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.  
-The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.* <br />
-*As a brief background, this study wanted to look at whether moving to an active community ("treatment") was associated with differences in calorie consumption, physical activity, and BMI among participants. There are several ways of measuring physical activity (PA). One way is through an accelerometer, or a wearable device that records a participant's physical activity throughout the day. This device can compute the minutes we spend doing activity that is moderate-to-vigorous in nature (MVPA).  
-Another way to classify physical activity is through a survey ("Arizona") that asks participants about how much time they engage in different types of activities. Based on their responses, the number of hours per week in different MET categories can be computed. For example, if an individual had a value of 15 for met_hrs_mets1x, that would indicate that they spend 15 hours per week on average performing "light" activities (like walking or easy housework).  
+*Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.  <br /><br />
+The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.* <br /><br />
+*As a brief background, this study wanted to look at whether moving to an active community ("treatment") was associated with differences in calorie consumption, physical activity, and BMI among participants. There are several ways of measuring physical activity (PA). One way is through an accelerometer, or a wearable device that records a participant's physical activity throughout the day. This device can compute the minutes we spend doing activity that is moderate-to-vigorous in nature (MVPA).  <br /><br />
+Another way to classify physical activity is through a survey ("Arizona") that asks participants about how much time they engage in different types of activities. Based on their responses, the number of hours per week in different MET categories can be computed. For example, if an individual had a value of 15 for met_hrs_mets1x, that would indicate that they spend 15 hours per week on average performing "light" activities (like walking or easy housework).  <br /><br />
 The final way to classify physical activity is by directly asking participants how much time they spend per week doing activity in particular categories. These responses are given in the variables that start with "time_".*
 
 1.	Examine the 3 measures of physical activity: accelerometer, ARIZONA survey, and participant survey. Check their distributions for any anomalies and investigate how strongly these measures correlate with each other.

@@ -45,6 +45,7 @@ This course is graded credit/no credit and there is no point breakdown. Instead,
 
 #### Required Trainings
 Students will be working with real data from investigators at USC and must complete the appropriate required trainings. There are two trainings offered by CITI (https://about.citiprogram.org/) that must be completed by the third week of class: 
+
 * CITI Biomedical Human Subjects
 * CITI Responsible Conduct of Research
 * Students may need to complete additional project-specific trainings

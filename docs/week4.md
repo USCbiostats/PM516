@@ -1,4 +1,4 @@
-# Week 3
+# Week 4
 
 ## Practice Consultations
 
@@ -9,18 +9,22 @@
 
 📖 Textbook Chapter 4.1 - 4.4
 
-1. What information do you think you should know before a consultation? List at least three things you may want to ask the client for, and why you think they are important.
-2. What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
+1. What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
 
-🎥 [Biologist Talks to A Statistician](https://www.youtube.com/watch?v=Hz1fyhVOjr4)<br />  
+📖 [What Is Your Research Question? An Introduction to the PICOT Format for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430448/)<br />  
 
-3. Do you agree with the statistician’s approach to this interaction? If not, what would you have changed?
-4. Think back to the discussion from Week 1 on communication breakdowns. What are some techniques you can think of that would help reduce the misunderstanding between the statistician and researcher in this interaction?
+1. Use [chat GPT](chatgpt.com) to generate a hypothetical statistical consulting scenario. Ask the following questions:
+     * What is the population of interest for this study?
+     * Are there any exclusion and/or inclusion criteria?
+     * Is there any issue with generalizability?
+     * What is the intervention/treatment group?
+     * What is the comparison/control group?
+     * What is the outcome of this study?
+     * Is time an important component?
+  
+2. What else would you want to know about the research question? Think about general information about the study, the variables being used, and the target population.
+3. Do you have an idea of a type of analysis you could perform? What additional information do you think you might need from the client?
 
-🎥 [Stereotypical Views of Statisticians](https://www.youtube.com/watch?v=dx_W1Azvpf8/)<br />  
-
-1. Do you think the statistician’s anecdote about her mistake was an effective way to communicate with the researcher? Why or why not?
-2. What do you think the statistician did well, and what could be improved in this conversation?
 
 ### In Class
 

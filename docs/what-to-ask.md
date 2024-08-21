@@ -1,24 +1,65 @@
-# Analysis Report
+# What to Ask During A Consultation
 
-In this class, instead of creating a presentation for a client, we will be writing an analysis report. The analysis report should consist of at least one table and at least one graphic. Try to keep the report to 5 total pages, though it may be longer. While Chapter 4.7 of the textbook describes what should be in a final report, I like to construct my report slightly differently by including:
+*Compiled from biostatisticians in the SC-CTSI BERD consulting core.*
 
-## Executive Summary
-* Before the report, summarize the key points and findings for your client. 
-* Make sure the summary has a clear take-home message.
-* Write the summary using the ADEPT method (this will be explained later): make sure it is presented in everyday language and is clear to a non-technical audience.
-## Background & Goals
-* Explain background on why the study was done and any other pertinent background information.
-* Describe the scope of the analysis you will be presenting.
-## Study Design & Data
-* Describe the study design (experimental, cohort, etc.) as it pertains to the analysis you will be performing.
-* Explain how the samples were chosen, where the data is from, and anything unusual about the data.
-* List the variables you used and any possible manipulations or transformations you have performed.
-* Explain any data cleaning you performed, and perhaps a preliminary table or graphic.
-## Statistical Methods
-* Explain which statistical method you used and why you are using this method to answer the research question.
-* Include output that you used to answer the question.
-## Results
-* Present all results, including estimated values and confidence intervals in addition to p-values.
-* Be sure to explain the results in context of the original research question.
-* Make a couple tables and/or graphics to convey the results.
-* Ensure the subject matter questions have been answered.
+Translating a research question into a study can sometimes pose challenges for investigators when considering all necessary aspects. Fortunately, several frameworks, including PICOT, SPIDER, SPICE, and ECLIPSE, exist to assist investigators in organizing their thoughts and considerations. In addition to being useful for investigators, thinking about studies in these terms can help consultants think about the most important questions to ask during their meeting with a client. Not all clients have similar needs from a statistical consultant, so the statistician should be aware of which questions are pertinent to each specific project. These questions are listed below in the context of a human subjects study, but can be adapted for use in any biomedical study.
+
+## 1. Population
+
+* What is the intended population for your study?
+* How were participants in your study sampled?
+* What are the (expected) demographic characteristics of your sample/population?
+* Are there any inclusion or exclusion criteria for participants?
+
+## 2. Study Design
+
+* What is the study design (observational/experimental)?
+* How were participants sampled for your study? 
+* What is your anticipated sample size?
+* Has a power analysis been performed?
+
+## 3. Exposure/Intervention
+
+* What is the specific exposure being investigated?
+* If categorical, what are the different exposure groups?
+* Are there different variations of the exposure (e.g., if testing the effect of medication, different medication levels?)
+* Is there a control, placebo, or “standard of care” group?
+
+## 4. Outcome
+
+* What are the specific outcome(s) being investigated?
+* How were the outcomes assessed?
+* Are there secondary outcomes or other measures under consideration?
+* Are the outcome(s) assessed the same way for everybody in the study?
+
+## 5. Time
+
+* What is the time frame under which the data was collected?
+* Are there any temporal considerations or time points of interest?
+* Is time an integral part of your outcome measures?
+
+## 6. Bias
+
+* Are there any other competing exposures that could impact the results?
+* If the study has not yet been conducted, how will the study design minimize bias. If the study has been conducted, what are sources of bias that can be controlled for in analyses?
+
+## 7. Statistical Methods
+
+* Do you have a specific statistical method planned, or has anybody attempted to analyze the data?
+* Were participants measured multiple times (are observations dependent)?
+* Are there any subgroup analyses that are of interest?
+
+## 8. Data
+
+* In what format is the data stored?
+* Have all variables been checked for validation (e.g., no mixing of numerical/character entries)?
+* Does each row represent one unit of analysis?
+* Have all superfluous notes been removed from the data set?
+* Is all information reflected in the data’s variables (e.g., no important “meta data,” no important use of color, etc.)?
+
+## 9. Logistical
+
+* What is the current status of this project?
+* Please add the statistician to the study’s IRB.
+* What is your timeline for this request (interim and final deadlines)?
+* What are our to-do lists to complete on time?
