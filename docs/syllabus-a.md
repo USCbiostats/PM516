@@ -3,7 +3,7 @@
 PM516A: Statistical Problem Solving  
 1 Unit  
 Monday 5:10-6:00pm
-ONLINE 
+SSB115 
 
 ## Course Overview
 ### Course Description
@@ -21,6 +21,9 @@ Through this course, students will become familiar with the process of statistic
 
 ### Course Preparation
 Prerequisites: PM510 or equivalent course  (this course assumes familiarity with basic statistics and regression analysis)
+
+### Course Location
+We have a reserved room for this course. However, due to the nature of statistical consulting with remote clients, a substantial component of the course will be held online. Please check course announcements for further information about our meeting location.
 
 ## Course Requirements
 
