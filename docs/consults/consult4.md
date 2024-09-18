@@ -3,7 +3,7 @@
 ## Opening Statement
 
 I work for a research group that studies the determinants of adiposity (i.e., fat) in children. We’ve been studying several different hormone levels in children to see if they are related to abnormal weight gain in the first few years of life. We have generally hypothesized that certain hormones can increase fat tissue in the abdomen, leading to higher rates of overweight and obesity in these children.  
-One of the hormones we are currently interested in is called “hangrie,” as our research assistant has analyzed some data and found some interesting results. The following graph shows that there is a relationship between hangrie levels and BMI Z-score. It is clear that children with higher hangrie levels end up having higher BMI values, and we think that it’s because hangrie may cause increased fat production.  
+One of the hormones we are currently interested in is called “hangrie,” as our research assistant has analyzed some data and found some interesting results. The [attached graph](consult4_graph.png) shows that there is a relationship between hangrie levels and BMI Z-score. It is clear that children with higher hangrie levels end up having higher BMI values, and we think that it’s because hangrie may cause increased fat production.  
 What is the best way to demonstrate in a paper that hangrie causes higher BMI levels?
 
 
