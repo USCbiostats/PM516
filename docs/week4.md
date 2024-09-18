@@ -15,9 +15,9 @@
 
 1. Use [chat GPT](chatgpt.com) to generate a hypothetical biostatistical consulting scenario. Ask the following questions that will assess the PICOT criteria:
      * What is the population of interest for this study?
-            - Note the difference between the target population and the actual sample.
+       - Note the difference between the target population and the actual sample.
      * Are there any exclusion and/or inclusion criteria?
-            - Note whether these criteria align with the target population.
+       - Note whether these criteria align with the target population.
      * Is there any issue with generalizability?
             - Note what mechanisms are suggested for improving generalizability.
      * What is the intervention/treatment group?
