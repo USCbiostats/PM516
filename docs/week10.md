@@ -14,10 +14,12 @@
 
 📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf)
 
+1. Section 1.3 discusses Wainer’s Rules for Bad Graphs. Find an example of a "bad graph" (e.g., https://www.reddit.com/r/dataisugly/) and explain which of Wainer's rules it violates. Bring this example to the synchronous class section.
+
 
 📖 [Rudiments of Numeracy](https://www.jstor.org/stable/2344922)
 
-2. “Rudiments of Numeracy” lists six rules to follow when producing graphs and tables. Rule 6 concerns whether to produce a graph vs. a table. Consider the analyses you have performed thus far. For each, is it better to present them via text, a graph, or a table? Why?
+1. “Rudiments of Numeracy” lists six rules to follow when producing graphs and tables. Rule 6 concerns whether to produce a graph vs. a table. Consider the analyses you have performed thus far. For each, is it better to present them via text, a graph, or a table? Why?
 
 ### Optional Readings
 
