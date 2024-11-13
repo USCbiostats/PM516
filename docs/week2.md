@@ -8,11 +8,17 @@
 
 #### Required Trainings
 
+🎥 [How IRBs Protect Human Research Participants](https://www.youtube.com/watch?v=U8fme1boEbE) (7 Minutes)
+
+🖥️ [USC iStar IRB](https://istar.usc.edu) (2 Minutes)<br />
+Log into the USC iStar site. This will create an account for you in the system.
+
 🖥️ [Required CITI Trainings](https://hrpp.usc.edu/education_certification/)<br />
-Navigate to the USC CITI training website. You will need to complete the following trainings:
+Navigate to the USC CITI training website and click on the CITI Program link. At the CITI site, click LOG IN THROUGH MY ORGANIZATION. Then, click on "Add A Course". You will need to complete the following trainings:
 
 * CITI Biomedical Human Subjects
-* CITI Responsible Conduct of Research  
+* CITI Responsible Conduct of Research
+* CITI Research HIPAA  
 
 📖 [What to Ask During A Consultation](what-to-ask.md)  
    
