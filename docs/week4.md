@@ -11,7 +11,7 @@
 
 1. What are some tools you can use to help you organize your thoughts during a consulting session and remember what was discussed? 
 
-📖 [What Is Your Research Question? An Introduction to the PICOT Format for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430448/)<br />  
+📖 [What Is Your Research Question? An Introduction to the PICOT Format for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430448/) (15 minutes)<br />  
 
 1. Use [chat GPT](chatgpt.com) to generate a hypothetical biostatistical consulting scenario. Ask the following questions that will assess the PICOT criteria:
      * What is the population of interest for this study?
@@ -31,7 +31,7 @@
 
 ### In Class
 
-#### Practice Consultations
+#### Reflection
 
 1. What was the investigator's primary research question?
 2. What information was provided freely by the investigator, and what information did you need to ask probing questions in order to get?

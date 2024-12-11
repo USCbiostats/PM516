@@ -1,26 +1,20 @@
-# Week 13
+# Week 14
 
-##  Ethics
+##  Final Presentation
 
-&#x27A4; This week we will discuss ethical considerations for statistical consulting.
+&#x27A4; This week you will meet as a group with your investigator to deliver the final project.
 
 ### Complete Before Class
 
-#### Ethics
+#### Project
 
-📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)<br />  
+👥 Meet with your group to finalize your presentation. As a reminder, here are the following guidelines:
 
-1. Bohannon’s study had small sample size, they didn’t bother to balance age and gender across treatment groups, they examined multiple possible outcomes, and they didn’t report that at the termination of the study the two groups had lost the same amount of weight. Which of these faults is the biggest concern for you and why?
-2. Journalists are pressured to write on interesting, sensational stories (think of all the “click bait” on the internet). Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” That said, who has the most responsibility in ensuring that a study’s findings are reported accurately?
+1. You will have 30 minutes with your investigator. Plan for a 10-15 minute presentation with extra time for questions and answers at the end.
+2. Make sure you answer all your investigator's questions. It may help organize your thoughts to have a list of the research questions and then a brief response to each question stating the answer to that question based on your analysis.
+3. Each team member must contribute to the presentation to some extent.
+4. Be on time to the presentation, alert, and with your webcam on during the meeting.
 
-🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM)
+### Farewell
 
-3. Who stands most to lose in cases when inaccurate or misleading studies are published?
-
-### Complete During Class
-
-#### Ethics Case Studies
-
-### Optional Readings
-
-📖 [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice)
+That's it - congratulations!

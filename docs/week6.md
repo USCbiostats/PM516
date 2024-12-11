@@ -6,7 +6,7 @@
 
 ### Before Class
 
-📖 [Ten Common Statistical Mistakes to Watch Out For When Writing or Reviewing A Manuscript](https://elifesciences.org/articles/48175) <br />
+📖 [Ten Common Statistical Mistakes to Watch Out For When Writing or Reviewing A Manuscript](https://elifesciences.org/articles/48175) (30 minutes) <br />
 
 *Recall the common statistical mistakes:*
 

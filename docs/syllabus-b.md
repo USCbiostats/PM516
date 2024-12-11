@@ -5,82 +5,68 @@ PM516B: Statistical Problem Solving
 
 ## Course Overview
 ### Course Description
-This course serves to expose students to the practice of biostatistical consulting. It will help statisticians and data analysts develop the skills necessary for interacting with non-biostatistician collaborators. Under faculty supervision, the student will meet with an investigator, independently conduct statistical analysis, and communicate their findings.
+This course will reinforce concepts in biostatistical consulting and will expose students to the applied practice of biostatistical consulting. It will help statisticians and data analysts practice the necessary skills for successfully interacting with non-statistician collaborators. Under faculty supervision, the student will meet with an investigator and independently conduct statistical analysis throughout the semester. 
 
 ### Learning Objectives
-Through this course, students will gain additional experience with statsitical consulting. Students will:
-* Demonstrate the consulting principles learned in PM516a
-* Improve their skills when determining a statistical problem and analysis plan
-* Use statistical tools to produce a meaningful analysis
-* Effectively communicate the results of their analysis in a statistical report
-* Improve the quality of their statistical interactions with non-statistician collaborators
-* Understand how to work with individuals from diverse content domains
+Through this course, students will gain additional experience in statistical consulting. Students will:
+•	Recall and apply the consulting principles learned in PM516a.
+•	Summarize research questions and implement appropriate biostatistical methods to address such questions, understanding how different methodologies affect conclusions.
+•	Apply statistical tools they have learned in their program to produce a meaningful analysis.
+•	Evaluate statistical interactions with non-statistician collaborators to improve the quality of such interactions. 
+•	Understand how to work with individuals from diverse content domains.
+•	Create comprehensive, coherent consulting reports and interpret analyses for dissemination materials, such as the results sections of a manuscript.
+
 
 ### Course Preparation
 Prerequisites: PM516a (this course assumes familiarity with basic statistics and regression analysis)
 
-## Course Requirements
-
-### Communication
-Blackboard (data sets, assignment submission), website (course materials), USC e-mail and Slack (communication)
-
-### Textbook
-Cabrera J, McDougall A. Statistical Consulting. SPringer Science & Business Media; 2002 Jan 2.
-
-### Required Software
-Students must have proficiency in at least one statistical program, but may choose which to use for this course (e.g., R, SAS, Stata, SPSS).
-
 ## Assessments
 
-### Grading Breakdown
+Students will each be assigned a project and will use the semester to perform statistical analyses and create an analysis report for the client collaborator. As a 1-unit course, students are expected to spend approximately 30 hours on the analysis and writing of the project. All work should be completed before the last day of class.
 
-| Category | Points |
-| :--- | :--: |
-| Scope of Work | 10 |
-| Meetings | 30 |
-| Progress Report | 20 |
-| Final Project | 40 |
-| Total | 100 |
+This course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the following:
 
-Students will receive credit for the course if they achieve >80 points.  
+### Required Trainings
+Students will be working with real data from investigators at USC and must complete the appropriate required trainings. There are three trainings offered by CITI (https://about.citiprogram.org/) that must be completed by the third week of the semester: 
 
-### Late Submission Policy
-Students are expected to work independently and adhere to all deadlines. Reports will be expected by collaborators on the dates promised, and late reports will result in a penalty for every day submitted past the due date. Late final projects are not accepted except under verifiable extenuating circumstances. 
+* CITI Biomedical Human Subjects
+* CITI Responsible Conduct of Research
+* CITI Research HIPAA
+* Students may need to complete additional project-specific trainings
 
-### Description of Assessments
-**The Scope of Work** will contian information about the statistical project the student is working on, the amount of work and types of analyses to be performed, and a timeline and deliverables for the project.
-**Meetings** will occur between the student and the instructor/collaborator(s) no fewer than three times during the semester. In these meetings the student may discuss issues relating to planning, implementing, and/or interpreting the statistical analyses.
-**Progress Report** will ensure progress and will be due midway throught he course. It will consist of an outline of the analysis report that will be presented. 
-**The Final Project** is an analysis report that will address the researcher's question from the consultation..
+### Required Meetings <u>with Deliverables</u>
+This is a practicum-type course and students will develop additional skills through their interactions with the instructor and collaborator. Students must proactively schedule at least 5 meetings over the semester:
+* Initial Meeting. Once the project is assigned, the student will schedule a meeting with the collaborator (and instructor, if possible). After the meeting, the student must send the collaborator and instructor a consultation follow-up e-mail that discusses the scope of work and appropriate timelines for the project.
+* Interim Meetings. At least one interim meeting should be scheduled with the instructor and client collaborator to discuss statistical or substantive issues with the analysis, with additional meetings on an as-needed basis. 
+* Final Meeting (Instructor). Before presenting the final analyses to the collaborator, the student should schedule a meeting with the instructor to review the accuracy and interpretation of results to be presented.
+* Final Meeting (Collaborator). The final meeting will be focused on presenting the analyses to the collaborator (and instructor should be included, if possible).
 
-## Course Schedule
-| **A** | Topic |
+### Analysis Report
+An analysis report should be delivered to the collaborator in advance of the final meeting. There are different ways to accomplish this. For example, the PM516a textbook offers one template, while I use the template at (https://uscbiostats.github.io/PM516/analysis-report/). Be sure to use all principles learned in PM516a when completing the analysis report.
+
+### Debriefing
+
+By the end of the semester, students must submit documentation of the hours worked, much like a consultant would submit an invoice of their work performed. The template will be provided to the students.
+
+After presenting the final analysis report, the collaborator will be sent an evaluation form for constructive feedback on the student’s performance. Students should acknowledge the receipt of this feedback. This evaluation serves as feedback to the student but will not affect their final grade in the course.
+
+
+
+## Grading Breakdown
+
+| **Assignment** | Criteria |
 | :-: | :-- |
-|**Week 1** <br /> M 5/22 | Communication |
-|**Week 2*** <br /> M 5/29 | Exploratory Analysis |
-|**Week 3** <br /> M 6/5 | Practice Consultations |
-|**Week 4** <br /> M 6/12 | Investigator Meeting |
-|**Week 5*** <br /> M 6/19 | Project Review |
-|**Week 6*** <br /> M 6/26 | Tables & Figures |
-|**Week 7*** <br /> M 7/3 | Critical Consult Review |
-|**Week 8** <br /> M 7/10 | Project Check-In |
-|**Week 9** <br /> M 7/17 | Communicating Results |
-|**Week 10** <br /> M 7/24 | Final Presentation |
+|Required Trainings | Complete the required trainings before the third week in the course. |
+|Instructor Meetings | Schedule at least 2 meetings with the instructor, one of which will focus on reviewing your completed analysis report. |
+|Investigator Meetings | Schedule at least 3 meetings with the investigator: an initial meeting, a check-in meeting, and a final presentation meeting. |
+|Analysis Report | Successfully complete and submit your analysis report. |
+|Debriefing | Successfully complete your mock invoice and receive collaborator feedback. |
 
-| **B** | Topic |
-| :-: | :-- |
-|**Week 1** <br /> M 5/22 | The Practice of Statistical Consulting |
-|**Week 2*** <br /> M 5/29 | Reproducibility |
-|**Week 3** <br /> M 6/5 | Practice Consultations |
-|**Week 4** <br /> M 6/12 | Investigator Meeting |
-|**Week 5*** <br /> M 6/19 | Project Review |
-|**Week 6*** <br /> M 6/26 | Personality Types |
-|**Week 7*** <br /> M 7/3 | Critical Consult Review |
-|**Week 8** <br /> M 7/10 | Project Check-In |
-|**Week 9** <br /> M 7/17 | Ethics |
-|**Week 10** <br /> M 7/24 | Final Presentation |
+## Classroom Norms
+1. **Take Charge of Your Learning** - As a graduate-level course, this is an opportunity to deepen your expertise and develop new skills in your academic field. Your success depends on active engagement and responsibility in the learning process. Feel empowered to ask questions, seek clarification, and communicate barriers early with the instructor. Make use of all resources available to you, including office hours, peer support, and additional readings.
+2.	**Be Present** – This is a practice-based course, and active participation is key to your success as a consultant. “Being present” means not just physically attending class sessions, but fully engaging in every class session through focus, contribution to discussions, and participation in activities. Your active involvement will deepen your understanding of the field and help you develop useful skills.
+3.	**Practice Professionalism** – In this course, you will engage with your fellow students, but also external collaborators who are professionals in the field. It is essential to conduct yourself with professionalism in all interactions with them and with your fellow classmates. This includes being punctual, communicating clearly and respectfully, and representing you and your program with integrity. Come to sessions prepared, showing respect for the time and expertise of others. The way you conduct yourself in these interactions will contribute to your growth and future success in the field.
 
-*There will be no live session on weeks marked with a* *
 
 ## Statement on Academic Conduct and Support Systems
 ### Academic Conduct

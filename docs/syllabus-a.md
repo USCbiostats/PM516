@@ -2,8 +2,8 @@
 
 PM516A: Statistical Problem Solving  
 1 Unit  
-Monday 5:10-6:00pm
-SSB115 
+Monday 5:00-5:50pm
+SSB110
 
 ## Course Overview
 ### Course Description
@@ -44,17 +44,18 @@ There are three broad categories of activites for this course:
 * Skills development for presenting statistical results, which will improve the effectiveness of the statistician being able to communicate results to their client.
 * Participation in a real consultation as a group with an investigator client at USC.
 
-This course is graded credit/no credit and there is no point breakdown. Instead, student must complete <u>all</u> of the following:
+This course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the following:
 
 #### Required Trainings
-Students will be working with real data from investigators at USC and must complete the appropriate required trainings. There are two trainings offered by CITI (https://about.citiprogram.org/) that must be completed by the third week of class: 
+Students will be working with real data from investigators at USC and must complete the appropriate required trainings. There are two trainings offered by CITI (https://about.citiprogram.org/) that must be completed by the third class session: 
 
 * CITI Biomedical Human Subjects
 * CITI Responsible Conduct of Research
+* CITI Research HIPAA
 * Students may need to complete additional project-specific trainings
 
 #### Weekly Activities
-Students will participate in weekly activities to improve their consulting and statistical analysis skills. In order to get the most of these activities, students must complete required pre-class preparation, which may include reading articles, excerpts from the textbook, or watching videos. Students will use the information from these pre-class preparation activities in the live session, and will receive credit if they actively participate in at least 10 sessions. Partial credit will be given if the student attends but does not actively participate in a live class session.
+Students will participate in weekly activities to improve their consulting and statistical analysis skills. In order to get the most of these activities, students must complete required pre-class preparation, which may include reading articles, excerpts from the textbook, or watching videos. Students will use the information from these pre-class preparation activities in the live session.
 
 #### Investigator Meeting
 Students will be meeting with a collaborator at USC (e.g., from Keck School of Medicine, Children’s Hospital Los Angeles, etc.) and will work on a project as a group. Any meeting with the investigator is mandatory. Because this course teaches skills applicable in a consulting setting, students must be on time for the meeting and must be an <u>alert, active participant</u> with their <u>camera on</u>.
@@ -62,8 +63,29 @@ Students will be meeting with a collaborator at USC (e.g., from Keck School of M
 #### Final Presentation
 The final day of class will be a presentation to the client collaborator. Students will present in groups, and each student must contribute to the presentation. At the end of the meeting, there will be a brief period for the students and client to provide feedback on the experience.
 
-### Late Submission Policy
-Assignments cannot be completed outside of the in-class context. However, there may be opportunities for alternate make-up assignments in rare circumstances.
+## Grading Breakdown
+
+| **Assignment** | Criteria |
+| :-: | :-- |
+|Weekly Activities | Actively participate in at least 10 sessions. Half-credit will be given if the student attends but does not actively participate. Students can make up for a missed class session via a written assignment. |
+|Required Trainings | Complete the required CITI trainings by the third class session. |
+|Investigator Meeting | Actively participate in the preliminary investigator meeting. |
+|Final Presentation | Substantially contribute to the final project, including presenting part of the final group presentation. |
+
+## Classroom Norms
+1. **Take Charge of Your Learning** - As a graduate-level course, this is an opportunity to deepen your expertise and develop new skills in your academic field. Your success depends on active engagement and responsibility in the learning process. Feel empowered to ask questions, seek clarification, and communicate barriers early with the instructor. Make use of all resources available to you, including office hours, peer support, and additional readings.
+2.	**Be Present** – This is a practice-based course, and active participation is key to your success as a consultant. “Being present” means not just physically attending class sessions, but fully engaging in every class session through focus, contribution to discussions, and participation in activities. Your active involvement during class time will deepen your understanding of the field and help you develop useful skills.
+3.	**Practice Professionalism** – In this course, you will engage with your fellow students, but also external collaborators who are professionals in the field. It is essential to conduct yourself with professionalism in all interactions with them and with your fellow classmates. This includes being punctual, communicating clearly and respectfully, and representing you and your program with integrity. Come to sessions prepared, showing respect for the time and expertise of others. The way you conduct yourself in these interactions will contribute to your growth and future success in the field.
+
+## Policy on the Use of AI Generators
+The use of AI (e.g., ChatGPT) can sometimes be helpful when conducting statistical analysis and interpreting results. However, in my experience the use of AI has led to incorrect, misleading, or otherwise false results in a surprising number of cases. As such, I discourage the use of AI as the “final arbiter” of conducting and interpreting data analyses. Keep in mind the following:
+•	You may use AI tools to help aggregate and/or explain ideas related to this course, and some assignments will ask you to use these tools to generate hypothetical scenarios for you to examine.
+•	Only use these tools if you have sufficient training and experience in the methods you are asking AI tools to help you with. The output of such tools must be examined through a critical lens, and using such tools blindly can be dangerous.
+•	Be mindful of when AI is most useful. Consider its appropriateness in each situation.
+•	Do not assume the information provided by AI tools is accurate or trustworthy. In fact, assume all information is incorrect unless you can verify its accuracy with another source. You will be responsible for any errors or omissions provided by the tool.
+•	If you use AI tools for any deliverable, you are expected to clearly attribute any material generated by the tool used.
+
+
 
 ## Course Schedule
 [Weekly Content](content.md)

@@ -6,23 +6,11 @@
 
 ### Before Class
 
-#### Required Trainings
+#### Preparing for a Consultation
 
-🎥 [How IRBs Protect Human Research Participants](https://www.youtube.com/watch?v=U8fme1boEbE) (7 Minutes)
-
-🖥️ [USC iStar IRB](https://istar.usc.edu) (2 Minutes)<br />
-Log into the USC iStar site. This will create an account for you in the system.
-
-🖥️ [Required CITI Trainings](https://hrpp.usc.edu/education_certification/)<br />
-Navigate to the USC CITI training website and click on the CITI Program link. At the CITI site, click LOG IN THROUGH MY ORGANIZATION. Then, click on "Add A Course". You will need to complete the following trainings:
-
-* CITI Biomedical Human Subjects
-* CITI Responsible Conduct of Research
-* CITI Research HIPAA  
-
-📖 [What to Ask During A Consultation](what-to-ask.md)  
+📖 [What to Ask During A Consultation](what-to-ask.md)  (3 minutes)
    
-📖 [4 Tips for Statistical Consulting](https://blogs.ams.org/mathgradblog/2021/10/11/4-tips-for-statistical-consulting-learn-from-my-mistakes/)  
+📖 [4 Tips for Statistical Consulting](https://blogs.ams.org/mathgradblog/2021/10/11/4-tips-for-statistical-consulting-learn-from-my-mistakes/) (7 minutes) 
 
 1. What did Chanel say were the main reasons why she struggled with her consulting project?
 

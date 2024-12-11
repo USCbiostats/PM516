@@ -8,11 +8,11 @@
 
 #### Statistical Data Presentation
 
-📖 [Statistical Data Presentation](https://pubmed.ncbi.nlm.nih.gov/28580077/)
+📖 [Statistical Data Presentation](https://pubmed.ncbi.nlm.nih.gov/28580077/) (22 minutes)
 
 #### Improving Graphs & Figures
 
-📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf)
+📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf) (30 minutes)
 
 1. Section 1.3 discusses Wainer’s Rules for Bad Graphs. Find an example of a "bad graph" (e.g., https://www.reddit.com/r/dataisugly/) and explain which of Wainer's rules it violates. Bring this example to the synchronous class section.
 

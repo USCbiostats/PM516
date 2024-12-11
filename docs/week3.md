@@ -25,4 +25,4 @@ The final way to classify physical activity is by directly asking participants h
 
 ### Optional Readings
 
-📖 [Ten Simple Rules for Initial Data Analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819)
+📖 [Ten Simple Rules for Initial Data Analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819) (20 minutes)
