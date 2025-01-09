@@ -46,29 +46,20 @@ There are three broad categories of activites for this course:
 
 This course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the following:
 
-#### Required Trainings
-Students will be working with real data from investigators at USC and must complete the appropriate required trainings. There are two trainings offered by CITI (https://about.citiprogram.org/) that must be completed by the third class session: 
-
-* CITI Biomedical Human Subjects
-* CITI Responsible Conduct of Research
-* CITI Research HIPAA
-* Students may need to complete additional project-specific trainings
-
 #### Weekly Activities
-Students will participate in weekly activities to improve their consulting and statistical analysis skills. In order to get the most of these activities, students must complete required pre-class preparation, which may include reading articles, excerpts from the textbook, or watching videos. Students will use the information from these pre-class preparation activities in the live session.
+Students will participate in weekly activities to improve their consulting and statistical analysis skills. In order to benefit from these activities, students must complete required pre-class preparation, which may include reading articles, excerpts from the textbook, or watching videos. Students will use the information from these pre-class preparation activities in the live session.
 
 #### Investigator Meeting
 Students will be meeting with a collaborator at USC (e.g., from Keck School of Medicine, Children’s Hospital Los Angeles, etc.) and will work on a project as a group. Any meeting with the investigator is mandatory. Because this course teaches skills applicable in a consulting setting, students must be on time for the meeting and must be an <u>alert, active participant</u> with their <u>camera on</u>.
 
 #### Final Presentation
-The final day of class will be a presentation to the client collaborator. Students will present in groups, and each student must contribute to the presentation. At the end of the meeting, there will be a brief period for the students and client to provide feedback on the experience.
+The final day of class will involve a presentation to the client collaborator. Students will present in groups, and each student must contribute to the presentation. At the end of the meeting, there will be a brief period for the students and client to provide feedback on the experience.
 
 ## Grading Breakdown
 
 | **Assignment** | Criteria |
 | :-: | :-- |
-|Weekly Activities | Actively participate in at least 10 sessions. Half-credit will be given if the student attends but does not actively participate. Students can make up for a missed class session via a written assignment. |
-|Required Trainings | Complete the required CITI trainings by the third class session. |
+|Weekly Activities | Actively participate in at least 10 sessions. Half-credit will be given if the student attends but does not actively participate. Students may make up for a missed class session via a written assignment. |
 |Investigator Meeting | Actively participate in the preliminary investigator meeting. |
 |Final Presentation | Substantially contribute to the final project, including presenting part of the final group presentation. |
 
