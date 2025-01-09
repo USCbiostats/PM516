@@ -34,7 +34,9 @@ Students will be working with real data from investigators at USC and must compl
 * Students may need to complete additional project-specific trainings
 
 ### Required Meetings <u>with Deliverables</u>
+
 This is a practicum-type course and students will develop additional skills through their interactions with the instructor and collaborator. Students must proactively schedule at least 5 meetings over the semester:
+
 * Initial Meeting. Once the project is assigned, the student will schedule a meeting with the collaborator (and instructor, if possible). After the meeting, the student must send the collaborator and instructor a consultation follow-up e-mail that discusses the scope of work and appropriate timelines for the project.
 * Interim Meetings. At least one interim meeting should be scheduled with the instructor and client collaborator to discuss statistical or substantive issues with the analysis, with additional meetings on an as-needed basis. 
 * Final Meeting (Instructor). Before presenting the final analyses to the collaborator, the student should schedule a meeting with the instructor to review the accuracy and interpretation of results to be presented.
@@ -67,9 +69,11 @@ Log into the USC iStar site. This will create an account for you in the system.
 
 🖥️ [Required CITI Trainings](https://hrpp.usc.edu/education_certification/)<br /> Navigate to the USC CITI training website and click on the CITI Program link. At the CITI site, click LOG IN THROUGH MY ORGANIZATION. Then, click on "Add A Course." <br>
 You will need to complete the following trainings:
+
 * CITI Biomedical Human Subjects
 * CITI Responsible Conduct of Research
 * CITI Research HIPAA
+* Students may need to complete additional project-specific trainings
 
 ### By Week 4 (2/3)
 
@@ -77,6 +81,7 @@ You will need to complete the following trainings:
 
 Schedule and complete a meeting with your collaborator (and instructor, if possible). <br>
 Send a follow-up e-mail to the collaborator (cc: instructor) that discusses:
+
 * A brief summary of the research uestion
 * The scope of work you will perform
 * Estimated timelines for your work
@@ -85,9 +90,9 @@ Send a follow-up e-mail to the collaborator (cc: instructor) that discusses:
 
 #### Analysis, Interim Meetings, and Feedback
 
-* Work on your analysis
-* Work on your [analysis report](analysis-report.md)
-* Work on the [mock invoice](PM516b_Invoice_Template.docx)
+* Work on and complete your analysis
+* Work on and complete your [analysis report](analysis-report.md)
+* Work on and complete the [mock invoice](PM516b_Invoice_Template.docx)
 * Schedule at least 1 meeting with the instructor and/or collaborator, additional as needed
 
 ### By Week 15 (4/21)
