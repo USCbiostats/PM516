@@ -39,10 +39,12 @@ Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a 
 ### Slack Assignment
 
 Tell ChatGPT the following things:
-* The top qualities you listed.
-* Your Myers-Briggs personality type.
-* How your personality type likes to communicate.
-* Ask it to create a "brand" for you.
+
+  * The top qualities you listed.
+  * Your Myers-Briggs personality type.
+  * How your personality type likes to communicate.
+  * Ask it to create a "brand" for you.
+  
 Based on these responses, come up with your "brand." Post in Slack a description of your brand, a slogan, and another piece of information about it.
 
 
