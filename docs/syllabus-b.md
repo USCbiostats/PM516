@@ -9,6 +9,7 @@ This course will reinforce concepts in biostatistical consulting and will expose
 
 ### Learning Objectives
 Through this course, students will gain additional experience in statistical consulting. Students will:
+
 * Recall and apply the consulting principles learned in PM516a.
 * Summarize research questions and implement appropriate biostatistical methods to address such questions, understanding how different methodologies affect conclusions.
 * Apply statistical tools they have learned in their program to produce a meaningful analysis.
@@ -54,6 +55,9 @@ After presenting the final analysis report, the collaborator will be sent an eva
 
 ## Deliverables Schedule
 
+Use the first weeks of the course to orient you to the background materials: the importance of the IRB, interacting with the USC iStar IRB system, and completing required trainings. <br />
+Your project will be assigned by Week 4.
+
 ### By Week 2 (1/20)
 
 #### IRB Preparation
@@ -82,7 +86,7 @@ You will need to complete the following trainings:
 Schedule and complete a meeting with your collaborator (and instructor, if possible). <br>
 Send a follow-up e-mail to the collaborator (cc: instructor) that discusses:
 
-* A brief summary of the research uestion
+* A brief summary of the research question
 * The scope of work you will perform
 * Estimated timelines for your work
 
