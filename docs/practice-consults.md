@@ -8,3 +8,4 @@ The following represent hypothetical scenarios in which an investigator seeks bi
 4. [Hormones and Adiposity](consults/consult4.md) - *A researcher wants to know how to show that a certain hormone causes elevated BMI in children.* (Interpretation)
 5. [Student Stress Reduction](consults/consult5.md) - *A researcher wants to know the effect of various techniques on the reduction of stress in students.* (Study Design)
 6. [Particulates in Surgery](consults/consult6.md) - *A dental surgeon wants to determine how much particulate matter increases during their surgeries.* (Interpretation)
+7. [Pain Scores after Molar Extractions](consults/consult7.md) - *A team of dental researchers want to know how to describe differences in pain reduction after a new type of pain medication.* (Study Design/Data Format)
