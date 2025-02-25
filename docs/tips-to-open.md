@@ -1,31 +1,28 @@
-#8 Simple Tips That’ll Make Others Open Up to You
-## *Adapted from: 8 Simple Tips for Salespeople That’ll Make Customers Open Up to You*
+#7 Simple Tips That’ll Make Others Open Up to You
+## *Adapted from: Simple Tips for Salespeople That’ll Make Customers Open Up to You*
 Spiro.ai Blog  
 
 Listening is one of the most important skills that a consultant can have.  Listening allows the prospect to talk about a client’s needs and ensure you’re both on the same page. But listening doesn’t come easy for everyone, and getting the client to open up and talk can itself be a challenge.  
 Here are some tips to help clients open up and start talking, and to help you listen and find out how to use your time effectively:
 
-**1. Make sure to ask open-ended questions**
-Yes or no questions won’t really get people to open up and will make you appear like an order-taker rather than as a consultant. To get to the heart of any matter, you’ll need to dig deeper and ask open-ended questions that allow the client to provide a comprehensive explanation of their situation. It’s the difference between asking “Do you want me to perform a linear regression?” and “What are the questions you’re trying to address with your study?” 
-
-**2. Be an active listener**
+**1. Be an active listener**
 Active listening is important because it shows the collaborator that you’re engaged and paying attention. Aside from helping you understand the problem better, this skill will go far in building trust with the investigator, which will build a foundation for future collaborations. Active listening involves paying close attention, nodding your head or another physical gesture showing that you are listening, occasionally vocalizing agreement or sympathy (“oh wow!”, “Really?”, “Yes.”), and providing occasional feedback when necessary. You can develop a sense of connection with the collaborator if you express genuine interest in their research topic, and ask sincere questions related to their content area.
 
-**3. Ask follow-up questions frequently**
+**2. Ask follow-up questions frequently**
 When someone is speaking, make sure to ask relevant follow-up questions. In statistical consulting it is important to understand what your collaborator truly wants addressed, so sometimes you need to dig deep to translate their desires into a statistically-testable hypothesis. Follow-up questions allow you to assess their data, variables, and research questions they would like answered. For example, if someone is telling you about a concept they would like to test, you can follow-up with “What variables do you have in your data set that reflect this concept?”
 
-**4. Clarify anything you don’t understand**
+**3. Clarify anything you don’t understand**
 It might sound trivial, but asking questions to clarify a collaborator’s research is the best way to make sure you can address their concerns during a statistical consultation. Many times, investigators have a topic-specific lingo or unique acronyms they use when discussing a project. If you don’t understand any of these, then ask for more clarification. Many times, it provides an opportunity for the collaborator to discuss their research more in-depth. Other times researchers may have heard statistical terms that are different from the terms you were taught (e.g., “joint-point analysis” or “hierarchical modeling”). If you’re confused about a type of analysis that the investigator is asking for, ask them to describe it in more detail.
 
-**5. Keep your mind focused on the client**
+**4. Keep your mind focused on the client**
 Our attention spans have gotten worse and worse over the years as smartphones, television, and a constant stream of disruptive stimuli have made its way into our lives. But when you’re talking to a collaborator, focus not only on the words they’re using, but on the meaning and intentions behind what they’re saying. Don’t allow your mind to wander to what you’re going to say next, or to what you have going on that day. Focus only on the collaborator and your interactions will be infinitely better. If you’re engaging in a meeting that is seeming to go poorly, try to reflect on your attitudes and behaviors in addition to those of your client.
 
-**6. Ask for specifics**
+**5. Ask for specifics**
 Asking for specifics helps you narrow down important details and can help you determine the context behind the analysis you’re running. It can help to ask generally and then narrow down to specifics. For example, you might start with “Tell me about your data,” or even “Tell me about your outcomes,” and then start asking specifically with “What is the most important outcome you’re examining,” or “Which independent variable do you consider most important for this particular analysis?” Researchers often have several possible motivating questions, and it can sometimes be difficult for them to pin down the specifics of what they want answered. In this sense, you may even have to help them focus by narrowing down some testable hypotheses that will fit into the analysis.
 
-**7. Make your own points concisely**
+**6. Make your own points concisely**
 As a statistician, we may like to talk in-depth about the type of analysis we have performed, the assumptions of the analysis, how well our model fits, etc. There is a lot that goes on behind the scenes with statistical analysis but often your collaborator will be focused on the end result; “What is the punchline?” Details can be good when a collaborator asks for them but the first information you present should 1) directly address the research question and 2) explain it in as few words as possible. You’ve been analyzing this data for quite a while, but your collaborator may be seeing these results for the first time. Therefore, initially you should only convey the information needed to get the point across and then be quiet while your client processes the information and has time to respond.
 
-**8. Ask if there’s anything else you need to know**
+**7. Ask if there’s anything else you need to know**
 While it is good practice to recap at the end of a meeting with your collaborator, the best way to find out if you’ve forgotten anything is to let them tell you if you have. This is a powerful question because it allows for clarification and the chance for the collaborator to ask anything else they might have on their mind. Remember -- everyone loves when people listen to them, but very few get to experience it these days. By ending the meeting with this question, you can build trust and increase the potential for communication with your client.
 ■

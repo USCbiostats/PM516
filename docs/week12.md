@@ -6,6 +6,12 @@
 
 ### Complete Before Class
 
+#### Project Progress
+
+👥 Meet with your group and be prepared to answer the following questions about your project:
+
+* Bring a draft of your presentation to the synchronous session.
+
 #### Ethics
 
 📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)<br />  
@@ -17,10 +23,11 @@
 
 3. Who stands most to lose in cases when inaccurate or misleading studies are published?
 
-### Complete During Class
-
-#### Ethics Case Studies
-
-### Optional Readings
+#### Supplemental Readings
 
 📖 [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice)
+
+### In Class
+
+In week's class we will discuss the ethics involved in a handful of scenarios.
+

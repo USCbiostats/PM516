@@ -17,12 +17,13 @@
 
 📖 [Relationships & Interactions](https://magazine.amstat.org/blog/2009/09/01/heartofastatcareersept09/) (8 minutes)<br />  
 
-1. List 2 mistakes you might make as a statistician that would lead to a breakdown in communication.
-2. What are the 5 recommended steps as part of a statistical consulting interaction?
+1. What are the 5 recommended steps as part of a statistical consulting interaction?
 
 📖 [Tips That'll Make Others Open Up To You](tips-to-open.md) (6 minutes)<br />  
 
 1. You will see that several themes from the prior readings appear in this article. That said, what are three key pieces of advice you will take from this week?
+
+#### Supplemental Readings
 
 📖 Textbook Chapters 2.1, 2.2
 
@@ -41,9 +42,7 @@ Ask your partner one of the following questions:
 
 * Ask your partner about their favorite movie or television show. Have them explain the plot to you and ask them what aspects of the show they like the best. Make sure you know enough about the plot that you can explain it to others, as well as why it is a great show or movie.
 
-#### Reflection
+### Reflection
 
-1. Aside from the given question, did you discover any additional interesting information about your partner? What was this information?
-2. What strategies did you use to get your partner to open up to you? Which of these did you find most effective?
-
+*Think back on your interaction with your partner today. What strategies did you use to get your partner to open up to you? Of these, which did you find most effective?* 
 
