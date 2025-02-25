@@ -13,7 +13,6 @@
 * Write a list of the research questions your investigator had. 
 * For each item on the list, which variable(s) will you use?
 * Group these variables into exposure vs. outcome.
-* Bonus: Choose one research question that contains an association between two variables. 
 
 #### Statistical Mistakes
 
