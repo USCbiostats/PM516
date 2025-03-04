@@ -31,6 +31,8 @@
 * Over-interpreting non-significant results
 * Correlation and causation
 
+📖 [A Deeper Dive into Statistical Mistakes](statistical-mistakes.md)  (3 minutes)
+
 ### In Class
 
 In this week's class, be ready to identify statistical mistakes for several scenarios.
