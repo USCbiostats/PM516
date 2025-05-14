@@ -10,9 +10,9 @@ This course will reinforce concepts in biostatistical consulting and will expose
 ### Learning Objectives
 Through this course, students will gain additional experience in statistical consulting. Students will:
 
-* Recall and apply the consulting principles learned in PM516a.
+* Apply the consulting principles learned in PM516a.
 * Summarize research questions and implement appropriate biostatistical methods to address such questions, understanding how different methodologies affect conclusions.
-* Apply statistical tools they have learned in their program to produce a meaningful analysis.
+* Implement statistical tools they have learned in their program to produce a meaningful analysis.
 * Evaluate statistical interactions with non-statistician collaborators to improve the quality of such interactions. 
 * Understand how to work with individuals from diverse content domains.
 * Create comprehensive, coherent consulting reports and interpret analyses for dissemination materials, such as the results sections of a manuscript.
@@ -22,7 +22,7 @@ Prerequisites: PM516a (this course assumes familiarity with basic statistics and
 
 ## Assessments
 
-Students will each be assigned a project and will use the semester to perform statistical analyses and create an analysis report for the client collaborator. As a 1-unit course, students are expected to spend approximately 30 hours on the analysis and writing of the project. All work should be completed before the last day of class.
+Students will each be assigned a project and will use the semester to perform statistical analyses and create an analysis report for the client collaborator. As a 1-unit course, students are expected to spend approximately 40 hours on the analysis and writing of the project. All work should be completed before the last day of class.
 
 This course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the following:
 
@@ -58,7 +58,7 @@ After presenting the final analysis report, the collaborator will be sent an eva
 Use the first weeks of the course to orient you to the background materials: the importance of the IRB, interacting with the USC iStar IRB system, and completing required trainings. <br />
 Your project will be assigned by Week 4.
 
-### By Week 2 (1/20)
+### By Week 2 (6/4)
 
 #### IRB Preparation
 
@@ -67,7 +67,7 @@ Your project will be assigned by Week 4.
 🖥️ [USC iStar IRB](https://istar.usc.edu) (2 Minutes)<br /> 
 Log into the USC iStar site. This will create an account for you in the system.
 
-### By Week 3 (1/27)
+### By Week 3 (6/11)
 
 #### CITI Trainings
 
@@ -79,7 +79,7 @@ You will need to complete the following trainings:
 * CITI Research HIPAA
 * Students may need to complete additional project-specific trainings
 
-### By Week 4 (2/3)
+### By Week 4 (6/18)
 
 #### Project Assignment & Initial Meeting
 
@@ -90,7 +90,7 @@ Send a follow-up e-mail to the collaborator (cc: instructor) that discusses:
 * The scope of work you will perform
 * Estimated timelines for your work
 
-### By Week 14 (4/14)
+### During the Semester
 
 #### Analysis, Interim Meetings, and Feedback
 
@@ -99,13 +99,11 @@ Send a follow-up e-mail to the collaborator (cc: instructor) that discusses:
 * Work on and complete the [mock invoice](PM516b_Invoice_Template.docx)
 * Schedule at least 1 meeting with the instructor and/or collaborator, additional as needed
 
-### By Week 15 (4/21)
+### Before the End of Semester (8/12)
 
 #### Final Check-In
 
 * Schedule a meeting with the instructor to review your work
-
-### By Week 16 (4/28)
 
 #### Final Deliverable
 
