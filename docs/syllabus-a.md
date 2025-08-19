@@ -2,8 +2,8 @@
 
 PM516A: Statistical Problem Solving  
 1 Unit  
-Monday 5:00-5:50pm
-SSB110
+Monday 5:10-6:00pm
+SSB116
 
 ## Course Overview
 ### Course Description
