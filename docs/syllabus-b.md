@@ -58,7 +58,7 @@ After presenting the final analysis report, the collaborator will be sent an eva
 Use the first weeks of the course to orient you to the background materials: the importance of the IRB, interacting with the USC iStar IRB system, and completing required trainings. <br />
 Your project will be assigned by Week 4.
 
-### By Week 2 (6/4)
+### By Week 2
 
 #### IRB Preparation
 
@@ -67,7 +67,7 @@ Your project will be assigned by Week 4.
 🖥️ [USC iStar IRB](https://istar.usc.edu) (2 Minutes)<br /> 
 Log into the USC iStar site. This will create an account for you in the system.
 
-### By Week 3 (6/11)
+### By Week 3
 
 #### CITI Trainings
 
@@ -79,7 +79,7 @@ You will need to complete the following trainings:
 * CITI Research HIPAA
 * Students may need to complete additional project-specific trainings
 
-### By Week 4 (6/18)
+### By Week 4
 
 #### Project Assignment & Initial Meeting
 
@@ -99,7 +99,7 @@ Send a follow-up e-mail to the collaborator (cc: instructor) that discusses:
 * Work on and complete the [mock invoice](PM516b_Invoice_Template.docx)
 * Schedule at least 1 meeting with the instructor and/or collaborator, additional as needed
 
-### Before the End of Semester (8/12)
+### Before the End of Semester
 
 #### Final Check-In
 
