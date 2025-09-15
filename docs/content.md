@@ -16,7 +16,7 @@
 |[**Week 10**](week10.md) <br /> M 11/10 | Presenting Statistical Information |
 |[**Week 11**](week11.md) <br /> M 11/17 | The Statistician's Role / Check-In II |
 |[**Week 12**](week12.md) <br /> M 11/24| Ethics |
-|[**Week 13**](week13.md) <br /> M 11/31 | Investigator Meeting: Final Presentation |
+|[**Week 13**](week13.md) <br /> M 12/1 | Investigator Meeting: Final Presentation |
 
 <!-- |**No Class** <br /> M 2/17 | President's Day | -->
 <!-- |**No Class** <br /> M 3/17 | Spring Break | -->
