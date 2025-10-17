@@ -1,4 +1,4 @@
-# Explaining Statistical Concepts
+# Explaining Statistical Concepts: Breakout Scenarios
 
 These scenarios are designed for practicing the ADEPT method of explaining statistical concepts:
 **Analogy, Diagram, Example, Plain Language, Technical Detail.**
@@ -12,6 +12,7 @@ Your client is looking at the effect of a new GLP-1 drug on weight loss. You ran
 Y = –1.94 × √(time in months).  
 You explained:  
 > “For each unit increase in the square unit of time (month) since the start of medication, there was an average 1.94 unit decrease in percent weight change.”
+
 The client responds:  
 > “So participants lost 1.94% of their weight each month? That seems too steep — it would mean about 24% after a year.”
 
