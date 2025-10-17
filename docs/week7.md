@@ -25,7 +25,7 @@
 
 1. Which of the analogies did you feel was most effective? Why?
 
-📖 [Communicating Statistics to Nonstatisticians](https://stattrak.amstat.org/2016/08/01/nonstatisticians/) (10 minutes)<br /> 
+📖 [Communicating Statistics to Nonstatisticians](https://magazine.amstat.org/blog/2019/09/01/comm_nonstatisticians/) (10 minutes)<br /> 
 
 1. Which method of communication does the author say has the greatest chance of success?
 
