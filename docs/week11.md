@@ -8,7 +8,7 @@
 
 #### Project Progress
 
-👥 Meet with your group and be prepared to answer the following questions about your project:
+👥 Meet with your group and make progress on the following questions about your project:
 
 Consider every analysis that you have performed up to this point. Write a list of what the analysis was, why you did it, and classify each into the following categories: 
 

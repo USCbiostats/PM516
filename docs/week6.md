@@ -8,7 +8,7 @@
 
 #### Project Progress
 
-👥 Meet with your group and be prepared to answer the following questions about your project:
+👥 Meet with your group and make progress on the following questions about your project:
 
 * Write a list of the research questions your investigator had. 
 * For each item on the list, which variable(s) will you use?

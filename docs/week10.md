@@ -8,7 +8,7 @@
 
 #### Project Progress
 
-👥 Meet with your group and be prepared to answer the following questions about your project:
+👥 Meet with your group and make progress on the following questions about your project:
 
 * Draft a table and a figure that you think illustrates an important preliminary descriptive finding.
 

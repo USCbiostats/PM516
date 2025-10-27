@@ -8,11 +8,26 @@
 
 #### Project Progress
 
-👥 Meet with your group and be prepared to answer the following questions about your project:
+👥 Meet with your group and compile a <u>project draft</u>. There should just be one document per group. You may e-mail it or send via Slack. It should include the following:
 
-* Provide information on the relationships among all relevant variables in the form of correlation matrices, scatter plots, and contingency tables, where appropriate. 
-* Write out the investigator's research questions in the form of testable statistical hypotheses.
-* Propose the statistical test(s) you will use to address each of these hypotheses.
+##### Background and Scope
+
+* Clearly outline the research questions posed by your investigator.
+* For each question, specify the key variables from the dataset that will be used to address it.
+* If applicable, briefly describe the study design and/or data source, to contextualize how the questions can be answered.
+
+##### Data and Design
+
+* Summarize the unit of observation (e.g., participant, procedure, visit, time period) and the total number of observations available.
+* Describe the extent of missing data and any preliminary strategies for handling it (e.g., listwise deletion, pairwise deletion, imputation, sensitivity analysis).
+* Discuss variables of concern (e.g., input errors, unclear coding) and note any data cleaning steps performed.
+* Present summary statistics that describe the main variables (tables or figures), emphasizing their distributions.
+* Include simple bivariate analyses that explore the relationships between key variables (e.g., means by group, correlations, contingency tables).
+
+##### Analysis Plan
+ 
+* For each research question, state the planned statistical approach.
+* Specify the null and alternative hypothesis for each test, with regard to your model parameters.
 
 #### Research Design and Statistical Hypotheses
 
