@@ -30,7 +30,7 @@
 
 📖 [The Lie Factor and Baseline Paradox](https://nightingaledvs.com/the-lie-factor-and-the-baseline-paradox/) (6 minutes)
 
-📖 [The Lie Factor Definition](https://infovis-wiki.net/wiki/Lie_Factor) (6 minutes)
+📖 [The Lie Factor Definition](https://infovis-wiki.net/wiki/Lie_Factor) (2 minutes)
 
 1. Find an example of a graph that appears to have some level of the "lie factor" (again, e.g., https://www.reddit.com/r/dataisugly/). Bring this example to the synchronous class section and compute the extent of the lie factor.
 
