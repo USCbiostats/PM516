@@ -26,6 +26,14 @@
 
 1. “Rudiments of Numeracy” lists six rules to follow when producing graphs and tables. Rule 6 concerns whether to produce a graph vs. a table. Consider the analyses you have performed thus far. For each, is it better to present them via text, a graph, or a table? Why?
 
+#### The "Lie" Factor
+
+📖 [The Lie Factor and Baseline Paradox](https://nightingaledvs.com/the-lie-factor-and-the-baseline-paradox/) (6 minutes)
+
+📖 [The Lie Factor Definition](https://infovis-wiki.net/wiki/Lie_Factor) (6 minutes)
+
+1. Find an example of a graph that appears to have some level of the "lie factor" (again, e.g., https://www.reddit.com/r/dataisugly/). Bring this example to the synchronous class section and compute the extent of the lie factor.
+
 #### Supplemental Readings
 
 📖 [How to Design Terrible Graphs](https://www.freecodecamp.org/news/how-to-design-terrible-graphs-3b213d909387/) <br />
