@@ -11,3 +11,11 @@ Dr. Libra contacts you to review the results of their study and asking you to dr
 When you ask to see the data, her lab manager sends you an e-mail back saying: "Dr. Libra doesn't want me to send the data out to anybody." 
 
 You explain that this is necessary for your review, and she responds: "I think Dr. Libra doesn't want to include any additional authors on the paper, which is why she doesn't want you to look at the data. I've actually been doing this analysis all alone and Dr. Libra discourages me from asking statisticians to help with the analysis directly."
+
+## Questions for Discussion
+
+* How would you respond to this situation?
+* What kind of response or resistance would you expect?
+* How would you address this resistance?
+* How much "ethical risk" does this situation put you in?
+* Who wins (benefits) and loses (suffers consequences) if you don't intervene?

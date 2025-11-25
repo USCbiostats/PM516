@@ -13,3 +13,11 @@ When you ask to see the data to ensure the results are correct, her lab manager 
 When you tell Dr. Libra, she becomes upset and says, "I only asked you to review the methods section. The analysis has already been done and we need to submit this as quickly as possible." 
 
 She also points out that "your website says you provide letters of statistical review. The scope of what I asked for was just the methods -- not a full re-analysis. I think you're overstepping your bounds."
+
+## Questions for Discussion
+
+* How would you respond to this situation?
+* What kind of response or resistance would you expect?
+* How would you address this resistance?
+* How much "ethical risk" does this situation put you in?
+* Who wins (benefits) and loses (suffers consequences) if you don't intervene?
