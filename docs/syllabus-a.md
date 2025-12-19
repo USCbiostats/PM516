@@ -1,9 +1,8 @@
 # Syllabus
 
-PM516A: Statistical Problem Solving  
+PM516A: Biostatistical Consulting  
 1 Unit  
-Monday 5:10-6:00pm
-SSB116
+Monday 5:00-6:00pm
 
 ## Course Overview
 ### Course Description

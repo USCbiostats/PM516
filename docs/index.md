@@ -1,7 +1,7 @@
 # PM516a: Biostatistical Consulting
 
 ## Welcome!
-Welcome to PM516a: Biostatistical Consulting for Fall 2025! This semester we will learn skills to become an effective consultant and work with an investigator at Keck on an actual research problem.  
+Welcome to PM516a: Biostatistical Consulting for Spring 2026! This semester we will learn skills to become an effective consultant and work with an investigator at Keck on an actual research problem.  
 
 This course will be useful for:  
 

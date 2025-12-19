@@ -11,7 +11,7 @@
 👥 Meet with your group and make progress on the following questions about your project:
 
 * Comment on whether your data was in a format that is acceptable for analysis. Check variable names, variable types, and values within variables. Is the data set free of any extraneous information (e.g., notes, color formatting)? How many observations are there?
-* Comment on the distributions of the variables you will use, providing measures of variation and central tendency. Comment on outliers.
+* Comment on the distributions of the variables you will use, providing measures of variation and central tendency. Comment on outliers or implausible values. 
 * Comment on any missingness in your variables. If present, how extensive is any missingness? Are missing values clearly denoted?
 
 #### Communicating Results

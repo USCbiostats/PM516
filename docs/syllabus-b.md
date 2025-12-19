@@ -1,6 +1,6 @@
 # PM516b Overview
 
-PM516B: Statistical Problem Solving (Applied Biostatistical Consulting)  
+PM516B: Biostatistical Consulting
 1 Unit  
 
 ## Course Overview
@@ -36,21 +36,21 @@ Students will be working with real data from investigators at USC and must compl
 
 ### Required Meetings <u>with Deliverables</u>
 
-This is a practicum-type course and students will develop additional skills through their interactions with the instructor and collaborator. Students must proactively schedule at least 5 meetings over the semester:
+This is a practicum-type course and students will develop additional skills through their interactions with the instructor and client. Students must proactively schedule at least 5 meetings over the semester:
 
-* Initial Meeting. Once the project is assigned, the student will schedule a meeting with the collaborator (and instructor, if possible). After the meeting, the student must send the collaborator and instructor a consultation follow-up e-mail that discusses the scope of work and appropriate timelines for the project.
+* Initial Meeting. Once the project is assigned, the student will schedule a meeting with the client (and instructor, if possible). After the meeting, the student must send the client and instructor a consultation follow-up e-mail that discusses the scope of work and appropriate timelines for the project.
 * Interim Meetings. At least one interim meeting should be scheduled with the instructor and client collaborator to discuss statistical or substantive issues with the analysis, with additional meetings on an as-needed basis. 
-* Final Meeting (Instructor). Before presenting the final analyses to the collaborator, the student should schedule a meeting with the instructor to review the accuracy and interpretation of results to be presented.
-* Final Meeting (Collaborator). The final meeting will be focused on presenting the analyses to the collaborator (and instructor should be included, if possible).
+* Final Meeting (Instructor). Before presenting the final analyses to the client, the student should schedule a meeting with the instructor to review the accuracy and interpretation of results to be presented.
+* Final Meeting (client). The final meeting will be focused on presenting the analyses to the client (and instructor should be included, if possible).
 
 ### Analysis Report
-An analysis report should be delivered to the collaborator in advance of the final meeting. There are different ways to accomplish this. For example, the PM516a textbook offers one template, while I use [this template](https://uscbiostats.github.io/PM516/analysis-report/). Be sure to use all principles learned in PM516a when completing the analysis report.
+An analysis report should be delivered to the client in advance of the final meeting. There are different ways to accomplish this. For example, the PM516a textbook offers one template, while I use [this template](https://uscbiostats.github.io/PM516/analysis-report/). Be sure to use all principles learned in PM516a when completing the analysis report.
 
 ### Debriefing
 
 By the end of the semester, students must submit documentation of the hours worked, much like a consultant would submit an invoice of their work performed. The template can be downloaded in Word format [here](PM516b_Invoice_Template.docx).
 
-After presenting the final analysis report, the collaborator will be sent an evaluation form for constructive feedback on the student’s performance. Students should acknowledge the receipt of this feedback. This evaluation serves as feedback to the student but will not affect their final grade in the course.
+After presenting the final analysis report, the client will be sent an evaluation form for constructive feedback on the student’s performance. Students should acknowledge the receipt of this feedback. This evaluation serves as feedback to the student but will not affect their final grade in the course.
 
 
 ## Deliverables Schedule
