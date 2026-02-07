@@ -2,13 +2,11 @@
 
 ## Opening Statement
 
-NOTE: In 7A, only show the "Data" worksheet in the workbook!
-
 We're examining the effects of pain medication on pain after oral surgery. Standard treatment is to prescribe Standard Bupivacaine (SB) to patients recovering from surgery. However, we want to see if Liposomal Bupivacaine (LB) is more effective at reducing pain.</br></br>
-We performed this experiment on 30 people who were recovering from molar extractions. Pain medication was administered once through syringe after the surgery. Pain was measured in the evening the day after surgery and administration of pain medication (Day 0), and then again in the evening each subsequent day after surgery (Day 1, Day 2, etc.). </br></br>
+We are performing this experiment on 30 people who were recovering from molar extractions. Pain medication was administered once through syringe after the surgery. Pain was measured in the evening the day after surgery and administration of pain medication (Day 0), and then again in the evening each subsequent day after surgery (Day 1, Day 2, etc.). </br></br>
 Our main question is: are pain scores lower on the side that was treated with Liposomal Bupivacaine vs. the side treated with Standard Bupivacaine? We also want to know if the data is in the right format? If not, how would you make it into the right format?</br></br>
 
-We have our [data set](scenario7data.xlsx) that we can show you. 
+We have our [data set](scenario7data.xlsx) (ONLY SHOW THE "DATA" TAB) that we can show you. 
 
 IF STUDENTS ASK, THEN YOU CAN TELL THEM:
 

@@ -2,59 +2,51 @@
 
 ## Opening Statement
 
-I’m a doctor involved with dental surgery at USC. We are planning to examine how much particulate matter builds up in our operating room during oral surgery procedures.
+We're examining the effects of pain medication on pain after oral surgery. Standard treatment is to prescribe Standard Bupivacaine (SB) to patients recovering from surgery. However, we want to see if Liposomal Bupivacaine (LB) is more effective at reducing pain.
 
-Our main goal is to determine whether particulate matter increases in the operating room during these procedures. We plan to use an optical particle counter placed in the room (about 60 cm from the procedure site, on the surgeon's left) to record particulate levels before and during surgery.
+We are performing this experiment on patients recovering from molar extractions. Pain medication was administered once through syringe after the surgery. Pain was measured in the evening the day after surgery and administration of pain medication (Day 0), and then again in the evening each subsequent day after surgery (Day 1, Day 2, etc.). 
 
-Before we collect data, we want to consult with a statistician to make sure our study design and data collection plan are apprpriate and will allow us to answer our research question.
+Our main question is: are pain scores lower on the side that was treated with Liposomal Bupivacaine vs. the side treated with Standard Bupivacaine? We also have a data set from a previous study and want to know if the data is in the right format? If not, how would you make it into the right format?
+
+We have our [data set](scenario7data.xlsx) (ONLY SHOW THE "DATA" TAB) that we can show you. 
 
 ## Additional Information
 
 ### Population
 
-* Intended population is all patients undergoing oral surgery.
-* Accessible population is patients undergoing oral surgery at USC.
-* There are four general categories of surgery procedures, but we were not planning on recording procedure type.
-* Different surgeons may perform the procedure.
+Intended: All patients that undergo molar extractions.  
+Actual: Patients that underwent molar extractions at USC.
 
-### Study Structure and Measurements
+1. <u>How many patients do you plan to examine?</u> We intend on collecting data from 30 patients. <font color = #ff8c00>*This may be adequately powered but no formal analysis has been done. With a total of 30 participants, it would be a good idea to run such an analysis.*</font>
 
-* Particulate matter will be measured at baseline (before surgery) and repeatedly during surgery.
-* We plan to collect measurements every 15 seconds during the procedure.
-* Surgery length can range from a few minutes to about 60 minutes.
-* The operating rooms have an air filtration system that fully cycles the air every 3-4 minutes.
+### Intervention
 
-### Exposure / Intervention
+Liposomal bupivacaine.
 
-* There is no formal intervention; this is an observational study.
-* We are interested in how particulate matter changes naturally during surgery.
+1. <u>You mentioned "side of the mouth." Is each patient given both the SB and LB medications, one on each side of the mouth?</u> Yes, each patient received both medications, one on each side of the mouth. <font color = #ff8c00>*This is potentially good study design, as each patient serves as their own control. It also opens us up for a paired-type analysis.*</font>
+1. <u>Is SB assigned to the same side of the mouth for each patient?</u> That's what we were going to do, unless you have a different idea. <font color = #ff8c00>*We do not want treatment to be potentially confounded with side of mouth, so treatment should be randomized to left vs. right for each patient.*</font>
+
+### Comparison
+
+Standard bupivacaine.
+
+1. <u>What do you want to compare, exactly?</u> We want to see if, and to what extent, particulates of different sizes increase during these surgeries.
 
 ### Outcome
 
-* We will measure five particle size categories:
-    * <1.0 mcm
-    * 1.0-2.5 mcm
-    * 2.5-5.0 mcm
-    * 5.0-10.0 mcm
-    * 10.0-25.0 mcm
+Pain score.
 
-### Constraints
+1. <u>Can you tell me more about the outcome?</u> This is the standard Pain NRS (numerical rating scale) metric that is used widely across studies. Patients are asked to rate their pain on a scale of 1-10. <font color = #ff8c00>*Though this is widely used, it has been criticized in the past for individuals having different reference points for pain as well as pain tolerances. The paired design is perfect as it removes the intra-individual variability in pain reference points.*</font>
 
-* We have limited resources for data management and cleaning.
-* We are unsure whether we need to record:
-    * Exact surgery duration
-    * Time stamps for each particulate measurement
-    * Surgeon identity
-    * Procedure type
+### Time
 
+Measurements were taken the evening of the day of surgery and each evening thereafter.
 
-### Thoughts
+1. <u>How many days do you assess follow-up pain?</u> On up to 8 days. <font color = #ff8c00>*This seems like a lot of follow-up but there may be a good reason for it.*</font>
+2. <u>You said "up to" 8 days. Are individuals not strictly followed up for 8 days?</u> We just think that, as more time goes on, it will be harder to keep participants engaged. Plus we think that it will make the study less powerful if we see a drop-off in the NRS difference as time goes on. <font color = #ff8c00>*First, you'd want to make sure that the patients who "drop out" are not systematically different than those who remain in the study, or bias could be introduced. Secondly, it seems like they are hedging their bets about the length of follow-up and hoping to not see weakening effects toward the end. That's just bad science; they should pick a meaningful follow-up duration, justify it, and stick to it.*</font>
 
-To be successful, the statisticians must:
+### Data
 
-* Identify threats to the validity of the proposed design.
-* Clarify the appropriate units of analysis.
-* Discuss how to handle repeated measurements.
-* Account for different surgery lengths, procedure types, and surgeon effects.
-* Recommend which varibles must be recorded for valid inference.
-* Suggest an overall analysis strategy that the data collection supports.
+1. Rows represent time points.
+1. Columns represent patient-side combinations
+1. Some patients have missing observations on some days
