@@ -18,7 +18,7 @@
 
 📖 [The Adept Method](https://betterexplained.com/articles/adept-method/) (8 minutes)
 
-1. Ask [chat GPT](chatgpt.com) to explain a biostatistical concept using the ADEPT method. What concept did it choose? How well do you think its explanations were? 
+1. Ask your favorite AI tool to explain a biostatistical concept using the ADEPT method. What concept did it choose? How well do you think its explanations were? 
 2. Post a brief synopsis to the course Slack (no more than a couple sentences) of the concept that was chosen and the analogy that was made.
 
 📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf) (19 minutes)<br />  

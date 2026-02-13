@@ -33,7 +33,7 @@ Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a 
 
 #### Brand Synthesis
 
-Tell ChatGPT the following things:
+Tell your favorite AI tool the following things:
 
   * The top qualities you listed.
   * Your Myers-Briggs personality type.

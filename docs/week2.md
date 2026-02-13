@@ -12,13 +12,13 @@ One of the jobs of a study biostatistician can be to help translate a researcher
 
 📖 [What Is Your Research Question? An Introduction to the PICOT Format for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430448/) (15 minutes)<br />  
 
-1. Use [chat GPT](chatgpt.com) to request the following information:
+1. Use an AI tool of your choice (e.g., Gemini, ChatGPT) to request the following information:
 
 * Generate a hypothetical biostatistical consulting scenario. 
 * Use the PICOT framework to break down the researcher's question.
 * Ask if there are any other frameworks that can be used for the statistician to better understand the client's research question.
   
-2. Post a short summary of the research question, written in PICOT format, to the course Slack.
+2. Post which generative AI tool you used and a short summary of the research question, written in PICOT format, to the course Slack.
 
 #### Tips for Consulting
    
