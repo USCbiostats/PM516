@@ -26,6 +26,7 @@ By the end of this week you will be able to:
 * Discuss concerns with any variables (e.g., input errors, unclear coding) and note any data cleaning steps performed.
 
 **Initial Analysis**
+
 * Present summary statistics that describe the main variables (tables or figures), emphasizing their distributions.
 * Include simple bivariate analyses that explore the relationships between key variables (e.g., means by group, correlations, contingency tables).
 

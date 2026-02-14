@@ -32,8 +32,8 @@ Use this table as a guide:
  
 📖 [CONSORT Checklist for Randomized Trials](https://www.equator-network.org/reporting-guidelines/consort/) (3 minutes)
 
-&#x27A4; Based on the study design, would you use the CONSORT or STROBE checklist for this study?
-&#x27A4; As a statistician, which of the items on the checklist will you be responsible for?
+&#x27A4; Based on the study design, would you use the CONSORT or STROBE checklist for this study? <br />
+&#x27A4; As a statistician, which of the items on the checklist will you be responsible for? <br />
 &#x27A4; Identify which checklist items are most relevant to your project and ensure they are addressed in your final report.
 
 ### In Class

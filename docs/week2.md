@@ -5,6 +5,7 @@
 The first consulting meeting sets the tone for a successful collaboration. This week we examine how to structure that meeting, clarify the research question, and manage expectations about time, budget, and statistical limitations.
 
 By the end of this week you will be able to:
+
 1. Use the PICOT framework to clarify a research question.
 2. Identify professional considerations such as timelines, scope, and budget, that arise in a first consultation.
 

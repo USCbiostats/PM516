@@ -22,12 +22,12 @@ By the end of this week, you will be able to:
 📖 [What to Expect When You Consult A Statistician](https://community.amstat.org/cnsl/forclients/expect-content) (Section 1.D - 3 minutes)<br />
 Look specifically at the 11 qualities listed in Section 1.D.  
 
-&#x27A4; Which quality do you identify with most? Which quality feels less natural to you? 
+&#x27A4; Which quality do you identify with most? Which quality feels less natural to you?  <br />
 &#x27A4; What is one step you could take to strengthen that area?
 
 📖 [Myers-Briggs Personality Test](https://www.16personalities.com/free-personality-test) (10 minutes)
 
-&#x27A4; What personality type were you? 
+&#x27A4; What personality type were you? <br />
 &#x27A4; What aspects of the results feel more, and less, accurate?
 
 #### Brand Synthesis

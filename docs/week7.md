@@ -23,7 +23,7 @@ By the end of this week you will be able to:
 
 📖 [The Adept Method](https://betterexplained.com/articles/adept-method/) (8 minutes)
 
-&#x27A4; Use a generative AI tool to explain a biostatistical concept using the ADEPT method.
+&#x27A4; Use a generative AI tool to explain a biostatistical concept using the ADEPT method. <br />
 &#x27A4;  Post a brief synopsis to the course Slack (no more than a couple sentences) of the concept that was chosen, the analogy that was made, and how well you think this analogy describes the concept.
 
 📖 [Communicating Statistics to Nonstatisticians](https://magazine.amstat.org/blog/2019/09/01/comm_nonstatisticians/) (10 minutes)<br /> 

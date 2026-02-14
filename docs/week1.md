@@ -5,6 +5,7 @@
 Strong consulting begins with listening well and asking clear, open-ended questions. Good communication builds trust and prevents misunderstandings later in the analysis.
 
 By the end of this week you will be able to:
+
 1. Demonstrate active listening behaviors during a conversation.
 2. Ask open-ended questions that encourage a collaborator to explain their story clearly.
 
@@ -14,7 +15,7 @@ By the end of this week you will be able to:
 
 🎥 [Active Listening](https://www.youtube.com/watch?v=7wUCyjiyXdg) (7 minutes)<br />  
 
-&#x27A4; List 2 behaviors that show someone is *not* actively listening.
+&#x27A4; List 2 behaviors that show someone is *not* actively listening. <br />
 &#x27A4; List 2 behaviors that demonstrate active listening.
 
 #### Breakdowns in Communication

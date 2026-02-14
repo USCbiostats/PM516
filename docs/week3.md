@@ -5,6 +5,7 @@
 Before conducting formal statistical analyses, a consultant must understand the structure and quality of the data. This week focuses on initial data analysis, including identifying missingness, outliers, implausible values, and inconsistencies across measures. Careful early exploration prevents downstream errors and strengthens the consulting process.
 
 By the end of this week you will be able to:
+
 1. Identify common data quality issues that arise in real studies.
 2. Articulate how initial data exploration informs a consulting analysis plan.
 
@@ -20,9 +21,9 @@ Before beginning formal analysis, it is essential to check the quality and struc
 
 This week's dataset comes from an intervention examining whether moving to an "active" community (treatment) is associated with differences in calorie consumption, physical activity, and BMI.
 
-Physical activity is measured in three ways:
-* <b>Accelerometer data</b>, which records minutes of moderate-to-vigorous physical activity (MVPA) using a wearable device.
-* <b>The ARIZONA survey</b>, which estimates hours spent in activity categories based on MET classifications.
+Physical activity is measured in three ways: <br />
+* <b>Accelerometer data</b>, which records minutes of moderate-to-vigorous physical activity (MVPA) using a wearable device. <br />
+* <b>The ARIZONA survey</b>, which estimates hours spent in activity categories based on MET classifications. <br />
 * <b>Self-reported activity variables</b> (beginning with "time_"), which capture reported time spent in specific activity types.
 
 You will explore these measures, along with dietery intake and BMI, to evaluate data quality and identify potential concerns before modeling.
