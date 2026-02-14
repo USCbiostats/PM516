@@ -2,7 +2,12 @@
 
 ##  Final Presentation
 
-&#x27A4; This week you will meet as a group with your investigator to deliver the final project.
+This week you will deliver your final presentation to the investigator. This meeting represents the culmination of your consulting work, including question formulation, analysis, interpretation, and professional communication.
+
+By the end of this week you will be able to:
+
+1. Present statistical findings clearly and professionally to a collaborator.
+2. Respond thoughtfully to questions about study design, analysis, and interpretation.
 
 ### Complete Before Class
 
@@ -10,11 +15,11 @@
 
 👥 Meet with your group to finalize your presentation. As a reminder, here are the following guidelines:
 
-1. You will have 30 minutes with your investigator. Plan for a 10-15 minute presentation with extra time for questions and answers at the end.
-2. Make sure you answer all your investigator's questions. It may help organize your thoughts to have a list of the research questions and then a brief response to each question stating the answer to that question based on your analysis.
-3. Each team member must contribute to the presentation to some extent.
-4. Be on time to the presentation, alert, and with your webcam on during the meeting.
+* You will have 25 minutes with your investigator. Plan for a 10-15 minute presentation, leaving sufficient time for your investigator to respond. 
+* Clearly address each of the investigator's research questions. Organizing your presentation around these questions may be helpful.
+* Each team member must contribute to the presentation.
+* Arrive on time and have your webcam on throughout the meeting, as this is a professional consultation.
 
 ### Farewell
 
-That's it - congratulations!
+Congratulations on completing the course. The skills you have developed this semester — communication, analytic judgment, professional responsibility, and ethical awareness — extend well beyond this project.

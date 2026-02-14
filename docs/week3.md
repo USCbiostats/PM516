@@ -2,31 +2,106 @@
 
 ## Initial Data Analysis
 
-&#x27A4; This week we will review how to conduct initial analyses from a hypothetical study examining physical activity and diet.  
-&#x27A4; The data dictionary is located [here](data_dictionary.xlsx).  
-&#x27A4; The data file is located [here](adult_all.csv).  
+Before conducting formal statistical analyses, a consultant must understand the structure and quality of the data. This week focuses on initial data analysis, including identifying missingness, outliers, implausible values, and inconsistencies across measures. Careful early exploration prevents downstream errors and strengthens the consulting process.
+
+By the end of this week you will be able to:
+1. Identify common data quality issues that arise in real studies.
+2. Articulate how initial data exploration informs a consulting analysis plan.
+
+### Links to Resources
+[Data Dictionary](data_dictionary.xlsx).  
+[Data File](adult_all.csv).  
 
 ### Before Class
 
 #### Data Quality Control Exercise
 
-*Before beginning data analysis, it is imperative to check the quality of the data you will be analyzing. Often study staff, like a data manager, will clean the data and check for any errors. However, depending on who you work with, this task can be neglected.  <br /><br />
-The “adult_all.csv” file contains data from an intervention attempting to improve physical activity and eating habits for participants.* <br /><br />
-*As a brief background, this study wanted to look at whether moving to an active community ("treatment") was associated with differences in calorie consumption, physical activity, and BMI among participants. There are several ways of measuring physical activity (PA). One way is through an accelerometer, or a wearable device that records a participant's physical activity throughout the day. This device can compute the minutes we spend doing activity that is moderate-to-vigorous in nature (MVPA).  <br /><br />
-Another way to classify physical activity is through a survey ("Arizona") that asks participants about how much time they engage in different types of activities. Based on their responses, the number of hours per week in different MET categories can be computed. For example, if an individual had a value of 15 for met_hrs_mets1x, that would indicate that they spend 15 hours per week on average performing "light" activities (like walking or easy housework).  <br /><br />
-The final way to classify physical activity is by directly asking participants how much time they spend per week doing activity in particular categories. These responses are given in the variables that start with "time_".*
+Before beginning formal analysis, it is essential to check the quality and structure of your data. While study stuff may perform data cleaning, this responsibility can vary across collaborations. As consultants, we must be prepared to evaluate data critically before proceeding.
 
-👥 Meet with your group and be prepared to answer the following questions:
+This week's dataset comes from an intervention examining whether moving to an "active" community (treatment) is associated with differences in calorie consumption, physical activity, and BMI.
 
-1.	Examine the 3 measures of physical activity: accelerometer, ARIZONA survey, and participant survey. Check their distributions for any anomalies and investigate how strongly these measures correlate with each other.
-2.	Examine the measure of food intake from the BLOCK survey. Check the distributions of daily calories consumed, as well as grams of each macronutrient, for any anomalies. Construct variables that indicate the percent of calories in a person’s diet from each macronutrient.
-3.	Examine the distribution of BMI for any anomalies. Determine whether BMI is associated with any of the measures of physical activity or food intake.
-4.	Determine whether the outcomes of food intake or physical activity vary across the study groups (treatment vs. control groups).
-5.	Are there any other concerns you have about this data?
+Physical activity is measured in three ways:
+* <b>Accelerometer data</b>, which records minutes of moderate-to-vigorous physical activity (MVPA) using a wearable device.
+* <b>The ARIZONA survey</b>, which estimates hours spent in activity categories based on MET classifications.
+* <b>Self-reported activity variables</b> (beginning with "time_"), which capture reported time spent in specific activity types.
 
-#### Supplemental Readings
+You will explore these measures, along with dietery intake and BMI, to evaluate data quality and identify potential concerns before modeling.
 
-📖 [Ten Simple Rules for Initial Data Analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819) (20 minutes)
+
+
+💻 You will be assigned to one of the following IDA steps. Be prepared to share your findings with the class during our next session.
+
+<b>Task 1</b>. Understand Data Structure
+
+Look at:
+
+* Number of rows/columns
+* Variable types (numeric, categorical)
+* Range of each varaible
+* Variable units
+
+Produce a summary table of variable types and ranges.
+
+<b>Task 2</b>. Quantify Missingness
+
+Look at:
+
+* Percent missing for key variables
+* Patterns of missingness (by treatment group)
+
+Produce a table of missingness for each variable, and by treatment group.
+
+<b>Task 3</b>. Identify Outliers
+
+Produce boxplots for BMI, calories, and one PA measure. Look at:
+
+* Extreme values
+* Impossible values
+* Implausible values
+
+Explain how you identified outliers and whether you think these are real values or data entry errors.
+
+<b>Task 4</b>. Explore Distributions
+
+Produce histograms for BMI, calories, and one PA measure. Look at:
+
+* Shape
+* Skewness
+
+For each of these variables, explain whether you think the variable follows a common distribution, and which.
+
+<b>Task 5</b>. Evaluate Internal Consistency
+
+Select two PA measures and look at:
+
+* A scatter plot for the relationship between the two variables
+* The value of the correlation betwen the two variables
+
+State how strongly these variables, which measure the same concept, are related.
+
+<b>Task 6</b>. Explore Basic Relationships
+
+Examine the relationship between treatment group and one outcome, producing:
+
+* A graphic of the relationship
+* Means/medians of the outcome by the levels of treatment group
+
+State whether this relationship was expected, and which statistical test you could perform to evaluate it further.
+
+<b>Task 7</b>. Calculated Variable Checks
+
+Compute the percentage of calories from each macronutrient (carbs, protein, fat). As a note, each gram of carbs or protein contributes 4 calories, and each gram of fat contributes 9 calories. 
+
+* Check whether the sum of the calories from each macronutrient equals the total calories
+
+<b>Task 8</b>. Implausible Non-Outliers
+
+Identify individauls with calorie intake <500 kcal/day, or other unusual values, providing:
+
+* The number of individuals that fall into this category
+* A relationship between calorie intake and another related variable, such as BMI or PA
+
+Comment on the plausibility of these values in light of real-world context.
 
 ### In Class
 
@@ -35,3 +110,11 @@ In this week's class, we will review the analyses you and your group performed.
 ### Reflection
 
 *There can be a lot to consider when it comes to initial data analysis. What are some strategies you can employ to not become overwhelmed with the process?* 
+
+*If you could ask the investigator one question based on your findings, what would it be?*
+
+### Supplemental Readings
+
+📖 [Ten Simple Rules for Initial Data Analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819) (20 minutes)
+
+📖 [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) (30 minutes)

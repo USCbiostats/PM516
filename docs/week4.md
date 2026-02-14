@@ -2,7 +2,12 @@
 
 ## Practice Consultations
 
-&#x27A4; This week we will practice consulting via roleplaying exercises and review techniques that will help you improve the quality of your consultation.  
+This week you will conduct a simulated first consultation with staff of our consulting group. Your ability to ask clear, structured questions will directly influence the direction of the conversation.
+
+By the end of this week, you will be able to:
+
+1. Conduct a structured first consultation and ask clarifying questions about study design and feasibility.
+2. Identify gaps in study planning that could compromise statistical validity.
 
 ### Before Class
 
@@ -10,22 +15,26 @@
 
 🎥 [Biologist Talks to A Statistician](https://www.youtube.com/watch?v=Hz1fyhVOjr4) (4 minutes)<br />  
 
-1. Think back to the discussion from Week 1 on communication breakdowns. What are some techniques you can think of that would help reduce the misunderstanding between the statistician and researcher in this interaction?
+&#x27A4; What specific communication behaviors would have improved this meeting? 
 
 🎥 [Stereotypical Views of Statisticians](https://www.youtube.com/watch?v=dx_W1Azvpf8/) (4 minutes)<br />  
 
-1. Do you think the statistician’s anecdote about her mistake was an effective way to communicate with the researcher? Why or why not?
-
-#### Supplemental Readings
-
-📖 Textbook Chapter 4.1 - 4.4
+&#x27A4; Do you think the statistician’s anecdote about her mistake was an effective way to communicate with the researcher? Why or why not?
 
 ### In Class
 
-In this week's class, we will perform practice consultations in groups.
+In this week's class, we will perform practice consultations in groups. During the consultation, aim to clarify:
+
+* Study objective
+* Outcome definition
+* Exposure definition
+* Sample size
+* Data collection process
+* Timeline
+* Feasibility constraints
 
 ### Reflection
 
-*What information was freely provided by the investigator, and what information did you need to specifically ask about? In retrospect, is there anything additional you feel you should have asked in the consultation today?*
+*Which questions are you glad you asked today? What could have gone wrong if you hadn't asked those questions?*
 
 

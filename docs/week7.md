@@ -2,7 +2,12 @@
 
 ## Communicating Statistical Concepts
 
-&#x27A4; This week we will learn techniques to effectively communicate results of your statistical analysis.
+This week focuses on translating statistical concepts into clear, accessible explanations for collaborators. Effective consultants must communicate results accurately without overwhelming or oversimplifying.
+
+By the end of this week you will be able to:
+
+1. Explain common statistical concepts in clear, non-technical language.
+2. Use structured techniques to tailor explanations to a collaborator's level of understanding.
 
 ### Before Class
 
@@ -18,21 +23,21 @@
 
 📖 [The Adept Method](https://betterexplained.com/articles/adept-method/) (8 minutes)
 
-1. Ask your favorite AI tool to explain a biostatistical concept using the ADEPT method. What concept did it choose? How well do you think its explanations were? 
-2. Post a brief synopsis to the course Slack (no more than a couple sentences) of the concept that was chosen and the analogy that was made.
-
-📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf) (19 minutes)<br />  
-
-1. Which of the analogies did you feel was most effective? Why?
+&#x27A4; Use a generative AI tool to explain a biostatistical concept using the ADEPT method.
+&#x27A4;  Post a brief synopsis to the course Slack (no more than a couple sentences) of the concept that was chosen, the analogy that was made, and how well you think this analogy describes the concept.
 
 📖 [Communicating Statistics to Nonstatisticians](https://magazine.amstat.org/blog/2019/09/01/comm_nonstatisticians/) (10 minutes)<br /> 
 
-1. Which method of communication does the author say has the greatest chance of success?
+&#x27A4; Which communication strategy did the author emphasize as most effective?
 
 ### In Class
 
-In this week's class, we will discuss the ADEPT method, statistical analogies, and review how to respond to an investigator that needs clarifying information.
+In breakout rooms, you will practice explaining statistical concepts using the ADEPT method. Your goal will be clarity — not technical precision.
 
 ### Reflection
 
-*Which aspect of this week's content do you feel was most beneficial? Did you learn new information, such as an analogy, mindset, or specific approach toward interacting with clients?*
+What is one habit you will adopt when explaining statistical results to a collaborator?
+
+### Supplemental Readings
+
+📖 [Twenty Five Analogies for Explaining Statistical Concepts](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/91c6ce4e-3d37-41fd-bff5-a8027e914f3b/UploadedImages/Twenty-Five_Analogies_for_Explainging_Statistical_Concepts.pdf) (19 minutes)<br />  

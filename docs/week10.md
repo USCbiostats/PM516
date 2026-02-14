@@ -2,7 +2,12 @@
 
 ## Presenting Statistical Information
 
-&#x27A4; This week we will look at ways to improve our tables and figures.
+This week focuses on presenting statistical results clearly and honestly. We will evaluate common visualization pitfalls and refine tables and figures from your own projects.
+
+By the end of this week you will be able to:
+
+1. Identify features that distort or obscure statistical information in graphs and tables.
+2. Design tables and figures that communicate results clearly and accurately.
 
 ### Before Class
 
@@ -12,38 +17,36 @@
 
 * Draft a table and a figure that you think illustrates an important preliminary descriptive finding.
 
-#### Statistical Data Presentation
-
-📖 [Statistical Data Presentation](https://pubmed.ncbi.nlm.nih.gov/28580077/) (22 minutes)
-
 #### Improving Graphs & Figures
 
-📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf) (30 minutes)
-
-1. Section 1.3 discusses Wainer’s Rules for Bad Graphs. Find an example of a "bad graph" (e.g., https://www.reddit.com/r/dataisugly/) and explain which of Wainer's rules it violates. Bring this example to the synchronous class section.
-
-📖 [Rudiments of Numeracy](https://www.jstor.org/stable/2344922)
-
-1. “Rudiments of Numeracy” lists six rules to follow when producing graphs and tables. Rule 6 concerns whether to produce a graph vs. a table. Consider the analyses you have performed thus far. For each, is it better to present them via text, a graph, or a table? Why?
-
-#### The "Lie" Factor
+📖 [How to Graph Badly or What Not To Do](http://www-personal.umich.edu/~jpboyd/sciviz_1_graphbadly.pdf) (just skim - 15 minutes)
 
 📖 [The Lie Factor and Baseline Paradox](https://nightingaledvs.com/the-lie-factor-and-the-baseline-paradox/) (6 minutes)
 
 📖 [The Lie Factor Definition](https://infovis-wiki.net/wiki/Lie_Factor) (2 minutes)
 
-1. Find an example of a graph that appears to have some level of the "lie factor" (again, e.g., https://www.reddit.com/r/dataisugly/). Bring this example to the synchronous class section and compute the extent of the lie factor.
+&#x27A4; Find an example of a misleading or poorly-designed graph (e.g., https://www.reddit.com/r/dataisugly/). Bring this example to the synchronous class section, ready to explain what makes it problematic.
 
-#### Supplemental Readings
+#### Optimizing Presentation of Results
 
-📖 [How to Design Terrible Graphs](https://www.freecodecamp.org/news/how-to-design-terrible-graphs-3b213d909387/) <br />
+📖 [Closer Look at Charts vs Tables: The Right Data Visualization](https://ninjatables.com/charts-vs-tables-better-data-visualization/?srsltid=AfmBOop1bgSLZGO_SWROr6jOA4tEX1AXvedS_8_JC4IGymAYZT7xSthm) (7 minutes)
 
-📖 [Dynamite Plots Must Die](https://simplystatistics.org/posts/2019-02-21-dynamite-plots-must-die/)
+&#x27A4; For your drafted table and figure, explain why each is best presented in that format (or whether it should be changed).
 
 ### In Class
 
-In week's class we will discuss how to improve graphs and tables.
+In week's class we will critique selected “bad graphs,” discuss common visualization pitfalls, and workshop your project tables and figures.
 
 ### Reflection
 
-*When you think of the types of analyses you will be performing, what criteria do you use to determine whether you want to convey the results in a graph vs. a table?*
+*What principle will guide your choice between presenting results as text, a table, or a figure?*
+
+#### Supplemental Readings
+
+📖 [How to Design Terrible Graphs](https://www.freecodecamp.org/news/how-to-design-terrible-graphs-3b213d909387/) 
+
+📖 [Dynamite Plots Must Die](https://simplystatistics.org/posts/2019-02-21-dynamite-plots-must-die/)
+
+📖 [Rudiments of Numeracy](https://www.jstor.org/stable/2344922)
+
+📖 [Statistical Data Presentation](https://pubmed.ncbi.nlm.nih.gov/28580077/)

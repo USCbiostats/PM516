@@ -2,17 +2,26 @@
 
 ## Investigator Meeting
 
-&#x27A4; This week we will meet with the investigator to discuss the project.
+This week you will conduct a live consultation with the investigator. Your ability to ask clear, structured questions will determine how effectively you can translate the research question into a statistical analysis plan.
+
+By the end of this week, you will be able to:
+
+1. Conduct a professional consultation with a real investigator.
+2. Clarify the study question and identify next steps for statistical analysis.
 
 ### Before Class
 
 📖 [What to Ask During A Consultation](what-to-ask.md)  (5 minutes)
 
+&#x27A4; Come prepared with at least three questions you anticipate asking the investigator.
+
 ### In Class
 
-In this week's class, your group will meet with the client. Please remember to be alert, active, and have your webcam on.
+This week's meeting will set the direction for your group's project, and the clarity of your questions will determine the quality of the analysis plan. 
+
+Because this is a professional consultation setting, you must be alert, active, and have your webcam on during the meeting.
 
 ### Reflection
 
-*List two things that you think went well with the consultation, and two things you think could have been improved in the consultation. Are you happy with the interaction you had?*
+*If you were to repeat this meeting, what would you do differently in the first 10 minutes?*
 

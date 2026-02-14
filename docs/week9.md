@@ -1,52 +1,52 @@
 # Week 9
 
-## Practice Consultations II
+## Following Up: Reflection and Growth
 
-&#x27A4; This week we will perform some more complex role-playing exercises. In advance of the session, we will explore personality types and learn about developing a statistical consulting "brand."
+This week focuses on reflection and professional growth in consulting. During a follow-up consultation, you will encounter challenges that have emerged since your initial meeting. You will consider not only how earlier decisions shaped these outcomes, but also how your communication style and developing consulting identity influence how you respond to complexity, uncertainty, and client expectations.
+
+By the end of this week, you will be able to:
+
+1. Identify how early research and design choices influence downstream analysis. 
+2. Reflect on how your communication style and professional identity shape client interactions.
 
 ### Before Class
 
-#### Marketing your Business
+#### Building Relationships
 
-📖 [Statistical Consulting Clients: How to Get and Keep Them](https://stattrak.amstat.org/2022/02/01/statistical-consulting/) (5 minutes)<br />
+📖 [30 Things I Learned in 30 Years As A Statistical Consultant](https://www.thejuliagroup.com/blog/30-things-i-learned-in-30-years-as-a-statistical-consultant-part-1-of-lots/) (5 minutes)<br />
 
-1. Do you currently have access to networking resources you could use to start a business? If so, what are these? If not, how could you go about creating connections that could help you?
+&#x27A4; What step toward building professional relationships in your field do you feel is the most actionable for you right now? 
 
-#### Qualities for Statistical Consultants
+#### Professional Identity Reflection
 
-📖 [What to Expect When You Consult A Statistician](https://community.amstat.org/cnsl/forclients/expect-content) (20 minutes)<br />
-Pay attention to the 11 qualities listed in Section 1.D. (What to look for in a statistical consultant).  
+📖 [What to Expect When You Consult A Statistician](https://community.amstat.org/cnsl/forclients/expect-content) (Section 1.D - 3 minutes)<br />
+Look specifically at the 11 qualities listed in Section 1.D.  
 
-3. Which quality do you identify with most? Which do you identify with least? 
-5. How do you think you can improve the qualities you are less comfortable with?
+&#x27A4; Which quality do you identify with most? Which quality feels less natural to you? 
+&#x27A4; What is one step you could take to strengthen that area?
 
-#### Personality TYpes
+📖 [Myers-Briggs Personality Test](https://www.16personalities.com/free-personality-test) (10 minutes)
 
-📖 [Myers-Briggs Personality Test](https://www.16personalities.com/free-personality-test)
-
-1. What personality type were you? 
-2. What aspects of the results make sense to you, and what aspects were you surprised by?
-
-📖 [How Each Personality Type Likes to Communicate](https://www.psychologyjunkie.com/how-each-myers-briggs-personality-type-likes-to-communicate/)
-
-3. Do you think that the tips provided for your personality type in the “How Each Personality Type Likes to Communicate” document are correct? Is there anything you would add to the information they present?
+&#x27A4; What personality type were you? 
+&#x27A4; What aspects of the results feel more, and less, accurate?
 
 #### Brand Synthesis
 
-Tell your favorite AI tool the following things:
+Use an AI tool to suggest a consulting "brand" based on the following:
 
-  * The top qualities you listed.
+  * The 2-3 strengths you bring to consulting.
   * Your Myers-Briggs personality type.
-  * How your personality type likes to communicate.
-  * Ask it to create a "brand" for you.
   
-Based on these responses, come up with your "brand." Post in Slack a brief description of your brand, a slogan, and another piece of information about it.
+Post a brief description of this brand to Slack.
 
 ### In Class
 
-In week's class we will have more practice consultations.
+During today’s follow-up consultation, pay attention not only to the analytic issues that arise, but also to how your consulting style affects how you respond to challenges. Consider how you might adapt your communication approach when working with different collaborators.
 
 ### Reflection
 
-*Think of the person with whom you consulted today. How would knowing their personality type change how you might approach interacting with them?*
+*Looking back at your first consultation, what would you do differently now — and what does that reveal about the kind of consultant you are becoming?*
 
+### Supplemental Readings
+
+📖 [How Each Personality Type Likes to Communicate](https://www.psychologyjunkie.com/how-each-myers-briggs-personality-type-likes-to-communicate/)

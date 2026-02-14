@@ -44,7 +44,7 @@ This is a practicum-type course and students will develop additional skills thro
 * Final Meeting (Client). The final meeting will be focused on presenting the analyses to the client (and instructor should be included, if possible).
 
 ### Analysis Report
-An analysis report should be delivered to the client in advance of the final meeting. There are different ways to accomplish this. For example, the PM516a textbook offers one template, while I use [this template](https://uscbiostats.github.io/PM516/analysis-report/). Be sure to use all principles learned in PM516a when completing the analysis report.
+An analysis report should be delivered to the client in advance of the final meeting. There are different ways to accomplish this, but I use [this template](https://uscbiostats.github.io/PM516/analysis-report/). Be sure to use all principles learned in PM516a when completing the analysis report.
 
 ### Debriefing
 

@@ -1,8 +1,12 @@
 # Week 12
 
-##  Ethics
+##  Ethical Responsibility in Statistical Practice
 
-&#x27A4; This week we will discuss ethical considerations for statistical consulting.
+This week focuses on ethical responsibility in statistical consulting. Beyond technical correctness, statisticians must navigate pressures related to study design, reporting, media interpretation, authorship, and conflicts of interest. Through case examination, we will consider how to respond when professional judgment intersects with ethical responsibility.
+
+By the end of this week, you will be able to:
+1. Identify ethical risks that arise in statistical consulting and research reporting.
+2. Articulate a professional response to ethically challenging situations.
 
 ### Complete Before Class
 
@@ -14,14 +18,14 @@
 
 #### Ethics
 
-📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)<br />  
+📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800) (13 minutes)  
 
-1. Bohannon’s study had small sample size, they didn’t bother to balance age and gender across treatment groups, they examined multiple possible outcomes, and they didn’t report that at the termination of the study the two groups had lost the same amount of weight. Which of these faults is the biggest concern for you and why?
-2. Journalists are pressured to write on interesting, sensational stories (think of all the “click bait” on the internet). Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” That said, who has the most responsibility in ensuring that a study’s findings are reported accurately?
+&#x27A4; Which flaw in this study most undermines its credibility, and why?
+&#x27A4; Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” Who bears the most responsibility when misleading findings are amplified??
 
-🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM)
+🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM) (14 minutes)
 
-3. Who stands most to lose in cases when inaccurate or misleading studies are published?
+&#x27A4; What systemic failures allowed this case to persist?
 
 #### Supplemental Readings
 
@@ -29,5 +33,8 @@
 
 ### In Class
 
-In week's class we will discuss the ethics involved in a handful of scenarios.
+In class, we will work through ethical case scenarios in small groups. You will identify the ethical risks involved and determine how you would respond as a professional statistician.
 
+### Reflection
+
+*What ethical situation do you think would be hardest for you to navigate, and why?*

@@ -2,7 +2,11 @@
 
 ## Communication
 
-&#x27A4; This week we will practice how to improve communication during a consultation, ask good questions, and build rapport with the client.
+Strong consulting begins with listening well and asking clear, open-ended questions. Good communication builds trust and prevents misunderstandings later in the analysis.
+
+By the end of this week you will be able to:
+1. Demonstrate active listening behaviors during a conversation.
+2. Ask open-ended questions that encourage a collaborator to explain their story clearly.
 
 ### Before Class
 
@@ -10,22 +14,18 @@
 
 🎥 [Active Listening](https://www.youtube.com/watch?v=7wUCyjiyXdg) (7 minutes)<br />  
 
-1. List 2 things somebody would do if they were *not* actively listening.
-2. List 2 things somebody should do in order to engage in active listening.
+&#x27A4; List 2 behaviors that show someone is *not* actively listening.
+&#x27A4; List 2 behaviors that demonstrate active listening.
 
 #### Breakdowns in Communication
 
 📖 [Relationships & Interactions](https://magazine.amstat.org/blog/2009/09/01/heartofastatcareersept09/) (8 minutes)<br />  
 
-1. What are the 5 recommended steps as part of a statistical consulting interaction?
+&#x27A4; What are the 5 recommended steps in a statistical consulting interaction?
 
 📖 [Tips That'll Make Others Open Up To You](tips-to-open.md) (6 minutes)<br />  
 
-1. You will see that several themes from the prior readings appear in this article. That said, what are three key pieces of advice you will take from this week?
-
-#### Supplemental Readings
-
-📖 Textbook Chapters 2.1, 2.2
+&#x27A4; You will see that several themes from the prior readings appear in this article. That said, what are 3 key pieces of advice you can apply to a real consultation?
 
 ### In Class
 
@@ -44,5 +44,5 @@ Ask your partner one of the following questions:
 
 ### Reflection
 
-*Think back on your interaction with your partner today. What strategies did you use to get your partner to open up to you? Of these, which did you find most effective?* 
+*Think back on your interaction with your partner today. What specific question led to the most detailed answer? What one question do you now wish you would have asked?* 
 

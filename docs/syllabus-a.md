@@ -6,17 +6,19 @@ Monday 5:00-6:00pm
 
 ## Course Overview
 ### Course Description
-This course serves as an introduction to biostatistical consulting, and will help statisticians and data analysts develop the necessary skills for successfully interacting with non-statistician collaborators. We will focus on two main goals: 1) developing qualities necessary for an effective statistical consultant and 2) working with an investigator on an actual analysis problem (determining research questions and scope, formulating and implementing our aalyses, and conveying our findings).
+This course serves as an introduction to biostatistical consulting and is designed to help statisticians and data analysts develop the necessary skills for effective collaboration with non-statistician collaborators. Students will focus on two central goals: 1) developing the professional qualities required of an effective statistical consultant and 2) working with an investigator on an authentic analysis problem, including clarifying research questions, defining scope, conducting analyses, and communicating findings. 
+
+Unlike purely role-play or methods-focused consulting courses, this course integrates real consultation experiences with structured reflection on professional responsibility, communication, and analytic judgment. Students engage in iterative consultations with real consequences, culminating in a professional final presentation to the investigator.
 
 ### Learning Objectives
 Through this course, students will become familiar with the process of statistical consulting. Students will:
 
-* Understand the importance of statistical consulting and its usefulness in the public health environment.
-* Apply techniques to improve their understanding of an unfamiliar topic and translate researchers' questions into a statistically testable set of hypotheses.
-* Evaluate the best statistical approaches to address collaborators' questions and apply such techniques.
-* Apply effective communication by clearly explaining statistical concepts.
-* Understand ethical considerations faced by statisticians.
-* Create analyses and results for dissemination to the client and other stakeholders.
+* Conduct a structured statistical consultation and effectively clarify a collaborator’s research question.
+* Translate scientific questions into appropriate statistical hypotheses and defensible analysis plans.
+* Evaluate analytic choices and identify common pitfalls that threaten validity.
+* Communicate statistical concepts and results clearly to non-statistical audiences.
+* Apply principles of professional responsibility and ethical practice in collaborative research.
+* Present statistical findings in a clear, accurate, and professionally appropriate format.
 
 ### Course Preparation
 Prerequisites: PM510 or equivalent course  (this course assumes familiarity with basic statistics and regression analysis)
@@ -30,7 +32,7 @@ We have a reserved room for this course. However, due to the nature of statistic
 All course materials will be available through this website. We will use USC e-mail for formal communication and Slack for informal collaborative communication. Because the class covers aspects of consulting, including face-to-face interactions, <u>please practice having your webcam on during class.</u>
 
 ### Textbook
-Cabrera J, McDougall A. Statistical Consulting. Springer Science & Business Media; 2002 Jan 2. (Textbook may be available through the USC libraries at libraries.usc.edu)
+There is no course textbook. Readings will be assigned weekly in preparation of the live session.
 
 ### Required Software
 Students must have proficiency in at least one statistical program, but may choose which to use for this course (e.g., R, SAS, Stata, SPSS).
