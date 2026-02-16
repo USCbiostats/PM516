@@ -1,5 +1,5 @@
-site_name: PM516
-# site_description: [blabla]
+site_name: PM516 - Biostatistical Consulting
+site_description: Consulting Foundations (A) and Practicum (B)
 site_author: Trevor Pickering
 # site_url: [link]
 
@@ -72,9 +72,14 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Syllabus: syllabus-a.md
-  - Weekly Content: content.md
-  - 516b Content: syllabus-b.md
+  - PM516A:
+    - Overview: pm516a/index.md
+    - Syllabus: pm516a/syllabus.md
+    - Weekly Content: pm516a/content.md
+  - PM516B:
+    - Overview: pm516b/index.md
+    - Syllabus: pm516b/syllabus.md
+    - Timeline: pm516b/content.md
   # - Research:
   #   - "A paper": research/a-paper.md
   # - Software:
