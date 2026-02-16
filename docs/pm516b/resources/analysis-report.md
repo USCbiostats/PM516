@@ -1,6 +1,6 @@
 # Analysis Report
 
-In this class, instead of creating a presentation for a client, we will be writing an analysis report. The analysis report should consist of at least one table and at least one graphic. Try to keep the report to 5 total pages, though it may be longer. While Chapter 4.7 of the textbook describes what should be in a final report, I like to construct my report slightly differently by including:
+In this class, instead of creating a presentation for a client, we will be writing an analysis report. The analysis report should consist of at least one table and at least one graphic. Try to keep the report to 5 total pages, though it may be longer. While there are many potential ways to do this, I like to construct my report slightly differently by including:
 
 ## Executive Summary
 * Before the report, summarize the key points and findings for your client. 
