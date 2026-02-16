@@ -11,7 +11,7 @@ By the end of this week, you will be able to:
 
 ### Before Class
 
-📖 [What to Ask During A Consultation](what-to-ask.md)  (5 minutes)
+📖 [What to Ask During A Consultation](resources/what-to-ask.md)  (5 minutes)
 
 &#x27A4; Come prepared with at least three questions you anticipate asking the investigator.
 

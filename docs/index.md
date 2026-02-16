@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-PM516 is a two-course sequence designed to prepare students for professional work in biostatistical consulting. The sequence combines structured skill development with authentic, client-facing experience.
+PM516 is a sequence of two 1-unit courses designed to prepare students for professional work in biostatistical consulting. The sequence combines structured skill development with authentic, client-facing experience.
 
 Students will learn how to:
 
@@ -11,7 +11,9 @@ Students will learn how to:
 * Communicate statistical findings clearly and responsibly.
 * Navigate ethical and professional responsibilities in resarch.
 
-The sequence consists of two 1-unit courses:
+## About the Courses
+
+This website serves as the central resource for both courses in the sequence.
 
 **PM516A - Consulting Foundations**
 
@@ -28,13 +30,6 @@ This course series is especially valuable for:
 * MS students in Biostatistics and Epidemiology who want to practice implementing the skills they have learned in a real-world environment.
 * Students in MS or PhD programs who want additional experience collaborating with investigators and analyzing data.
 * Clinical investigators who want to gain perspective on the biostatistician's role in research.
-
-## How To
-
-This website serves as the central resource for both courses in the sequence.
-
-* PM516A includes weekly content, activities, and structured consultation exercises.
-* PM516B outlines practicum requirements, milestones, and deliverables.
 
 ## Contact
 

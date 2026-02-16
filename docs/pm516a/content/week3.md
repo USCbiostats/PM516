@@ -10,8 +10,8 @@ By the end of this week you will be able to:
 2. Articulate how initial data exploration informs a consulting analysis plan.
 
 ### Links to Resources
-[Data Dictionary](data_dictionary.xlsx).  
-[Data File](adult_all.csv).  
+[Data Dictionary](analysis-exercise/data_dictionary.xlsx).  
+[Data File](analysis-exercise/adult_all.csv).  
 
 ### Before Class
 

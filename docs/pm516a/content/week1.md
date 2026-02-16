@@ -24,7 +24,7 @@ By the end of this week you will be able to:
 
 &#x27A4; What are the 5 recommended steps in a statistical consulting interaction?
 
-📖 [Tips That'll Make Others Open Up To You](tips-to-open.md) (6 minutes)<br />  
+📖 [Tips That'll Make Others Open Up To You](resources/tips-to-open.md) (6 minutes)<br />  
 
 &#x27A4; You will see that several themes from the prior readings appear in this article. That said, what are 3 key pieces of advice you can apply to a real consultation?
 
