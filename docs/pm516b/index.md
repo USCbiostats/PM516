@@ -40,4 +40,4 @@ Please begin by reviewing the **Syllabus** and **Timeline & Deliverables** pages
 ## Key Pages
 
 - [Syllabus](syllabus.md)
-- [Timeline & Deliverables](timeline.md)
+- [Timeline & Deliverables](content.md)

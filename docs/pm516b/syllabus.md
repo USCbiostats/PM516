@@ -40,7 +40,7 @@ Students must have proficiency in at least one statistical program, but may choo
 
 Students will each be assigned a project and will use the semester to perform statistical analyses and create an analysis report for the client collaborator. As a 1-unit course, students are expected to spend approximately 40 hours on the analysis and writing of the project. All work should be completed before the last day of class.
 
-This course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the tasks located on the [timeline](timeline.md).
+This course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the tasks located on the [timeline](content.md).
 
 ### Required Meetings 
 
@@ -65,7 +65,7 @@ After presenting the final analysis report, the client will be sent an evaluatio
 
 ### Grading Breakdown
 
-The course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the tasks located on the [timeline](timeline.md). 
+The course is graded credit/no credit and there is no point breakdown. Instead, students must complete <u>all</u> of the tasks located on the [timeline](content.md). 
 
 ## Course-Specific Policies
 
