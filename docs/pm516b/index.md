@@ -1,12 +1,3 @@
----
-theme:
-  palette:
-    - scheme: default
-      primary: deep purple
-    - scheme: slate
-      primary: deep purple
----
-
 # PM516B — Consulting Practicum
 
 ## Overview

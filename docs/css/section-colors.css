@@ -1,0 +1,32 @@
+/* docs/css/section-colors.css
+   Override header/nav colors for specific sections.
+   Adjust the selectors or colors as needed using devtools.
+*/
+
+/* PM516A: indigo-like */
+.pm516a .md-header,
+.pm516a .md-top-nav,
+.pm516a .md-footer {
+  background-color: #2339c5 !important;   /* indigo 700 */
+  color: white !important;
+}
+
+/* PM516B: teal-like */
+.pm516b .md-header,
+.pm516b .md-top-nav,
+.pm516b .md-footer {
+  background-color: #480879 !important;   /* teal 700 */
+  color: white !important;
+}
+
+/* Links / accents when in those sections (optional) */
+.pm516a a, .pm516a .md-nav__link--active {
+  color: #c5cae9 !important;
+}
+.pm516b a, .pm516b .md-nav__link--active {
+  color: #b2dfdb !important;
+}
+
+/* Dark mode adjustments (if needed) */
+/* Material theme toggles classes and variables; if colors look off in dark mode,
+   you can add specific rules scoped to .md-color-scheme--slate or similar. */

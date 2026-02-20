@@ -1,12 +1,3 @@
----
-theme:
-  palette:
-    - scheme: default
-      primary: blue
-    - scheme: slate
-      primary: blue
----
-
 # PM516A — Consulting Foundations
 
 ## Overview
