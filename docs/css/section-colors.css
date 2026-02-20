@@ -1,38 +1,71 @@
-/* docs/css/section-colors.css
-   Section-specific header/nav color overrides for Material theme.
-   Adjust hex values if you prefer different shades.
-*/
+/* section-colors.css — extended to include the second-level nav/tabs */
 
-/* PM516A: blue/indigo-ish */
+/* PM516A: indigo/blue */
 .pm516a .md-header,
 .pm516a .md-top,
 .pm516a .md-top-nav,
-.pm516a .md-header__inner {
-  background-color: #303f9f !important; /* indigo 700 */
+.pm516a .md-header__inner,
+.pm516a .md-tabs,                 /* tab container */
+.pm516a .md-tabs__list,           /* list of tabs */
+.pm516a .md-tabs__link,           /* each tab link */
+.pm516a .md-nav,                  /* side or top nav */
+.pm516a .md-nav__link,            /* nav links */
+.pm516a .md-nav__title,           /* nav title text */
+.pm516a .md-header-nav,           /* some versions use this */
+.pm516a .md-top-nav__inner {      /* container inner */
+  background-color: #30399f !important; /* indigo 700 */
   color: white !important;
 }
 
-/* PM516B: teal-ish */
+/* Make sure active / hover states are readable */
+.pm516a .md-nav__link--active,
+.pm516a .md-tabs__link--active,
+.pm516a .md-nav__link:hover,
+.pm516a .md-tabs__link:hover {
+  color: #c5cae9 !important; /* lighter indigo for contrast */
+}
+
+/* PM516B: teal/green */
 .pm516b .md-header,
 .pm516b .md-top,
 .pm516b .md-top-nav,
-.pm516b .md-header__inner {
-  background-color: #48309f !important; /* teal 700 */
+.pm516b .md-header__inner,
+.pm516b .md-tabs,
+.pm516b .md-tabs__list,
+.pm516b .md-tabs__link,
+.pm516b .md-nav,
+.pm516b .md-nav__link,
+.pm516b .md-nav__title,
+.pm516b .md-header-nav,
+.pm516b .md-top-nav__inner {
+  background-color: #51309f !important; /* teal 700 */
   color: white !important;
 }
 
-/* active nav link / accent tweaks (optional) */
-.pm516a .md-nav__link--active,
-.pm516a .md-nav__link:hover {
-  color: #c5cae9 !important;
-}
 .pm516b .md-nav__link--active,
-.pm516b .md-nav__link:hover {
+.pm516b .md-tabs__link--active,
+.pm516b .md-nav__link:hover,
+.pm516b .md-tabs__link:hover {
   color: #b2dfdb !important;
 }
 
-/* Dark-mode note:
-   If colors look strange in dark mode, you can fine-tune with:
-   .md-color-scheme--slate .pm516a .md-header { ... }
-   I'll add dark-mode rules if you'd like.
-*/
+/* If you use the "navigation.tabs.sticky" feature, the .md-tabs element sometimes becomes position:sticky.
+   The background can get lost if the element is transparent; forcing a background helps keep it visible. */
+.pm516a .md-tabs,
+.pm516b .md-tabs {
+  background-clip: padding-box !important;
+  -webkit-backdrop-filter: none !important; /* avoid blur behind */
+}
+
+/* Dark-mode adjustments (Material toggles a class on <body> or <html> such as .md-color-scheme--slate).
+   These keep the hue similar but adjust brightness for dark backgrounds. */
+.md-color-scheme--slate .pm516a .md-header,
+.md-color-scheme--slate .pm516a .md-top-nav,
+.md-color-scheme--slate .pm516a .md-tabs {
+  background-color: rgb(34, 44, 124) !important; /* slightly darker indigo for dark mode */
+}
+.md-color-scheme--slate .pm516b .md-header,
+.md-color-scheme--slate .pm516b .md-top-nav,
+.md-color-scheme--slate .pm516b .md-tabs {
+  background-color: #422781 !important; /* slightly darker teal */
+}
