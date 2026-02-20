@@ -25,7 +25,7 @@ By the end of this week you will be able to:
 
 &#x27A4; Which of these mistakes would be most difficult to detect in practice?
 
-📖 [A Deeper Dive into Statistical Mistakes](resources/statistical-mistakes.md)  (3 minutes)
+📖 [A Deeper Dive into Statistical Mistakes](../resources/statistical-mistakes.md)  (3 minutes)
 
 &#x27A4; As you read, think about which of these might arise in the context of your project.
 
