@@ -77,3 +77,12 @@
 .md-color-scheme--slate .pm516b .md-tabs {
   background-color: #00695c !important; /* darker teal */
 }
+
+/* Safety: ensure pages that are NOT pm516a/pm516b use theme defaults */
+html:not(.pm516a):not(.pm516b) .md-header,
+html:not(.pm516a):not(.pm516b) .md-top-nav,
+html:not(.pm516a):not(.pm516b) .md-tabs,
+html:not(.pm516a):not(.pm516b) .md-header__inner {
+  background-color: var(--md-default-background) !important;
+  color: var(--md-default-text) !important;
+}
