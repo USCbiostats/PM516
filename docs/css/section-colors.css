@@ -1,88 +1,97 @@
-/* section-colors.css — target top header / top tabs only; do not recolor sidebars */
+/* ---------- section-colors.css (fully-qualified selectors) ---------- */
 
-/* --- PM516A: top header + top/tab nav --- */
-.pm516a
-  /* top header area */
-  .md-header,
-  .md-header__inner,
-  .md-top,
-  .md-top-nav,
-  .md-top-nav__inner,
-  .md-tabs,
-  .md-tabs__list,
-  .md-tabs__link {
-    background-color: #303f9f !important; /* indigo 700 */
-    color: white !important;
-  }
+/* ---------------- PM516A (only when html has class pm516a) ------------- */
+html.pm516a .md-header,
+html.pm516a .md-header__inner,
+html.pm516a .md-top,
+html.pm516a .md-top-nav,
+html.pm516a .md-top-nav__inner,
+html.pm516a .md-tabs,
+html.pm516a .md-tabs__list,
+html.pm516a .md-tabs__link,
+html.pm516a .md-top-nav__inner .md-nav__link,
+html.pm516a .md-top-nav__inner .md-nav__link--active {
+  background-color: #303f9f !important; /* indigo 700 */
+  color: white !important;
+}
 
-/* active / hover style for top/tab nav links only */
-.pm516a .md-top-nav__inner .md-nav__link--active,
-.pm516a .md-tabs__link--active,
-.pm516a .md-top-nav__inner .md-nav__link:hover,
-.pm516a .md-tabs__link:hover {
+/* hover/active tweaks scoped to top/tab nav for pm516a */
+html.pm516a .md-top-nav__inner .md-nav__link:hover,
+html.pm516a .md-tabs__link:hover,
+html.pm516a .md-tabs__link--active {
   color: #c5cae9 !important;
 }
 
-/* Keep sidebars / content surfaces using theme defaults (do not inherit pm516a color) */
-.pm516a .md-sidebar,
-.pm516a .md-nav,
-.pm516a .md-nav__link,
-.pm516a .md-nav__title,
-.pm516a .md-main__inner,
-.pm516a .md-content {
+/* Ensure sidebars and main content use Material theme defaults (do not inherit pm516a color) */
+html.pm516a .md-sidebar,
+html.pm516a .md-nav,
+html.pm516a .md-main__inner,
+html.pm516a .md-content,
+html.pm516a .md-nav__link,
+html.pm516a .md-nav__title {
   background-color: var(--md-default-background) !important;
   color: var(--md-default-text) !important;
 }
 
-/* --- PM516B: top header + top/tab nav --- */
-.pm516b
-  .md-header,
-  .md-header__inner,
-  .md-top,
-  .md-top-nav,
-  .md-top-nav__inner,
-  .md-tabs,
-  .md-tabs__list,
-  .md-tabs__link {
-    background-color: #00796b !important; /* teal 700 */
-    color: white !important;
-  }
+/* ---------------- PM516B (only when html has class pm516b) ------------- */
+html.pm516b .md-header,
+html.pm516b .md-header__inner,
+html.pm516b .md-top,
+html.pm516b .md-top-nav,
+html.pm516b .md-top-nav__inner,
+html.pm516b .md-tabs,
+html.pm516b .md-tabs__list,
+html.pm516b .md-tabs__link,
+html.pm516b .md-top-nav__inner .md-nav__link,
+html.pm516b .md-top-nav__inner .md-nav__link--active {
+  background-color: #00796b !important; /* teal 700 */
+  color: white !important;
+}
 
-.pm516b .md-top-nav__inner .md-nav__link--active,
-.pm516b .md-tabs__link--active,
-.pm516b .md-top-nav__inner .md-nav__link:hover,
-.pm516b .md-tabs__link:hover {
+/* hover/active tweaks scoped to top/tab nav for pm516b */
+html.pm516b .md-top-nav__inner .md-nav__link:hover,
+html.pm516b .md-tabs__link:hover,
+html.pm516b .md-tabs__link--active {
   color: #b2dfdb !important;
 }
 
-/* Keep sidebars / content surfaces using theme defaults for PM516B too */
-.pm516b .md-sidebar,
-.pm516b .md-nav,
-.pm516b .md-nav__link,
-.pm516b .md-nav__title,
-.pm516b .md-main__inner,
-.pm516b .md-content {
+/* Keep sidebars/content using default theme colors for pm516b */
+html.pm516b .md-sidebar,
+html.pm516b .md-nav,
+html.pm516b .md-main__inner,
+html.pm516b .md-content,
+html.pm516b .md-nav__link,
+html.pm516b .md-nav__title {
   background-color: var(--md-default-background) !important;
   color: var(--md-default-text) !important;
 }
 
-/* Dark-mode adjustments (optional): slightly darker header shades */
-.md-color-scheme--slate .pm516a .md-header,
-.md-color-scheme--slate .pm516a .md-top-nav,
-.md-color-scheme--slate .pm516a .md-tabs {
-  background-color: #283593 !important; /* darker indigo */
-}
-.md-color-scheme--slate .pm516b .md-header,
-.md-color-scheme--slate .pm516b .md-top-nav,
-.md-color-scheme--slate .pm516b .md-tabs {
-  background-color: #00695c !important; /* darker teal */
-}
-
-/* Safety: ensure pages that are NOT pm516a/pm516b use theme defaults */
+/* ---------------- Safety: pages that are NOT pm516a or pm516b -------------- */
+/* Force the top header / top tabs to use the theme defaults on other pages */
 html:not(.pm516a):not(.pm516b) .md-header,
+html:not(.pm516a):not(.pm516b) .md-header__inner,
+html:not(.pm516a):not(.pm516b) .md-top,
 html:not(.pm516a):not(.pm516b) .md-top-nav,
+html:not(.pm516a):not(.pm516b) .md-top-nav__inner,
 html:not(.pm516a):not(.pm516b) .md-tabs,
-html:not(.pm516a):not(.pm516b) .md-header__inner {
+html:not(.pm516a):not(.pm516b) .md-tabs__list,
+html:not(.pm516a):not(.pm516b) .md-tabs__link {
   background-color: var(--md-default-background) !important;
   color: var(--md-default-text) !important;
 }
+
+/* -------------- Dark-mode adjustments (optional) ------------------ */
+/* Slightly darker shades for the slate/dark scheme when classes present */
+.md-color-scheme--slate html.pm516a .md-header,
+.md-color-scheme--slate html.pm516a .md-top-nav,
+.md-color-scheme--slate html.pm516a .md-tabs {
+  background-color: #283593 !important;
+}
+.md-color-scheme--slate html.pm516b .md-header,
+.md-color-scheme--slate html.pm516b .md-top-nav,
+.md-color-scheme--slate html.pm516b .md-tabs {
+  background-color: #00695c !important;
+}
+
+/* ------------------------------------------------------------------ */
+/* End of section-colors.css */
