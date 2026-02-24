@@ -11,10 +11,10 @@
     // Clear previous classes
     document.documentElement.classList.remove('PM516A');
     document.documentElement.classList.remove('PM516B');
-    document.documentElement.classList.remove('pm516home');
+    document.documentElement.classList.remove('PM516home');
 
-    if (path.endsWith('/pm516/') || path === '/pm516') {
-      document.documentElement.classList.add('pm516home');
+    if (path.endsWith('/PM516/') || path === '/PM516') {
+      document.documentElement.classList.add('PM516home');
     } else if (path.indexOf('/PM516A') !== -1) {
       document.documentElement.classList.add('PM516A');
     } else if (path.indexOf('/PM516B') !== -1) {
