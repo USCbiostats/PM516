@@ -9,15 +9,14 @@
     const path = getPath();
 
     // Clear previous classes
-    document.documentElement.classList.remove('PM516A');
-    document.documentElement.classList.remove('PM516B');
-    document.documentElement.classList.remove('PM516home');
+    document.documentElement.classList.remove('PM516A', 'PM516B', 'PM516home');
 
-    if (path.endsWith('/PM516/') || path === '/PM516') {
+    // Home (handle both with and without trailing slash)
+    if (path === '/pm516' || path === '/pm516/') {
       document.documentElement.classList.add('PM516home');
-    } else if (path.indexOf('/PM516A') !== -1) {
+    } else if (path.indexOf('/pm516a') !== -1) {
       document.documentElement.classList.add('PM516A');
-    } else if (path.indexOf('/PM516B') !== -1) {
+    } else if (path.indexOf('/pm516b') !== -1) {
       document.documentElement.classList.add('PM516B');
     }
   }
