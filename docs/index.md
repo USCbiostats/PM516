@@ -15,11 +15,11 @@ Students will learn how to:
 
 This website serves as the central resource for both courses in the sequence.
 
-**PM516A - Consulting Foundations**
+[PM516A - Consulting Foundations](PM516A/index.md)
 
 Focuses on communication, analytic judgment, structured role-play, and iterative consultation practice. Students work in small groups with a real investigator and build toward a professional final presentation.
 
-**PM516B - Consulting Practicum**
+[PM516B - Consulting Practicum](PM516B/index.md)
 
 Provides an independent consulting experience in which each student works directly with a research investigator on an authentic analysis project under faculty supervision.
 

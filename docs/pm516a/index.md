@@ -11,20 +11,22 @@ Students will engage in structured consultation exercises and work in small grou
 
 ## Course Emphasis
 
-Throughout the semester, students will:
+The primary goals of PM516A are:
 
 - Practice conducting structured consultations  
 - Translate research questions into defensible analysis plans  
-- Perform disciplined initial data analysis  
+- Perform comprehensive initial data analysis  
 - Identify common statistical pitfalls  
 - Communicate results clearly to non-statisticians  
 - Reflect on professional identity and ethical responsibility  
 
-The course culminates in a formal presentation to the investigator.
+The course culminates in a formal team presentation to the investigator.
 
 ---
 
 ## Course Structure
+
+Weekly activities will consist of the following:
 
 - Weekly readings and short preparatory exercises  
 - In-class role-play and applied discussion  
@@ -32,11 +34,9 @@ The course culminates in a formal presentation to the investigator.
 - Structured workshops and reflection  
 - Final professional presentation  
 
-Please begin by reviewing the **Syllabus** and **Weekly Content** pages.
-
 ---
 
 ## Key Pages
 
-- [Syllabus](syllabus.md)
-- [Weekly Content](content.md)
+- [Syllabus](syllabus.md) - Overall class policies and procedures, including grading.
+- [Weekly Content](content.md) - Weekly preparatory and in-class activities.

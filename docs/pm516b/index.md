@@ -2,23 +2,23 @@
 
 ## Overview
 
-PM516B provides an independent, client-facing consulting experience.  
-Students work one-on-one with a research investigator on an authentic data analysis project under faculty supervision.
+PM516B serves as a biostatistical consulting practicum.
+This practicum builds on the foundations developed in PM516A and mirrors a professional consulting engagement, from initial meeting through final report and presentation.
 
-This practicum builds on the foundations developed in PM516A and mirrors a professional consulting engagement from initial meeting through final report and presentation.
+Students will work independently with a research investigator on a real data analysis project under faculty supervision.
 
 ---
 
 ## Course Emphasis
 
-Students will:
+The primary goals of PM516B are:
 
 - Conduct and document an initial consultation  
 - Define project scope and analytic strategy  
 - Perform statistical analyses independently  
 - Communicate findings clearly in written and oral formats  
 - Navigate professional and ethical responsibilities  
-- Deliver a final report and presentation to the investigator  
+- Deliver a final report and meeting to the investigator  
 
 Each student is expected to devote approximately 40 hours to the consulting engagement.
 
@@ -26,18 +26,18 @@ Each student is expected to devote approximately 40 hours to the consulting enga
 
 ## Course Structure
 
-- Required compliance training (CITI, HIPAA, etc.)  
-- Initial meeting and follow-up scope documentation  
-- Interim check-ins with instructor  
-- Final written analysis report  
-- Professional presentation to the client  
-- Client feedback and hour documentation  
+Activities will consist of the following:
 
-Please begin by reviewing the **Syllabus** and **Timeline & Deliverables** pages.
+- IRB foundations and required compliance training (human subjects, HIPAA, etc.)  
+- Initial meeting and follow-up scope documentation  
+- Interim check-ins with instructor
+- Final written analysis report
+- Professional meeting/discussion with the client
+- Client feedback
 
 ---
 
 ## Key Pages
 
-- [Syllabus](syllabus.md)
-- [Timeline & Deliverables](content.md)
+- [Syllabus](syllabus.md) - Overall class policies and procedures, including grading.
+- [Timeline & Deliverables](content.md) - Milestones and deliverables.

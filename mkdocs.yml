@@ -79,13 +79,15 @@ extra_css:
 nav:
   - Home: index.md
   - PM516A:
-    - Overview: pm516a/index.md
-    - Syllabus: pm516a/syllabus.md
-    - Weekly Content: pm516a/content.md
+    - Overview: PM516A/index.md
+    - Syllabus: PM516A/syllabus.md
+    - Weekly Content: PM516A/content.md
+    - Past Projects: PM516A/projects.md
   - PM516B:
-    - Overview: pm516b/index.md
-    - Syllabus: pm516b/syllabus.md
-    - Timeline: pm516b/content.md
+    - Overview: PM516B/index.md
+    - Syllabus: PM516B/syllabus.md
+    - Timeline: PM516B/content.md
+    - Past Projects: PM516B/projects.md
   # - Research:
   #   - "A paper": research/a-paper.md
   # - Software:
