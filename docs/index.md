@@ -3,7 +3,6 @@ theme:
   palette:
     primary: indigo
 ---
-
 # PM516: Biostatistical Consulting
 
 ## Welcome!
