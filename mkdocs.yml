@@ -3,22 +3,16 @@ site_description: Consulting Foundations (A) and Practicum (B)
 site_author: Trevor Pickering
 # site_url: [link]
 
-theme: 
+theme:
   name: material
-  language: en
-  features:
-    - navigation.tracking
-    - navigation.top
-    - navigation.tabs
-    - navigation.tabs.sticky
-  palette: 
-    # Palette toggle for light mode
+  palette:
     - scheme: default
+      primary: indigo
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - scheme: slate
+      primary: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
