@@ -3,6 +3,24 @@ theme:
   palette:
     primary: blue
 ---
+
+<style>
+:root {
+  /* override the theme primary color *for this page only* */
+  --md-primary-fg-color: #1f3c88; /* your exact hex */
+}
+.md-header,
+.md-header__inner,
+.md-top,
+.md-top-nav,
+.md-tabs {
+  background-color: var(--md-primary-fg-color) !important;
+  color: #ffffff !important;
+}
+.md-header, .md-header * { color: #ffffff !important; }
+.md-header svg { fill: currentColor !important; stroke: currentColor !important; }
+</style>
+
 # PM516A — Consulting Foundations
 
 ## Overview
