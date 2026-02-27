@@ -92,10 +92,8 @@ html:not(.pm516a):not(.pm516b):not(.pm516home) .md-tabs {
   color: var(--md-default-text) !important;
 }
 
-[data-color-primary="blue"] {
-  --md-primary-fg-color: #1f3c88;
-}
+html[data-color-primary*="blue"] .md-header,
+html.pm516a .md-header { background-color:#1f3c88 !important; color:white !important; }
+html[data-color-primary*="deep purple"] .md-header,
+html.pm516b .md-header { background-color:#4b2e83 !important; color:white !important; }
 
-[data-color-primary="deep purple"] {
-  --md-primary-fg-color: #4b2e83;
-}
