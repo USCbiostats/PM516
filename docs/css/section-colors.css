@@ -1,127 +1,93 @@
-/* docs/css/section-colors.css
-   Robust, fully-scoped header/tab coloring for PM516 site.
-   - Matches data-md-color-primary on html OR body.
-   - Uses substring matching so "deep purple" or variants are handled.
-   - Does not recolor sidebars / content surfaces (keeps theme defaults).
-   - Includes a safety rule for pages without the attribute.
-   - Includes small dark-mode adjustments.
+/* section-colors.css
+   Class-scoped header colors for PM516 site.
+   Requires section-color.js to add html.pm516a / pm516b / pm516home.
 */
 
-/* -------------------- Home: Slate Indigo -------------------- */
-html[data-md-color-primary*="indigo"] .md-header,
-body[data-md-color-primary*="indigo"] .md-header,
-html[data-md-color-primary*="indigo"] .md-top-nav,
-body[data-md-color-primary*="indigo"] .md-top-nav,
-html[data-md-color-primary*="indigo"] .md-tabs,
-body[data-md-color-primary*="indigo"] .md-tabs {
-  --md-primary-fg-color: #1f2a44 !important; /* slate indigo */
-  background-color: var(--md-primary-fg-color) !important;
+/* ---------------- PM516 HOME (slate indigo) ---------------- */
+html.pm516home .md-header,
+html.pm516home .md-header__inner,
+html.pm516home .md-top,
+html.pm516home .md-top-nav,
+html.pm516home .md-tabs,
+html.pm516home .md-tabs__list,
+html.pm516home .md-tabs__link {
+  background-color: #1f2a44 !important; /* slate indigo */
   color: white !important;
 }
 
-/* hover / active tweaks (top nav links) */
-html[data-md-color-primary*="indigo"] .md-top-nav__inner .md-nav__link--active,
-body[data-md-color-primary*="indigo"] .md-top-nav__inner .md-nav__link--active,
-html[data-md-color-primary*="indigo"] .md-tabs__link--active,
-body[data-md-color-primary*="indigo"] .md-tabs__link--active {
-  color: #c5cae9 !important;
-}
-
-/* -------------------- PM516A: Slate Royal Blue -------------------- */
-html[data-md-color-primary*="blue"] .md-header,
-body[data-md-color-primary*="blue"] .md-header,
-html[data-md-color-primary*="blue"] .md-top-nav,
-body[data-md-color-primary*="blue"] .md-top-nav,
-html[data-md-color-primary*="blue"] .md-tabs,
-body[data-md-color-primary*="blue"] .md-tabs {
-  --md-primary-fg-color: #1f3c88 !important; /* slate royal blue */
-  background-color: var(--md-primary-fg-color) !important;
+/* Force header elements to white (light & dark mode) */
+html.pm516home .md-header,
+html.pm516home .md-header * {
   color: white !important;
 }
 
-html[data-md-color-primary*="blue"] .md-top-nav__inner .md-nav__link--active,
-body[data-md-color-primary*="blue"] .md-top-nav__inner .md-nav__link--active,
-html[data-md-color-primary*="blue"] .md-tabs__link--active,
-body[data-md-color-primary*="blue"] .md-tabs__link--active {
-  color: #cbd7f7 !important;
+/* ---------------- PM516A (slate royal blue) ---------------- */
+html.pm516a .md-header,
+html.pm516a .md-header__inner,
+html.pm516a .md-top,
+html.pm516a .md-top-nav,
+html.pm516a .md-tabs,
+html.pm516a .md-tabs__list,
+html.pm516a .md-tabs__link {
+  background-color: #1f3c88 !important; /* slate royal blue */
+  color: white !important;
 }
-
-/* -------------------- PM516B: Slate Royal Purple -------------------- */
-/* substring-match both "deep" and "purple" to be robust */
-html[data-md-color-primary*="deep"] .md-header,
-body[data-md-color-primary*="deep"] .md-header,
-html[data-md-color-primary*="purple"] .md-header,
-body[data-md-color-primary*="purple"] .md-header,
-html[data-md-color-primary*="deep"] .md-top-nav,
-body[data-md-color-primary*="deep"] .md-top-nav,
-html[data-md-color-primary*="purple"] .md-top-nav,
-body[data-md-color-primary*="purple"] .md-top-nav,
-html[data-md-color-primary*="deep"] .md-tabs,
-body[data-md-color-primary*="deep"] .md-tabs,
-html[data-md-color-primary*="purple"] .md-tabs,
-body[data-md-color-primary*="purple"] .md-tabs {
-  --md-primary-fg-color: #4b2e83 !important; /* slate royal purple */
-  background-color: var(--md-primary-fg-color) !important;
+html.pm516a .md-header,
+html.pm516a .md-header * {
   color: white !important;
 }
 
-html[data-md-color-primary*="deep"] .md-top-nav__inner .md-nav__link--active,
-body[data-md-color-primary*="deep"] .md-top-nav__inner .md-nav__link--active,
-html[data-md-color-primary*="purple"] .md-top-nav__inner .md-nav__link--active,
-body[data-md-color-primary*="purple"] .md-top-nav__inner .md-nav__link--active,
-html[data-md-color-primary*="deep"] .md-tabs__link--active,
-body[data-md-color-primary*="deep"] .md-tabs__link--active,
-html[data-md-color-primary*="purple"] .md-tabs__link--active,
-body[data-md-color-primary*="purple"] .md-tabs__link--active {
-  color: #d7cfe8 !important;
+/* ---------------- PM516B (slate royal purple) ---------------- */
+html.pm516b .md-header,
+html.pm516b .md-header__inner,
+html.pm516b .md-top,
+html.pm516b .md-top-nav,
+html.pm516b .md-tabs,
+html.pm516b .md-tabs__list,
+html.pm516b .md-tabs__link {
+  background-color: #4b2e83 !important; /* slate royal purple */
+  color: white !important;
+}
+html.pm516b .md-header,
+html.pm516b .md-header * {
+  color: white !important;
 }
 
-/* -------------------- Ensure sidebars / content use theme defaults -------------------- */
-html[data-md-color-primary*="indigo"] .md-sidebar,
-body[data-md-color-primary*="indigo"] .md-sidebar,
-html[data-md-color-primary*="blue"] .md-sidebar,
-body[data-md-color-primary*="blue"] .md-sidebar,
-html[data-md-color-primary*="deep"] .md-sidebar,
-body[data-md-color-primary*="deep"] .md-sidebar,
-html[data-md-color-primary*="purple"] .md-sidebar,
-body[data-md-color-primary*="purple"] .md-sidebar {
+/* ---------------- Keep sidebars and content using theme defaults ---------------- */
+html.pm516a .md-sidebar,
+html.pm516a .md-nav,
+html.pm516a .md-main__inner,
+html.pm516a .md-content,
+html.pm516b .md-sidebar,
+html.pm516b .md-nav,
+html.pm516b .md-main__inner,
+html.pm516b .md-content,
+html.pm516home .md-sidebar,
+html.pm516home .md-nav,
+html.pm516home .md-main__inner,
+html.pm516home .md-content {
   background-color: var(--md-default-background) !important;
   color: var(--md-default-text) !important;
 }
 
-/* -------------------- Safety: pages without data-md-color-primary -------------------- */
-html:not([data-md-color-primary]) .md-header,
-body:not([data-md-color-primary]) .md-header,
-html:not([data-md-color-primary]) .md-top-nav,
-body:not([data-md-color-primary]) .md-top-nav,
-html:not([data-md-color-primary]) .md-tabs,
-body:not([data-md-color-primary]) .md-tabs {
-  /* Use the theme's default primary/background variables */
+/* ---------------- Small hover/active tweaks (scoped) ---------------- */
+html.pm516a .md-tabs__link--active,
+html.pm516a .md-top-nav__inner .md-nav__link--active {
+  color: #cbd7f7 !important;
+}
+html.pm516b .md-tabs__link--active,
+html.pm516b .md-top-nav__inner .md-nav__link--active {
+  color: #d7cfe8 !important;
+}
+html.pm516home .md-tabs__link--active,
+html.pm516home .md-top-nav__inner .md-nav__link--active {
+  color: #c5cae9 !important;
+}
+
+/* ---------------- Safety default: if no pm516* class present, use theme defaults */
+html:not(.pm516a):not(.pm516b):not(.pm516home) .md-header,
+html:not(.pm516a):not(.pm516b):not(.pm516home) .md-top-nav,
+html:not(.pm516a):not(.pm516b):not(.pm516home) .md-tabs {
   background-color: var(--md-primary-fg-color) !important;
   color: var(--md-default-text) !important;
-}
-
-/* -------------------- Dark-mode (slate) adjustments -------------------- */
-/* Slightly adjust brightness in dark mode to keep good contrast */
-.md-color-scheme--slate html[data-md-color-primary*="indigo"] .md-header,
-.md-color-scheme--slate body[data-md-color-primary*="indigo"] .md-header {
-  --md-primary-fg-color: #283593 !important;
-}
-.md-color-scheme--slate html[data-md-color-primary*="blue"] .md-header,
-.md-color-scheme--slate body[data-md-color-primary*="blue"] .md-header {
-  --md-primary-fg-color: #25409e !important;
-}
-.md-color-scheme--slate html[data-md-color-primary*="deep"] .md-header,
-.md-color-scheme--slate body[data-md-color-primary*="deep"] .md-header,
-.md-color-scheme--slate html[data-md-color-primary*="purple"] .md-header,
-.md-color-scheme--slate body[data-md-color-primary*="purple"] .md-header {
-  --md-primary-fg-color: #3c2470 !important;
-}
-
-/* -------------------- Minor polishing -------------------- */
-/* Keep sticky/tab backgrounds solid (avoid backdrop quirks) */
-.md-tabs,
-.md-top-nav {
-  background-clip: padding-box !important;
-  -webkit-backdrop-filter: none !important;
 }
