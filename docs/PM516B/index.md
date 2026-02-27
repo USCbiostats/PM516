@@ -1,3 +1,9 @@
+---
+theme:
+  palette:
+    primary: deep purple
+---
+
 # PM516B — Consulting Practicum
 
 ## Overview
