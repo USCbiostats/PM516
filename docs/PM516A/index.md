@@ -3,7 +3,6 @@ theme:
   palette:
     primary: blue
 ---
-
 # PM516A — Consulting Foundations
 
 ## Overview
