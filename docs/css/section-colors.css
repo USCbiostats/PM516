@@ -1,47 +1,14 @@
-/* ===================== PM516 HOME ===================== */
-/* Slate Indigo */
-
-html.PM516home .md-header,
-html.PM516home .md-header__inner,
-html.PM516home .md-top,
-html.PM516home .md-top-nav,
-html.PM516home .md-top-nav__inner,
-html.PM516home .md-tabs {
-  background-color: #1f2a44 !important; /* slate indigo */
-  color: white !important;
+/* Slate Indigo (Home) */
+.md-color-primary-indigo {
+  --md-primary-fg-color: #1f2a44;
 }
 
-/* ===================== PM516A ===================== */
-/* Slate Royal Blue */
-
-html.PM516A .md-header,
-html.PM516A .md-header__inner,
-html.PM516A .md-top,
-html.PM516A .md-top-nav,
-html.PM516A .md-top-nav__inner,
-html.PM516A .md-tabs {
-  background-color: #1f3c88 !important; /* slate royal blue */
-  color: white !important;
+/* Slate Royal Blue (PM516A) */
+.md-color-primary-blue {
+  --md-primary-fg-color: #1f3c88;
 }
 
-/* ===================== PM516B ===================== */
-/* Slate Royal Purple */
-
-html.PM516B .md-header,
-html.PM516B .md-header__inner,
-html.PM516B .md-top,
-html.PM516B .md-top-nav,
-html.PM516B .md-top-nav__inner,
-html.PM516B .md-tabs {
-  background-color: #4b2e83 !important; /* slate royal purple */
-  color: white !important;
-}
-
-/* ===================== RESET NON-SECTIONS ===================== */
-
-html:not(.PM516home):not(.PM516A):not(.PM516B) .md-header,
-html:not(.PM516home):not(.PM516A):not(.PM516B) .md-top,
-html:not(.PM516home):not(.PM516A):not(.PM516B) .md-tabs {
-  background-color: var(--md-primary-fg-color) !important;
-  color: white !important;
+/* Slate Royal Purple (PM516B) */
+.md-color-primary-deep-purple {
+  --md-primary-fg-color: #4b2e83;
 }
