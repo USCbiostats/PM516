@@ -1,7 +1,7 @@
 ---
 theme:
   palette:
-    primary: deep purple
+    primary: "deep purple"
 ---
 # PM516B — Consulting Practicum
 
