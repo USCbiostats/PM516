@@ -1,21 +1,27 @@
-# Red Flag Review - Scenario 2
+# Red Flag Review – Scenario 2
 
 ## Background
 
-Dr. Ho was studying ways to improve college students' help-seeking attitudes. He disseminated a survey to ask about participants' attitudes toward seeking help (a 5-point scale) for a mental health concern.
+Dr. Ho was studying ways to improve college students' help-seeking attitudes for mental health concerns. He recruited undergraduate students through a web service.
 
-Then, he showed participants a short, informative intervention message. Afterward, participants were asked again about attitudes toward seeking help. 
+Participants first completed a survey assessing their attitudes toward seeking professional help for a mental health concern using a 5-point Likert scale (1 = Extremely Unlikely to 5 = Extremely Likely).
 
-A total of 719 participants completed the survey.
+Immediately after completing the baseline survey, participants viewed a brief, 3-minute informational intervention message emphasizing the importance of seeking help and reducing stigma around mental health treatment.
+
+Following the message, participants were asked to complete the same help-seeking attitude measure again.
+
+A total of 719 participants completed both the pre- and post-intervention surveys during a single online session.
 
 ## Statistical Approach
 
-Dr. Ho conducted a paired t-test on the data. 
+Dr. Ho calculated the mean help-seeking score before and after viewing the message. He conducted a paired t-test to compare pre- and post-intervention scores.
 
 ## Findings
 
-His team concluded that the brief message intervention significantly increased attituded toward seeking help.
+The mean help-seeking score increased from 3.42 (SD = 0.88) at baseline to 3.55 (SD = 0.90) post-intervention. The paired t-test indicated that this difference was statistically significant (p < 0.001).
 
-Figure. Mean help-seeking score for responses before (light gray) and after (dark gray) viewing the message.
+Dr. Ho and his team concluded that the brief message intervention significantly increased college students’ attitudes toward seeking help for mental health concerns.
+
+Figure. Mean help-seeking score before (light gray) and after (dark gray) viewing the message, with 95% confidence intervals.
 
 ![Help-Seeking Pre Post](figures/pnf_change.png)
