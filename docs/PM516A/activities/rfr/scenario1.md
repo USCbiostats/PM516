@@ -14,3 +14,4 @@ His team concluded the injections reduced pain; all p's were <0.0001.
 
 Figure. Mean change in NRS score at each time point, with 95% confidence intervals.
 
+![NRS Change by Month](files/nrs_pain.png)
