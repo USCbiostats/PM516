@@ -1,0 +1,16 @@
+# Red Flag Review - Scenario 1
+
+## Background
+
+Dr. Tekenster was studying the effectiveness of administering an epidrual steroid injection to treat back pain. Patients were asked to use the [Numeric Rating Scale](https://www.physio-pedia.com/Numeric_Pain_Rating_Scale) to rate their typical level of back pain. Then, they were administered the injection. The study team contacted them monthly to ask them about their pain ratings up to 6 months post-injection, and again at 9 and 12 months.
+
+## Statistical Approach
+
+The team calculated the difference in the NRS score as (baseline value - follow-up value). At each month, they conducted the Wilcoxon signed-rank test.
+
+## Findings
+
+His team concluded the injections reduced pain; all p's were <0.0001.
+
+Figure. Mean change in NRS score at each time point, with 95% confidence intervals.
+
